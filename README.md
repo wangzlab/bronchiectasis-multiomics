@@ -1,2 +1,2 @@
 # bronchiectasis-multiomics
-This repository contains the data and codes for the analysis of sputum metagenomes, metatranscriptomes, and metabolomes from bronchiectasis patients and healthy participants.
+This repository contains the data and codes for the main analyses and figures in the manuscript 'Commensal driven airway ecology reveals a new infection paradigm in bronchiectasis'.
