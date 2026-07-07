@@ -31,4 +31,6 @@ Input: bacterial_species_code.txt, ko_noeukaryotes.txt, all_gene_depth.txt
 Output: all_gene_depth_$sp.txt (excluding each species)
 
 7. Random forest prediction of multi-omic links to BSI within each subgroup.
-Script: 
+Script: 7_rf_BSI.r
+Input: prediction_metab.txt, prediction_metat.txt
+Output: rf_BSI.csv
