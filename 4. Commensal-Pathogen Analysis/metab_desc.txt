@@ -1,0 +1,236 @@
+darkorchid4	M112	Phenylpropanoids and polyketides and Organoheterocyclic compounds and Organic acids
+violetred4	M015	Benzenoids and Phenylpropanoids and polyketides and Alkaloids
+lightblue1	M018	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Alkaloids
+peru	M235	Phenylpropanoids and polyketides and Carbohydrates and Amino acids, peptides, and analogues
+purple2	M056	Lipids and lipid-like molecules and Organic acids and Nucleosides, nucleotides, and analogues
+red3	M078	Amino acids, peptides, and analogues and Alkaloids and Carbohydrates
+goldenrod1	M013	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Terpenoids
+honeydew	M226	Lipids and lipid-like molecules and Terpenoids and Carbohydrates
+indianred3	M186	Lipids and lipid-like molecules and Alkaloids and Carbohydrates
+rosybrown1	M202	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Alkaloids
+khaki	M182	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and 
+darkseagreen3	M051	Lipids and lipid-like molecules and Others and Phenylpropanoids and polyketides
+cyan	M050	Lipids and lipid-like molecules and Organoheterocyclic compounds and Others
+salmon4	M207	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues
+bisque3	M146	Amino acids, peptides, and analogues and Organic acids and 
+burlywood4	M131	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and 
+darkorange	M048	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+antiquewhite4	M087	Phenylpropanoids and polyketides and Benzenoids and Amino acids, peptides, and analogues
+khaki2	M060	Amino acids, peptides, and analogues and Organic acids and 
+peachpuff4	M014	Amino acids, peptides, and analogues and Terpenoids and Organoheterocyclic compounds
+chocolate	M054	Lipids and lipid-like molecules and Terpenoids and Organoheterocyclic compounds
+moccasin	M145	Amino acids, peptides, and analogues and Organoheterocyclic compounds and Alkaloids
+magenta2	M049	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Alkaloids
+peachpuff2	M021	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Carbohydrates
+lightskyblue3	M099	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+whitesmoke	M232	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Benzenoids
+maroon	M006	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Others
+mediumpurple2	M116	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Carbohydrates
+tan2	M163	Amino acids, peptides, and analogues and Others and Phenylpropanoids and polyketides
+violetred	M039	Organoheterocyclic compounds and Terpenoids and 
+deepskyblue	M082	Lipids and lipid-like molecules and Organic acids and Amino acids, peptides, and analogues
+cornsilk2	M029	Organoheterocyclic compounds and Amino acids, peptides, and analogues and Phenylpropanoids and polyketides
+mediumpurple4	M168	Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues and Others
+honeydew1	M162	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Others
+brown4	M219	Lipids and lipid-like molecules and Carbohydrates and Amino acids, peptides, and analogues
+deeppink1	M211	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Benzenoids
+coral1	M107	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Amino acids, peptides, and analogues
+purple	M122	Lipids and lipid-like molecules and Alkaloids and Amino acids, peptides, and analogues
+dodgerblue3	M115	Phenylpropanoids and polyketides and Others and Lipids and lipid-like molecules
+mistyrose	M023	Amino acids, peptides, and analogues and Nucleosides, nucleotides, and analogues and Benzenoids
+tan4	M140	Alkaloids and Nucleosides, nucleotides, and analogues and Others
+seashell3	M148	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Carbohydrates
+blanchedalmond	M164	Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues and Indole and derivatives
+olivedrab2	M090	Alkaloids and Organoheterocyclic compounds and 
+steelblue	M158	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Amino acids, peptides, and analogues
+aquamarine1	M041	Lipids and lipid-like molecules and Terpenoids and 
+red1	M081	Amino acids, peptides, and analogues and Others and Phenylpropanoids and polyketides
+lemonchiffon2	M019	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Indole and derivatives
+cyan3	M089	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Alkaloids
+tomato4	M037	Lipids and lipid-like molecules and Terpenoids and Carbohydrates
+snow2	M055	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Alkaloids
+mistyrose1	M100	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Carbohydrates
+lightblue4	M105	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Others
+pink3	M043	Lipids and lipid-like molecules and Others and Carbohydrates
+lavenderblush2	M027	Carbohydrates and Benzenoids and Phenylpropanoids and polyketides
+darkolivegreen	M221	Lipids and lipid-like molecules and Organic acids and Phenylpropanoids and polyketides
+salmon	M205	Phenylpropanoids and polyketides and Nucleosides, nucleotides, and analogues and Lipids and lipid-like molecules
+magenta1	M026	Others and Amino acids, peptides, and analogues and Lipids and lipid-like molecules
+orange3	M053	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and 
+lightpink2	M035	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Organoheterocyclic compounds
+lightblue	M074	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Organoheterocyclic compounds
+oldlace	M121	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Carbohydrates
+lightslateblue	M002	Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+lightgoldenrod1	M150	Organoheterocyclic compounds and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+yellow3	M177	Lipids and lipid-like molecules and Carbohydrates and Phenylpropanoids and polyketides
+lightgoldenrod2	M068	Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+darkorchid3	M198	Lipids and lipid-like molecules and Alkaloids and Organoheterocyclic compounds
+lightyellow3	M227	Organic acids and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+cyan4	M096	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+chocolate3	M024	Lipids and lipid-like molecules and Benzenoids and Amino acids, peptides, and analogues
+hotpink4	M234	Carbohydrates and Organic acids and Phenylpropanoids and polyketides
+mediumorchid3	M092	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Terpenoids
+hotpink3	M172	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+forestgreen	M166	Amino acids, peptides, and analogues and Carbohydrates and Benzenoids
+mediumpurple	M218	Lipids and lipid-like molecules and Benzenoids and Organoheterocyclic compounds
+lightpink	M109	Amino acids, peptides, and analogues and Organic acids and Lipids and lipid-like molecules
+mediumaquamarine	M223	Lipids and lipid-like molecules and Others and 
+darkcyan	M063	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Carbohydrates
+goldenrod3	M125	Amino acids, peptides, and analogues and  and 
+mediumvioletred	M181	Phenylpropanoids and polyketides and Alkaloids and Carbohydrates
+turquoise4	M230	Phenylpropanoids and polyketides and Carbohydrates and 
+firebrick1	M147	Nucleosides, nucleotides, and analogues and Carbohydrates and 
+red4	M017	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Organoheterocyclic compounds
+lightsteelblue	M201	Lipids and lipid-like molecules and Organoheterocyclic compounds and Benzenoids
+coral3	M233	Lipids and lipid-like molecules and Organic acids and Benzenoids
+tomato	M065	Amino acids, peptides, and analogues and Alkaloids and Phenylpropanoids and polyketides
+lightyellow	M217	Lipids and lipid-like molecules and Organoheterocyclic compounds and Organic acids
+olivedrab4	M106	Amino acids, peptides, and analogues and Alkaloids and Benzenoids
+antiquewhite2	M077	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Organoheterocyclic compounds
+darkgreen	M044	Lipids and lipid-like molecules and Organoheterocyclic compounds and Nucleosides, nucleotides, and analogues
+chartreuse3	M062	Alkaloids and Lipids and lipid-like molecules and Indole and derivatives
+deepskyblue4	M001	Benzenoids and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+mediumorchid1	M083	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Carbohydrates
+blue4	M199	Others and Lipids and lipid-like molecules and Benzenoids
+lavenderblush	M058	Lipids and lipid-like molecules and Organoheterocyclic compounds and Carbohydrates
+lightskyblue	M075	Amino acids, peptides, and analogues and Benzenoids and 
+burlywood1	M178	Amino acids, peptides, and analogues and Organoheterocyclic compounds and 
+tan1	M209	Nucleosides, nucleotides, and analogues and Phenylpropanoids and polyketides and Others
+cyan1	M111	Phenylpropanoids and polyketides and Amino acids, peptides, and analogues and Terpenoids
+green3	M045	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Others
+royalblue4	M154	Nucleosides, nucleotides, and analogues and Indole and derivatives and 
+plum4	M103	Amino acids, peptides, and analogues and Benzenoids and Others
+lightgreen	M108	Amino acids, peptides, and analogues and Organoheterocyclic compounds and Benzenoids
+violetred3	M193	Nucleosides, nucleotides, and analogues and Alkaloids and Lipids and lipid-like molecules
+lightskyblue1	M141	Phenylpropanoids and polyketides and Carbohydrates and Organic acids
+chocolate1	M066	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+lightskyblue4	M118	Organic acids and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+plum2	M025	Phenylpropanoids and polyketides and Nucleosides, nucleotides, and analogues and Lipids and lipid-like molecules
+indianred1	M229	Lipids and lipid-like molecules and Organoheterocyclic compounds and Organic acids
+seashell4	M114	Organic acids and Phenylpropanoids and polyketides and Alkaloids
+mediumblue	M135	Amino acids, peptides, and analogues and Organoheterocyclic compounds and 
+deepskyblue3	M012	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and 
+orange1	M188	Amino acids, peptides, and analogues and Alkaloids and Carbohydrates
+lightsteelblue1	M032	Amino acids, peptides, and analogues and Organoheterocyclic compounds and Lipids and lipid-like molecules
+burlywood3	M040	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Carbohydrates
+navajowhite2	M042	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Phenylpropanoids and polyketides
+mediumorchid	M036	Lipids and lipid-like molecules and Carbohydrates and Phenylpropanoids and polyketides
+dodgerblue	M155	Phenylpropanoids and polyketides and Benzenoids and Amino acids, peptides, and analogues
+green	M200	Carbohydrates and Lipids and lipid-like molecules and Amino acids, peptides, and analogues
+lightpink1	M144	Indole and derivatives and Amino acids, peptides, and analogues and Others
+orchid	M225	Lipids and lipid-like molecules and Others and Phenylpropanoids and polyketides
+burlywood	M022	Phenylpropanoids and polyketides and Amino acids, peptides, and analogues and Lipids and lipid-like molecules
+peachpuff3	M086	Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues and Others
+orangered	M224	Lipids and lipid-like molecules and Benzenoids and Amino acids, peptides, and analogues
+palevioletred	M030	Phenylpropanoids and polyketides and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+sienna4	M138	Amino acids, peptides, and analogues and Organoheterocyclic compounds and Carbohydrates
+mediumorchid4	M153	Organoheterocyclic compounds and Carbohydrates and Lipids and lipid-like molecules
+antiquewhite3	M120	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Amino acids, peptides, and analogues
+ivory	M167	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+lavenderblush3	M059	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Others
+brown2	M033	Amino acids, peptides, and analogues and Benzenoids and Lipids and lipid-like molecules
+orangered2	M093	Lipids and lipid-like molecules and  and 
+thistle4	M156	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Amino acids, peptides, and analogues
+grey60	M191	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Terpenoids
+lightpink4	M020	Phenylpropanoids and polyketides and Alkaloids and Carbohydrates
+antiquewhite1	M129	Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+darkmagenta	M208	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Terpenoids
+darksalmon	M212	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and 
+mistyrose4	M142	Nucleosides, nucleotides, and analogues and Phenylpropanoids and polyketides and Amino acids, peptides, and analogues
+black	M222	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Carbohydrates
+hotpink1	M085	Amino acids, peptides, and analogues and Alkaloids and 
+firebrick3	M134	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Terpenoids
+mediumpurple1	M009	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Terpenoids
+chocolate2	M189	Lipids and lipid-like molecules and Organic acids and Amino acids, peptides, and analogues
+seashell1	M094	Organic acids and Organoheterocyclic compounds and 
+indianred2	M157	Alkaloids and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+darkgoldenrod3	M183	Organic acids and Lipids and lipid-like molecules and Organoheterocyclic compounds
+skyblue4	M061	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Organic acids
+mistyrose2	M046	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+orange4	M231	Lipids and lipid-like molecules and Alkaloids and Organic acids
+lavender	M176	Phenylpropanoids and polyketides and Benzenoids and Organic acids
+darkseagreen	M149	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and 
+darkseagreen2	M151	Carbohydrates and Benzenoids and Amino acids, peptides, and analogues
+indianred4	M175	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Organic acids
+springgreen3	M169	Nucleosides, nucleotides, and analogues and Others and Alkaloids
+darkblue	M119	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and 
+darkturquoise	M179	Lipids and lipid-like molecules and Organoheterocyclic compounds and Phenylpropanoids and polyketides
+dodgerblue4	M173	Nucleosides, nucleotides, and analogues and Organoheterocyclic compounds and Phenylpropanoids and polyketides
+royalblue	M069	Amino acids, peptides, and analogues and Alkaloids and Organoheterocyclic compounds
+deeppink2	M192	Benzenoids and Organic acids and Alkaloids
+sienna2	M130	Nucleosides, nucleotides, and analogues and Carbohydrates and Amino acids, peptides, and analogues
+rosybrown4	M080	Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues and Phenylpropanoids and polyketides
+bisque4	M102	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Others
+lightpink3	M067	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+thistle	M194	Terpenoids and Amino acids, peptides, and analogues and Others
+lightseagreen	M216	Lipids and lipid-like molecules and  and 
+Module		Class and  and 
+brown3	M139	Lipids and lipid-like molecules and Terpenoids and Nucleosides, nucleotides, and analogues
+lightblue2	M034	Phenylpropanoids and polyketides and Organoheterocyclic compounds and Alkaloids
+darkgoldenrod1	M206	Nucleosides, nucleotides, and analogues and Organic acids and Others
+slateblue3	M174	Organoheterocyclic compounds and Benzenoids and Phenylpropanoids and polyketides
+dodgerblue1	M072	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Phenylpropanoids and polyketides
+greenyellow	M215	Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+navajowhite4	M210	Organic acids and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+slateblue4	M203	Phenylpropanoids and polyketides and Alkaloids and Lipids and lipid-like molecules
+palevioletred1	M038	Amino acids, peptides, and analogues and Others and Lipids and lipid-like molecules
+skyblue	M095	Lipids and lipid-like molecules and Alkaloids and Benzenoids
+lightcyan1	M127	Lipids and lipid-like molecules and Organoheterocyclic compounds and Organic acids
+plum3	M171	Amino acids, peptides, and analogues and Others and Phenylpropanoids and polyketides
+chocolate4	M003	Lipids and lipid-like molecules and Others and Phenylpropanoids and polyketides
+tan3	M031	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+paleturquoise	M070	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Alkaloids
+skyblue3	M028	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Others
+lightblue3	M133	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Alkaloids
+darkorange2	M047	Lipids and lipid-like molecules and Alkaloids and Organic acids
+darkred	M123	Phenylpropanoids and polyketides and Organic acids and Amino acids, peptides, and analogues
+white	M196	Nucleosides, nucleotides, and analogues and Others and Amino acids, peptides, and analogues
+cornflowerblue	M190	Lipids and lipid-like molecules and Organoheterocyclic compounds and Carbohydrates
+lemonchiffon3	M143	Amino acids, peptides, and analogues and Indole and derivatives and Terpenoids
+firebrick4	M007	Lipids and lipid-like molecules and Others and Terpenoids
+chartreuse4	M214	Organic acids and Alkaloids and Lipids and lipid-like molecules
+lightyellow2	M091	Amino acids, peptides, and analogues and Alkaloids and Terpenoids
+royalblue3	M161	Amino acids, peptides, and analogues and Others and Organoheterocyclic compounds
+lightyellow4	M098	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Organoheterocyclic compounds
+olivedrab3	M088	Phenylpropanoids and polyketides and Alkaloids and 
+darkorchid1	M185	Carbohydrates and Nucleosides, nucleotides, and analogues and Alkaloids
+khaki3	M220	Phenylpropanoids and polyketides and  and 
+lightsalmon4	M052	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Alkaloids
+orangered1	M213	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Organic acids
+bisque1	M005	Alkaloids and Lipids and lipid-like molecules and Phenylpropanoids and polyketides
+thistle3	M160	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+coral	M124	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Carbohydrates
+lightcoral	M008	Lipids and lipid-like molecules and Organic acids and Amino acids, peptides, and analogues
+darkseagreen4	M195	Organoheterocyclic compounds and Carbohydrates and Nucleosides, nucleotides, and analogues
+lavenderblush1	M097	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Others
+paleturquoise4	M159	Lipids and lipid-like molecules and Organic acids and Indole and derivatives
+mediumorchid2	M137	Phenylpropanoids and polyketides and Lipids and lipid-like molecules and Amino acids, peptides, and analogues
+indianred	M104	Amino acids, peptides, and analogues and Alkaloids and 
+floralwhite	M136	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Carbohydrates
+orangered4	M165	Phenylpropanoids and polyketides and Others and Amino acids, peptides, and analogues
+hotpink2	M126	Lipids and lipid-like molecules and  and 
+bisque	M204	Nucleosides, nucleotides, and analogues and Phenylpropanoids and polyketides and 
+green4	M004	Lipids and lipid-like molecules and Amino acids, peptides, and analogues and Phenylpropanoids and polyketides
+green2	M184	Lipids and lipid-like molecules and Organoheterocyclic compounds and 
+orange2	M110	Indole and derivatives and Carbohydrates and Amino acids, peptides, and analogues
+seashell2	M132	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and Alkaloids
+pink1	M073	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+rosybrown2	M071	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Others
+darkviolet	M079	Amino acids, peptides, and analogues and Nucleosides, nucleotides, and analogues and Carbohydrates
+royalblue2	M197	Nucleosides, nucleotides, and analogues and Phenylpropanoids and polyketides and Organoheterocyclic compounds
+chartreuse2	M011	Lipids and lipid-like molecules and Alkaloids and 
+palegreen1	M084	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Lipids and lipid-like molecules
+coral2	M152	Phenylpropanoids and polyketides and Amino acids, peptides, and analogues and Organoheterocyclic compounds
+navajowhite3	M016	Phenylpropanoids and polyketides and Amino acids, peptides, and analogues and Others
+limegreen	M113	Amino acids, peptides, and analogues and Benzenoids and 
+firebrick	M228	Carbohydrates and Organoheterocyclic compounds and Amino acids, peptides, and analogues
+violetred2	M187	Benzenoids and Lipids and lipid-like molecules and 
+snow	M128	Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues and Benzenoids
+goldenrod4	M064	Lipids and lipid-like molecules and Phenylpropanoids and polyketides and 
+lemonchiffon4	M076	Amino acids, peptides, and analogues and Alkaloids and 
+aliceblue	M170	Lipids and lipid-like molecules and Nucleosides, nucleotides, and analogues and Amino acids, peptides, and analogues
+darkorchid2	M057	Amino acids, peptides, and analogues and Alkaloids and Benzenoids
+blue1	M117	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Organoheterocyclic compounds
+aquamarine	M101	Amino acids, peptides, and analogues and Phenylpropanoids and polyketides and Organoheterocyclic compounds
+tomato2	M010	Lipids and lipid-like molecules and Others and 
+darkseagreen1	M180	Amino acids, peptides, and analogues and Lipids and lipid-like molecules and Carbohydrates
