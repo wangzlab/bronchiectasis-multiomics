@@ -1,0 +1,236 @@
+module	Number	Super.class	Class	Sub.class	Sub.class	Summary
+bisque1	6	Alkaloids	Miscellaneous	Miscellaneous	Miscellaneous	Alkaloids
+red3	5	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+hotpink1	5	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+palegreen1	5	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+darkorchid2	5	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+khaki2	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+mistyrose1	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+cyan4	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+goldenrod3	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+mediumblue	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+lightyellow4	6	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+snow	6	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+hotpink3	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+olivedrab4	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+mediumorchid1	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+lightskyblue	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+limegreen	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+lemonchiffon4	7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+aquamarine	7	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+bisque3	8	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+burlywood1	8	Organic acids and derivatives	Benzodiazepines	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+blanchedalmond	9	Organoheterocyclic compounds	Imidazopyrimidines	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+red1	9	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+indianred	9	Organic acids and derivatives	Alkaloids derived from lysine	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+tan2	10	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+lightpink	10	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+darkseagreen	10	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+blue1	10	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+lightpink2	13	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+plum4	14	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+antiquewhite2	16	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	Miscellaneous	Amino acids, peptides, and analogues
+lavenderblush3	20	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+bisque4	23	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+royalblue	41	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+rosybrown2	60	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues	Amino acids, peptides, and analogues
+khaki3	7	Flavonoids	Flavonoids	Anthocyanidins and anthocyanins	Anthocyanidins and anthocyanins	Flavonoids
+violetred2	6	Benzenoids	Benzene and substituted derivatives	Miscellaneous	Miscellaneous	Benzenoids
+deepskyblue4	8	Benzenoids	Benzene and substituted derivatives	Miscellaneous	Miscellaneous	Benzenoids
+darkorchid1	5	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates
+turquoise4	6	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates
+hotpink4	8	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates	Carbohydrates and carbohydrate conjugates
+lavenderblush2	16	Miscellaneous	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Miscellaneous	Carbohydrates and carbohydrate conjugates
+darkorchid3	6	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters	Fatty acyl thioesters	Lipids and lipid-like molecules
+mediumaquamarine	5	Lipids and lipid-like molecules	Fatty Acyls	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightseagreen	6	Lipids and lipid-like molecules	Fatty Acyls	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+bisque	5	Nucleosides, nucleotides, and analogues	Flavonoids	Flavones	Flavones	Nucleosides, nucleotides, and analogues
+cyan1	7	Phenylpropanoids and polyketides	Flavonoids	Flavonoid glycosides	Flavonoid glycosides	Polyketides
+mistyrose4	10	Phenylpropanoids and polyketides	Flavonoids	Flavonoid glycosides	Flavonoid glycosides	Polyketides
+lightskyblue1	8	Phenylpropanoids and polyketides	Flavonoids	Miscellaneous	Miscellaneous	Polyketides
+coral3	16	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	Glycerophosphoethanolamines	Glycerophospholipids
+tomato2	10	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphates	Glycerophosphoglycerophosphates	Glycerophospholipids
+hotpink2	6	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphoglycerols	Glycerophosphoglycerophosphoglycerols	Glycerophospholipids
+chartreuse2	5	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositol phosphates	Glycerophosphoinositol phosphates	Glycerophospholipids
+grey60	30	Lipids and lipid-like molecules	Glycerophospholipids	Miscellaneous	Miscellaneous	Glycerophospholipids
+orange2	8	Organoheterocyclic compounds	Indoles and derivatives	Miscellaneous	Miscellaneous	Indoles and derivatives
+olivedrab3	6	Phenylpropanoids and polyketides	Alkaloids derived from tyrosine	Isoquinoline alkaloids	Isoquinoline alkaloids	Alkaloids
+burlywood4	5	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+orchid	5	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+aquamarine1	6	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+burlywood3	6	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+darkblue	6	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+seashell2	6	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+oldlace	8	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightblue1	9	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+tomato4	9	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+orange3	9	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightskyblue3	10	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+brown3	10	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+paleturquoise4	10	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lavenderblush	11	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+green3	11	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightblue3	12	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+chocolate4	13	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lavenderblush1	13	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+thistle4	14	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightslateblue	15	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+firebrick3	15	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightsteelblue	18	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+firebrick4	18	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+lightcoral	18	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+mediumorchid	19	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+navajowhite2	21	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+darkorange2	23	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+darkolivegreen	26	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+steelblue	27	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+darkgreen	29	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+cyan	31	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+greenyellow	32	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+green4	32	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+purple	34	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+mediumpurple1	34	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+deeppink1	39	Lipids and lipid-like molecules	Miscellaneous	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+peachpuff2	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lemonchiffon2	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+cyan3	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+snow2	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+forestgreen	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkcyan	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mediumvioletred	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+chartreuse3	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+springgreen3	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightyellow2	5	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+rosybrown1	6	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+peachpuff3	6	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lemonchiffon3	6	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+chartreuse4	6	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+violetred4	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkorchid4	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+peachpuff4	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+seashell3	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+orange1	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+slateblue4	7	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+peru	8	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+dodgerblue3	8	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightblue	8	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+red4	8	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+chocolate1	8	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+deepskyblue	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+tan1	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+burlywood	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkgoldenrod3	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+rosybrown4	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+navajowhite4	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+pink1	9	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+purple2	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+magenta1	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+indianred1	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mediumorchid4	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+chocolate2	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lavender	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+deeppink2	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+firebrick	10	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+moccasin	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+chocolate3	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+palevioletred	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+cornflowerblue	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+royalblue3	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+navajowhite3	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+aliceblue	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkseagreen1	11	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mediumpurple	12	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightskyblue4	12	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+orangered	12	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+indianred2	12	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+antiquewhite1	13	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkseagreen2	13	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+palevioletred1	13	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+tan4	14	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+blue4	14	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+indianred3	15	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightblue4	15	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+orangered1	15	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+honeydew	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkseagreen3	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mediumpurple4	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+yellow3	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+sienna4	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+skyblue4	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightpink3	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+coral	16	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+thistle	17	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+plum3	17	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+thistle3	17	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkviolet	17	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mediumpurple2	18	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+indianred4	18	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+antiquewhite4	20	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+coral1	20	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+slateblue3	20	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkseagreen4	20	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+coral2	20	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+salmon4	21	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+maroon	21	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+orange4	21	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+brown4	23	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+floralwhite	23	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+ivory	24	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightcyan1	24	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+skyblue3	25	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+orangered4	25	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkmagenta	26	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkorange	28	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+skyblue	28	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+tan3	28	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+white	28	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightpink4	29	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkturquoise	29	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+darkred	29	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightgreen	30	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+salmon	31	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightyellow	34	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+antiquewhite3	35	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightblue2	35	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+honeydew1	39	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+paleturquoise	39	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+black	43	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+brown2	47	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+green	48	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mistyrose	70	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+lightsteelblue1	83	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+magenta2	88	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+mistyrose2	120	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+whitesmoke	457	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+dodgerblue1	502	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous
+royalblue4	5	Nucleosides, nucleotides, and analogues	Miscellaneous	Miscellaneous	Miscellaneous	Nucleosides, nucleotides, and analogues
+sienna2	12	Nucleosides, nucleotides, and analogues	Miscellaneous	Miscellaneous	Miscellaneous	Nucleosides, nucleotides, and analogues
+goldenrod1	5	Miscellaneous	Miscellaneous	Terpene glycosides	null	Miscellaneous
+firebrick1	6	Nucleosides, nucleotides, and analogues	Miscellaneous	Carbohydrates and carbohydrate conjugates	null	Nucleosides, nucleotides, and analogues
+dodgerblue	6	Phenylpropanoids and polyketides	Benzene and substituted derivatives	Miscellaneous	null	Benzenoids
+seashell4	8	Miscellaneous	Miscellaneous	Amino fatty acids [FA0110]	null	Miscellaneous
+mediumorchid2	8	Miscellaneous	Miscellaneous	Miscellaneous	null	Miscellaneous
+tomato	11	Miscellaneous	Miscellaneous	Amino acids, peptides, and analogues	null	Amino acids, peptides, and analogues
+lightyellow3	5	Organic acids and derivatives	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+violetred	5	Organoheterocyclic compounds	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+lightgoldenrod2	5	Organoheterocyclic compounds	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+violetred3	5	Organoheterocyclic compounds	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+darkgoldenrod1	8	Organoheterocyclic compounds	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+lightpink1	11	Organoheterocyclic compounds	Miscellaneous	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+darksalmon	8	Peptides	Amino acids	Other amino acids [Fig]	Other amino acids [Fig]	Amino acids, peptides, and analogues
+plum2	22	Phenylpropanoids and polyketides	Miscellaneous	Miscellaneous	Miscellaneous	Polyketides
+lightsalmon4	5	Lipids and lipid-like molecules	Prenol lipids	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+pink3	12	Lipids and lipid-like molecules	Prenol lipids	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+dodgerblue4	9	Organoheterocyclic compounds	Miscellaneous	Purines and purine derivatives	Miscellaneous	Organoheterocyclic compounds
+royalblue2	10	Organoheterocyclic compounds	Miscellaneous	Purines and purine derivatives	Miscellaneous	Organoheterocyclic compounds
+lightgoldenrod1	5	Organoheterocyclic compounds	Pyridines and derivatives	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+cornsilk2	8	Organoheterocyclic compounds	Quinolines and derivatives	Miscellaneous	Miscellaneous	Organoheterocyclic compounds
+olivedrab2	5	Alkaloids and derivatives	Benzophenanthridine alkaloids	Secobenzophenanthridine alkaloids	Secobenzophenanthridine alkaloids	Alkaloids
+khaki	5	Phenylpropanoids and polyketides	Miscellaneous	Sesquiterpenoids	Miscellaneous	Polyketides
+chocolate	7	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	Steroid lactones	Lipids and lipid-like molecules
+goldenrod4	7	Lipids and lipid-like molecules	Steroids and steroid derivatives	Miscellaneous	Miscellaneous	Lipids and lipid-like molecules
+deepskyblue3	5	Lipids and lipid-like molecules	Steroids and steroid derivatives	Terpene glycosides	Terpene glycosides	Lipids and lipid-like molecules
+mediumorchid3	9	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides	Terpene glycosides	Lipids and lipid-like molecules
+orangered2	6	Lipids and lipid-like molecules	Prenol lipids	Terpene lactones	Terpene lactones	Lipids and lipid-like molecules
+seashell1	5	Organic acids and derivatives	Benzopyrans	Tetracarboxylic acids and derivatives	Tetracarboxylic acids and derivatives	Miscellaneous
+green2	10	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols	Triradylcglycerols	Lipids and lipid-like molecules
