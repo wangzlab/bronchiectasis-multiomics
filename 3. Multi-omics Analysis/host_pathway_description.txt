@@ -1,0 +1,1474 @@
+HSP70 and HSP40-dependent folding in Huntington's disease	Pathway_1
+Selenoamino acid metabolism	Pathway_2
+Expression targets of Tissue factor signaling in cancer	Pathway_3
+Development_Adenosine A1 receptor signaling	Pathway_4
+Signal transduction_Activation of PKC via G-Protein coupled receptor	Pathway_5
+IL-17-induced mucin expression in CF airways	Pathway_6
+Neurophysiological process_EphB receptors in dendritic spine morphogenesis and synaptogenesis	Pathway_7
+Role of platelets in the initiation of in-stent restenosis	Pathway_8
+Stem cells_Schema: Embryonal myogenesis	Pathway_9
+TrkB signaling in Huntington's disease	Pathway_10
+Influence of multiple myeloma cells on bone marrow stromal cells	Pathway_11
+Nicotine signaling in dopaminergic neurons, Pt. 1 - cell body	Pathway_12
+Cell cycle_Transition and termination of DNA replication	Pathway_13
+Vitamin D3 metabolic C-23 and C-24 pathways	Pathway_14
+Chemotaxis_CCR4-induced chemotaxis of immune cells	Pathway_15
+Stem cells_Auditory hair cell differentiation in embryogenesis	Pathway_16
+Development_Role of IL-8 in angiogenesis	Pathway_17
+IL-6 signaling in breast cancer cells	Pathway_18
+GTP-XTP metabolism	Pathway_19
+Maturation and migration of dendritic cells in skin sensitization	Pathway_20
+Development_BMP7 in brown adipocyte differentiation	Pathway_21
+Development_Role of G-CSF in hematopoietic stem cell mobilization	Pathway_22
+Role of B cells in SLE	Pathway_23
+Cytoskeleton remodeling_Cytoskeleton remodeling	Pathway_24
+Beta-alanine metabolism	Pathway_25
+Beta-catenin-dependent transcription regulation in colorectal cancer	Pathway_26
+Glutathione metabolism / Human version	Pathway_27
+Role of microRNAs in cell proliferation in colorectal cancer	Pathway_28
+Neurophysiological process_NMDA-dependent postsynaptic long-term potentiation in CA1 hippocampal neurons	Pathway_29
+Regulation of degradation of wtCFTR	Pathway_30
+Apoptosis and survival_HTR1A signaling	Pathway_31
+Regulation of microRNAs in colorectal cancer	Pathway_32
+Impaired inhibitory action of lipoxins on neutrophil migration in CF	Pathway_33
+Signal transduction_AKT signaling	Pathway_34
+Regulation of VEGF signaling in pancreatic cancer	Pathway_35
+Stem cells_Extraembryonic differentiation of embryonic stem cells	Pathway_36
+Regulation of GSK3 beta in bipolar disorder	Pathway_37
+Immune response_Regulatory role of C1q in platelet activation	Pathway_38
+TLRs-mediated IFN-alpha production by plasmacytoid dendritic cells in SLE	Pathway_39
+Glycogen metabolism	Pathway_40
+Stem cells_Cooperation between Hedgehog, IGF-2 and HGF signaling pathways in medulloblastoma stem cells	Pathway_41
+Signal transduction_PTMs in BAFF-induced canonical NF-kB signaling	Pathway_42
+Immune response_T cell receptor signaling pathway	Pathway_43
+Apoptosis and survival_NO signaling in survival	Pathway_44
+TNF-alpha and IL-1 beta induce hyperglycemia in obesity and type 2 diabetes in adipocytes	Pathway_45
+Neurophysiological process_Sweet taste signaling	Pathway_46
+Regulation of intrinsic membrane properties and excitability of striatonigral medium spiny neurons in Huntington's disease	Pathway_47
+Development_Adiponectin signaling	Pathway_48
+Protein folding and maturation_Angiotensin system maturation \ Human version	Pathway_49
+HETE and HPETE biosynthesis and metabolism	Pathway_50
+HCV-dependent cytoplasmic signaling leading to HCC	Pathway_51
+Lysine metabolism/ Rodent version	Pathway_52
+Neutrophil-derived granule proteins and cytokines in asthma	Pathway_53
+Immune response_HMGB1/TLR signaling pathway	Pathway_54
+Anandamide biosynthesis and metabolism	Pathway_55
+Development_Neural stem cell lineage commitment (schema)	Pathway_56
+G-protein signaling_Rap1B regulation pathway	Pathway_57
+WNT signaling in HCC	Pathway_58
+Renin-Angiotensin-Aldosterone System	Pathway_59
+Higher ESR1 / ESR2 ratio in breast cancer	Pathway_60
+Effect of H. pylori infection on apoptosis in gastric epithelial cells	Pathway_61
+Immune response_Delta-type opioid receptor signaling in T-cells	Pathway_62
+Immune response_CD40 signaling	Pathway_63
+Development_Angiotensin activation of Akt	Pathway_64
+IgE- and MGF-induced Fyn-mediated activation of lung mast cells in asthma	Pathway_65
+Development_Positive regulation of STK3/4 (Hippo) pathway and negative regulation of YAP/TAZ function	Pathway_66
+Role of neurotrophins in activation of p53 in major depressive disorder	Pathway_67
+EZH2 in Prostate Cancer	Pathway_68
+Development_PDGF signaling via STATs and NF-kB	Pathway_69
+G-protein signaling_M-RAS regulation pathway	Pathway_70
+Mitochondrial ketone bodies biosynthesis and metabolism	Pathway_71
+Immune response_CRTH2 signaling in Th2 cells	Pathway_72
+Translation_Insulin regulation of translation	Pathway_73
+Multiple myeloma (general schema)	Pathway_74
+Downregulation of MITF in melanoma	Pathway_75
+Blood coagulation_GPCRs in platelet aggregation	Pathway_76
+NK cells in allergic contact dermatitis	Pathway_77
+Cholesterol Biosynthesis	Pathway_78
+Neurophysiological process_Role of CDK5 in presynaptic signaling	Pathway_79
+Development_Negative regulation of STK3/4 (Hippo) pathway and positive regulation of YAP/TAZ function	Pathway_80
+Stimulation of TGF-beta signaling in lung cancer	Pathway_81
+HCV-dependent transcription regulation leading to HCC	Pathway_82
+Chondroitin sulfate and dermatan sulfate metabolism	Pathway_83
+Immune response_Function of MEF2 in T lymphocytes	Pathway_84
+Immune response_IL-23 signaling pathway	Pathway_85
+Immune response_Oncostatin M signaling via MAPK in human cells	Pathway_86
+Disruption of methionine metabolism in induction and progression of HCC	Pathway_87
+Cell adhesion_Tight junctions	Pathway_88
+Inhibition of remyelination in multiple sclerosis: regulation of cytoskeleton proteins	Pathway_89
+PDE4 regulation of cyto/chemokine expression in inflammatory skin diseases	Pathway_90
+Th2 cytokine- and TNF-alpha-induced inflammatory response in asthmatic airway fibroblasts	Pathway_91
+Eosinophil chemotaxis in asthma	Pathway_92
+Role of keratinocytes and Langerhans cells in skin sensitization	Pathway_93
+Development_Thromboxane A2 signaling pathway	Pathway_94
+Immune response_Histamine signaling in dendritic cells	Pathway_95
+Role of TLR signaling in skin sensitization	Pathway_96
+Serotonin modulation of dopamine release in nicotine addiction	Pathway_97
+Inhibition of RUNX3 signaling in gastric cancer	Pathway_98
+Stem cells_Dopamine-induced transactivation of EGFR in SVZ neural stem cells	Pathway_99
+Development_G-CSF-induced myeloid differentiation	Pathway_100
+Cigarette smoke components TCDD and Benzo[a]pyrene and receptor AHR signaling in lung epithelial cells	Pathway_101
+Development_Beta-adrenergic receptors transactivation of EGFR	Pathway_102
+Nociception_Expression and role of Nociceptin in immune system	Pathway_103
+Stem cells_Direct reprogramming of cardiac fibroblasts into cardiomyocytes	Pathway_104
+Plasminogen activators signaling in pancreatic cancer	Pathway_105
+n-6 Polyunsaturated fatty acid biosynthesis	Pathway_106
+Apoptosis and survival_Anti-apoptotic TNFs/NF-kB/IAP pathway	Pathway_107
+Insulin-dependent stimulation of SREBP-1 in type 2 diabetes in liver	Pathway_108
+iNKT cell-keratinocyte interactions in allergic contact dermatitis	Pathway_109
+Immune response_PGE2 common pathways	Pathway_110
+Aberrant B-Raf signaling in melanoma progression	Pathway_111
+Stem cells_EGF-induced proliferation of Type C cells in SVZ of adult brain	Pathway_112
+Tumor-stroma interactions in pancreatic cancer	Pathway_113
+Immune response_IL-6-induced acute-phase response in hepatocytes	Pathway_114
+ERBB family and HGF signaling in gastric cancer	Pathway_115
+Immune response_IL-4-responsive genes in type 2 immunity	Pathway_116
+Transport_Macropinocytosis regulation by growth factors	Pathway_117
+Altered Ca2+ handling in heart failure	Pathway_118
+Th2-cytokine-induced airway epithelium mucous metaplasia in COPD	Pathway_119
+Bromobenzene metabolism/Rodent version	Pathway_120
+Immune response_CCR5 signaling in macrophages and T lymphocytes	Pathway_121
+Regulation of intrinsic membrane properties and excitability of cortical pyramidal neurons	Pathway_122
+Notch signaling in oligodendrocyte precursor cell differentiation in multiple sclerosis	Pathway_123
+wtCFTR and deltaF508 traffic / Membrane expression (normal and CF)	Pathway_124
+Hedgehog signaling in breast cancer	Pathway_125
+Mechanisms of hapten presentation to T cells in allergic contact dermatitis	Pathway_126
+A proinflammatory phenotype of senescent alveolar epithelial cells in COPD	Pathway_127
+Inhibition of TGF-beta 1 signaling in early colorectal cancer	Pathway_128
+Estrogen biosynthesis	Pathway_129
+Cell cycle_Spindle assembly and chromosome separation	Pathway_130
+Demyelination in multiple sclerosis	Pathway_131
+Role and regulation of Prostaglandin E2 in gastric cancer	Pathway_132
+Bone metastases in Prostate Cancer	Pathway_133
+Gamma-secretase regulation of mammary cell development	Pathway_134
+Rb proteins signaling in multiple myeloma	Pathway_135
+Immune response_IL-9 signaling pathway	Pathway_136
+Pro-tumoral TNF-alpha signaling in melanoma	Pathway_137
+CFTR-dependent regulation of ion channels in CF	Pathway_138
+Glycolysis and gluconeogenesis p. 2 / Human version	Pathway_139
+Aspartate and asparagine metabolism	Pathway_140
+Development_NOTCH1-mediated pathway for NF-KB activity modulation	Pathway_141
+DNA damage_Nucleotide excision repair	Pathway_142
+Eosinophil-derived cytokines in airway remodeling in asthma	Pathway_143
+Development_Mu-type opioid receptor signaling	Pathway_144
+Transport_ACM3 signaling in lacrimal glands	Pathway_145
+Development_CNTF receptor signaling	Pathway_146
+Stem cells_Schema: Methods of somatic cell reprogramming into induced pluripotent stem cells	Pathway_147
+Immune response _CCR3 signaling in eosinophils	Pathway_148
+Putative role of Estrogen receptor and Androgen receptor signaling in progression of lung cancer	Pathway_149
+Role of tumor microenvironment in plexiform neurofibroma formation in neurofibromatosis type 1	Pathway_150
+Proteolysis_Putative ubiquitin pathway	Pathway_151
+Androstenedione and testosterone biosynthesis and metabolism p.1/ Rodent version	Pathway_152
+Cell adhesion_Gap junctions	Pathway_153
+Insulin-like growth factor family signaling in melanoma	Pathway_154
+Stem cells_Endothelial differentiation during embryonic development	Pathway_155
+A shift in alveolar macrophage phenotype in COPD	Pathway_156
+Th2-cytokines-induced mucous metaplasia in asthma	Pathway_157
+Transcription_CREM signaling in testis	Pathway_158
+Protein folding_Membrane trafficking and signal transduction of G-alpha (i) heterotrimeric G-protein	Pathway_159
+Fenofibrate in treatment of type 2 diabetes and metabolic syndrome X	Pathway_160
+Apoptosis and survival_Anti-apoptotic action of membrane-bound ESR1	Pathway_161
+Transport_Macropinocytosis	Pathway_162
+Immune response_TREM1 signaling pathway	Pathway_163
+Glutathione metabolism	Pathway_164
+Oxidative stress_Role of ASK1 under oxidative stress	Pathway_165
+Interleukins-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_166
+Apoptosis and survival_Caspase cascade	Pathway_167
+Inhibition of apoptosis in gastric cancer	Pathway_168
+Immune response_TSLP signalling	Pathway_169
+Development_PEDF signaling	Pathway_170
+Role of alveolar cell senescence in COPD	Pathway_171
+IGF family signaling in colorectal cancer	Pathway_172
+Glycolysis and gluconeogenesis p. 2/ Rodent version	Pathway_173
+Apoptosis and survival_NGF activation of NF-kB	Pathway_174
+Tissue factor signaling in lung cancer	Pathway_175
+Leucine, isoleucine and valine metabolism/ Rodent version	Pathway_176
+Prostate Cancer: candidate susceptibility genes in inflammatory pathways	Pathway_177
+Transcription_Role of AP-1 in regulation of cellular metabolism	Pathway_178
+Cholesterol and Sphingolipid transport / Influx to the early endosome in lung (normal and CF)	Pathway_179
+Immune response_TNF-R2 signaling pathways	Pathway_180
+Stem cells_Aberrant Wnt signaling in medulloblastoma stem cells	Pathway_181
+Nicotine signaling in dopaminergic neurons, Pt. 2 - axon terminal	Pathway_182
+Development_S1P1 signaling pathway	Pathway_183
+Niacin-HDL metabolism	Pathway_184
+G-protein signaling_RhoA regulation pathway	Pathway_185
+Cholehepatic circulation of bile acids / Rodent version	Pathway_186
+Main pathways of Schwann cells transformation in neurofibromatosis type 1 	Pathway_187
+Development_PACAP signaling in neural cells	Pathway_188
+Main chemotherapy drugs and their action in SCLC cells	Pathway_189
+NMDA-independent presynaptic long-term potentiation in Huntington's disease	Pathway_190
+Substance P-mediated inflammation and pain in Sickle cell disease	Pathway_191
+Mechanisms of CAM-DR in multiple myeloma	Pathway_192
+Release of pro-inflammatory factors and proteases by alveolar macrophages in asthma	Pathway_193
+Signal transduction_PTMs (ubiquitination and phosphorylation) in TNF-alpha-induced NF-kB signaling	Pathway_194
+Immune response_Murine NKG2D signaling	Pathway_195
+Microsatellite instability in gastric cancer	Pathway_196
+Development_FGF2-dependent induction of EMT	Pathway_197
+DNA damage_Role of SUMO in p53 regulation	Pathway_198
+Development_FGFR signaling pathway	Pathway_199
+FGFR3 signaling in multiple myeloma	Pathway_200
+G-protein signaling_R-RAS regulation pathway	Pathway_201
+Possible pathway of TGF-beta 1-dependent inhibition of CFTR expression	Pathway_202
+Neurophysiological process_Bitter taste signaling	Pathway_203
+Development_Activation of ERK by Kappa-type opioid receptor	Pathway_204
+Translation _Regulation of EIF2 activity	Pathway_205
+Inhibition of LKB1 / AMPK signaling in breast cancer	Pathway_206
+Inhibition of GTPase prenylation by statins in asthma and COPD	Pathway_207
+Apoptosis and survival_Role of IAP-proteins in apoptosis	Pathway_208
+Neurophysiological process_Dopamine D2 receptor signaling in CNS	Pathway_209
+Muscle contraction_GPCRs in the regulation of smooth muscle tone	Pathway_210
+Signal transduction_Cyclic AMP signaling	Pathway_211
+Phospholipid metabolism p.3	Pathway_212
+Retinoic acid maintains mucocilliary differentiation and mucins expression in normal and asthmatic airway epithelium	Pathway_213
+Butanoate metabolism	Pathway_214
+Stem cells_Hypothetical role of microRNAs in fibrosis development after myocardial infarction	Pathway_215
+Immune response_MIF - the neuroendocrine-macrophage connector	Pathway_216
+Cytoskeleton remodeling_Fibronectin-binding integrins in cell motility	Pathway_217
+CCL2 in Prostate Cancer	Pathway_218
+Autocrine Somatotropin signaling in breast cancer	Pathway_219
+Development_G-CSF signaling	Pathway_220
+Role of free fatty acids in obesity and type 2 diabetes	Pathway_221
+Development_Role of CNTF and LIF in regulation of oligodendrocyte development	Pathway_222
+Unsaturated fatty acid biosynthesis	Pathway_223
+TNF-alpha and IL-1 beta-mediated regulation of contraction and secretion of inflammatory factors in normal and asthmatic airway smooth muscle	Pathway_224
+Bile Acid Biosynthesis	Pathway_225
+HBV regulation of DNA repair and apoptosis leading to HCC	Pathway_226
+ENaC regulation in normal and CF airways 	Pathway_227
+IGF-1 receptor/EGFR cooperation in lung cancer	Pathway_228
+Sulfur metabolism	Pathway_229
+Development_Leptin signaling via PI3K-dependent pathway	Pathway_230
+Adiponectin in pathogenesis of type 2 diabetes	Pathway_231
+SLE genetic marker-specific pathways in antigen-presenting cells (APC)	Pathway_232
+Cortisol biosynthesis from Cholesterol	Pathway_233
+wtCFTR and deltaF508-CFTR traffic / Generic schema (normal and CF)	Pathway_234
+Development_Activation of astroglial cells proliferation by ACM3	Pathway_235
+Effect of H. pylori infection on inflammation in gastric epithelial cells	Pathway_236
+Immune response_CD16 signaling in NK cells	Pathway_237
+Glucose-excited neurons of arcuate nucleus (rodent model)	Pathway_238
+Keratan sulfate metabolism p.2	Pathway_239
+Possible role of neonatal nicotine exposure in development of postnatal obesity	Pathway_240
+Proinflammatory mediators production and activation of basophils in asthma	Pathway_241
+PGE2 pathways in cancer	Pathway_242
+Transport_Regulation of ATP-binding transporters by Retinoic acid and orphan nuclear receptor PXR	Pathway_243
+CHDI_Correlations from Replication data_Causal network (positive correlations)	Pathway_244
+G-protein signaling_G-Protein alpha-q signaling cascades	Pathway_245
+Folic acid metabolism	Pathway_246
+Attenuation of IFN type I signaling in melanoma cells	Pathway_247
+Huntington's disease (general schema)	Pathway_248
+NAD metabolism	Pathway_249
+Development_Keratinocyte differentiation	Pathway_250
+Immune response_CD137 signaling in immune cell	Pathway_251
+LRRK2 in neurons in Parkinson's disease	Pathway_252
+IGF signaling in HCC	Pathway_253
+Development_Regulation of CDK5 in CNS	Pathway_254
+Disruption of apoptosis, proliferation and shedding of epithelial cells in asthma	Pathway_255
+Cell cycle_Start of DNA replication in early S phase	Pathway_256
+Hyaluronic acid/ CD44 signaling in cancer	Pathway_257
+Stem cells_Schema: Adult neurogenesis in the Subventricular Zone	Pathway_258
+Cell adhesion_Chemokines and adhesion	Pathway_259
+Development_Epigenetic and transcriptional regulation of oligodendrocyte precursor cell differentiation and myelination	Pathway_260
+Muscle contraction_Delta-type opioid receptor in smooth muscle contraction	Pathway_261
+Signal transduction_NF-kB activation pathways	Pathway_262
+Role of FSH and Lutropin in ovarian cancer	Pathway_263
+Prolactin signaling in Prostate Cancer	Pathway_264
+Immune response_Th1 and Th2 cell differentiation	Pathway_265
+Aminoacyl-tRNA biosynthesis in cytoplasm/ Rodent version	Pathway_266
+Immune response_PIP3 signaling in B lymphocytes	Pathway_267
+IL-6 signaling in tumor-associated monocytes/macrophages in breast cancer	Pathway_268
+Stem cells_Embryonal  epaxial myogenesis 	Pathway_269
+wtCFTR and deltaF508 traffic / Late endosome and lysosome (normal and CF)	Pathway_270
+Immune escape mechanisms in Prostate Cancer	Pathway_271
+MicroRNAs in melanoma	Pathway_272
+Stem cells_Cytotoxic effect of temozolomide on glioblastoma cells	Pathway_273
+Chemotaxis_CCL2-induced chemotaxis	Pathway_274
+Phenylalanine metabolism	Pathway_275
+Methionine-cysteine-glutamate metabolism	Pathway_276
+Development_Ligand-dependent activation of the ESR1/AP-1 pathway	Pathway_277
+Development_ERBB-family signaling	Pathway_278
+ATP/ITP metabolism	Pathway_279
+Immune response_IL-5 signaling via JAK/STAT	Pathway_280
+POMC, alpha-MSH and AGRP in regulation of food intake and energy expenditure in obesity in hypothalamus	Pathway_281
+Development_Role of proteases in hematopoietic stem cell mobilization	Pathway_282
+PXR signaling via cross-talk / Rodent version	Pathway_283
+Basophil migration in asthma	Pathway_284
+Role of CNTF and LIF in regulation of oligodendrocyte development in multiple sclerosis	Pathway_285
+Glycolysis and gluconeogenesis p. 1	Pathway_286
+Inflammatory mechanisms of pancreatic cancerogenesis	Pathway_287
+Proliferative action of Gastrin in gastric cancer	Pathway_288
+Immune response_MIF-mediated glucocorticoid regulation	Pathway_289
+NF-kB pathway in multiple myeloma	Pathway_290
+HGF signaling in melanoma	Pathway_291
+Glutathione metabolism / Rodent version	Pathway_292
+Arachidonic acid metabolites production in alveolar macrophages in asthma	Pathway_293
+Immune response_Gastrin in inflammatory response	Pathway_294
+Role of glycosphingolipids in inhibition of Insulin signaling	Pathway_295
+Pro-inflammatory action of Gastrin in gastric cancer	Pathway_296
+ATP metabolism	Pathway_297
+Neolacto-series GSL Metabolism p.3	Pathway_298
+Proteolysis_Putative SUMO-1 pathway	Pathway_299
+Regulation of lipid metabolism_G-alpha(q) regulation of lipid metabolism	Pathway_300
+Muscle contraction_Regulation of eNOS activity in endothelial cells	Pathway_301
+Role of red blood cell adhesion to endothelium in vaso-occlusion in Sickle cell disease	Pathway_302
+Stem cells_Astrocyte differentiation (general schema)	Pathway_303
+Immune response_PGE2 signaling in immune response	Pathway_304
+Blood coagulation_Platelet microparticle generation	Pathway_305
+Stem cells_Self-renewal and pluripotency maintenance of human embryonic stem cells	Pathway_306
+Renal secretion of drugs / Rodent version 	Pathway_307
+Apoptosis and survival_Anti-apoptotic action of nuclear ESR1 and ESR2	Pathway_308
+Heme metabolism	Pathway_309
+Neolacto-series GSL Metabolism p.1 / Human version	Pathway_310
+Immune response_Role of HMGB1 in dendritic cell maturation and migration	Pathway_311
+Regulation of immune cell differentiation by Notch signaling	Pathway_312
+Androstenedione and testosterone biosynthesis and metabolism p.3/ Rodent version	Pathway_313
+Development_S1P2 and S1P3 receptors in cell proliferation and differentiation	Pathway_314
+Apoptosis and survival_BAD phosphorylation	Pathway_315
+FGF signaling in gastric cancer	Pathway_316
+Cell cycle_Regulation of G1/S transition (part 1)	Pathway_317
+TNF-alpha-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_318
+G-protein signaling_Rac2 regulation pathway	Pathway_319
+Endothelial cell apoptosis in COPD	Pathway_320
+Immune response_IL-6 signaling pathway via MEK/ERK and PI3K/AKT cascades	Pathway_321
+Transcription_Androgen Receptor nuclear signaling	Pathway_322
+Glucocorticoid- and LABA-mediated inhibition of pro-inflammatory signaling in airway fibroblasts/myofibroblasts	Pathway_323
+Cigarette smoke-mediated attenuation of antibacterial and antivirus immune response	Pathway_324
+Signal transduction_Activin A signaling regulation	Pathway_325
+Zinc deficiency in Prostate Cancer	Pathway_326
+Polyamine metabolism	Pathway_327
+Sitagliptin in treatment of type 2 diabetes and metabolic syndrome X	Pathway_328
+Stem cells_NODAL signaling in early mesendoderm formation	Pathway_329
+Role of IL-17-producing T cells in allergic contact dermatitis	Pathway_330
+Oxidative phosphorylation	Pathway_331
+Leptin signaling in colorectal cancer	Pathway_332
+Beta-adrenergic-dependent CFTR expression	Pathway_333
+Pentose phosphate pathway	Pathway_334
+Regulation of metabolism_Bile acids regulation of glucose and lipid metabolism via FXR	Pathway_335
+G-protein signaling_Proinsulin C-peptide signaling	Pathway_336
+Regulation of relaxation of airway smooth muscle cells	Pathway_337
+DNA damage_Inhibition of telomerase activity and cellular senescence	Pathway_338
+Stem cells_WNT and Notch signaling in early cardiac myogenesis	Pathway_339
+Stem cells_FGF signaling in pancreatic and hepatic differentiation of embryonic stem cells	Pathway_340
+Development_EGFR signaling pathway	Pathway_341
+Survival pathways in Prostate Cancer	Pathway_342
+Huntingtin-depended transcription deregulation in Huntington's Disease	Pathway_343
+Chemotaxis_Lipoxin inhibitory action on Formyl-Met-Leu-Phe-induced neutrophil chemotaxis	Pathway_344
+Development_Thrombopoetin signaling via JAK-STAT pathway	Pathway_345
+Signal transduction_PTMs (phosphorylation and acetylation) in TNF-alpha-induced NF-kB signaling	Pathway_346
+Mitogenic action of Estradiol / ESR1 (nuclear) in breast cancer	Pathway_347
+Regulation of lipid metabolism_Regulation of acetyl-CoA carboxylase 1 activity in keratinocytes	Pathway_348
+Transcription_Role of heterochromatin protein 1 (HP1) family in transcriptional silencing	Pathway_349
+O-glycan biosynthesis / Human version	Pathway_350
+Multiple sclerosis (general schema)	Pathway_351
+Signal transduction_IP3 signaling	Pathway_352
+Putative pathways of n-3 and n-6 fatty acids in obesity and type 2 diabetes	Pathway_353
+Stem cells_Muscle progenitor cell migration in hypaxial myogenesis	Pathway_354
+Upregulation of IL-8 expression in colorectal cancer	Pathway_355
+Role of proinflammatory cytokines in activation of p53 in major depressive disorder	Pathway_356
+Immune response_Histamine H1 receptor signaling in immune response	Pathway_357
+Estradiol metabolism	Pathway_358
+Stem cells_Notch signaling in medulloblastoma stem cells	Pathway_359
+FGF2 signaling in melanoma	Pathway_360
+VLDL, LDL dyslipidemia in type 2 diabetes and metabolic syndrome X	Pathway_361
+Differences between Langerhans cells and dermal dendritic cells in allergic contact dermatitis	Pathway_362
+Stem cells_Role of GSK3 beta in cardioprotection against myocardial infarction	Pathway_363
+Tryptophan metabolism	Pathway_364
+Glycolysis and gluconeogenesis (short map)	Pathway_365
+Neurophysiological process_GABA-B receptor signaling at postsynaptic sides of synapses	Pathway_366
+Stem cells_MMP-14-induced COX-2 expression in glioblastoma stem cells	Pathway_367
+Transport_cAMP/ Ca(2+)-dependent Insulin secretion	Pathway_368
+Transcription targets of Androgen receptor involved in Prostate Cancer	Pathway_369
+G protein-coupled receptors signaling in lung cancer	Pathway_370
+Glycine, serine, cysteine and threonine metabolism	Pathway_371
+Mechanisms of drug resistance in SCLC	Pathway_372
+Immune response_Alternative complement pathway	Pathway_373
+Development_Adenosine A2B receptor signaling	Pathway_374
+Immune response_MIF-induced cell adhesion, migration and angiogenesis	Pathway_375
+Cell adhesion_PLAU signaling	Pathway_376
+Apoptosis and survival_Lymphotoxin-beta receptor signaling	Pathway_377
+Oxidative stress_NOX and DUOX families of NADPH oxidases 	Pathway_378
+SCAP/SREBP Transcriptional Control of Cholesterol and FA Biosynthesis	Pathway_379
+Stem cells_mGluR3 signaling in glioblastoma stem cells	Pathway_380
+Differentiation of Th2 cells in asthma	Pathway_381
+Development_Prolactin receptor signaling	Pathway_382
+Asthma-specific pathways of airway smooth muscle cell proliferation	Pathway_383
+Regulation of lipid metabolism_Insulin regulation of fatty acid metabolism	Pathway_384
+Vitamin B7 (biotin) metabolism	Pathway_385
+Origin of Langerhans cells in the steady-state and under inflammatory conditions	Pathway_386
+TNF-alpha, IL-1 beta induce dyslipidemia and inflammation in obesity and type 2 diabetes in adipocytes 	Pathway_387
+Stem cells_Dopamine-induced expression of CNTF in adult neurogenesis	Pathway_388
+Axonal degeneration in multiple sclerosis	Pathway_389
+Glycolysis and gluconeogenesis p. 2	Pathway_390
+Alternative complement cascade disruption in age-related macular degeneration	Pathway_391
+Stem cells_FGF2-induced self-renewal of adult neural stem cells	Pathway_392
+Cytoskeleton remodeling_ACM3 and ACM4 in keratinocyte migration	Pathway_393
+CAR signaling via cross-talk / Human Version	Pathway_394
+2-Naphthylamine and 2-Nitronaphtalene metabolism	Pathway_395
+Role of stellate cells in progression of pancreatic cancer	Pathway_396
+Cytoskeleton remodeling_Alpha-1A adrenergic receptor-dependent inhibition of PI3K	Pathway_397
+NRSF-dependent transcription deregulation in Huntington's Disease	Pathway_398
+MAPK-mediated proliferation of normal and asthmatic smooth muscle cells	Pathway_399
+Role of iNKT and B cells in T cell recruitment in allergic contact dermatitis	Pathway_400
+Protein folding and maturation_Insulin processing	Pathway_401
+Development_Regulation of lung epithelial progenitor cell differentiation	Pathway_402
+Role of Diethylhexyl Phthalate and Tributyltin in fat cell differentiation 	Pathway_403
+EGF- and HGF-dependent stimulation of metastasis in gastric cancer	Pathway_404
+G-protein signaling_RhoB regulation pathway	Pathway_405
+Muscle contraction_Role of kappa-type opioid receptor in heart	Pathway_406
+Leucine, isoleucine and valine metabolism	Pathway_407
+Role of alpha-6/beta-4 integrins in carcinoma progression	Pathway_408
+Development_Leptin signaling via JAK/STAT and MAPK cascades	Pathway_409
+Regulation of Beta-catenin activity  in melanoma	Pathway_410
+Development_S1P3 receptor signaling pathway	Pathway_411
+Oxidative stress_Angiotensin II-induced production of ROS	Pathway_412
+Chylomicron dyslipidemia in type 2 diabetes and metabolic syndrome X	Pathway_413
+Immune response_IL-5 signaling via PI3K, MAPK and NF-kB	Pathway_414
+HBV-dependent transcription regulation leading to HCC	Pathway_415
+Apoptosis and survival_Apoptotic TNF-family pathways	Pathway_416
+Development_Oxytocin receptor signaling	Pathway_417
+Gamma-secretase proteolytic targets	Pathway_418
+Neurophysiological process_Kappa-type opioid receptor in transmission of nerve impulses	Pathway_419
+Role of fibroblasts in the sensitization phase of allergic contact dermatitis	Pathway_420
+Ethanol/Acetaldehyde-dependent stimulation of MMP-9 expression in HCC	Pathway_421
+0	Pathway_422
+Stem cells_Generation of pancreatic beta-cells from embryonic stem cells (early stages)	Pathway_423
+Regulation of VEGF expression in lung cancer	Pathway_424
+Recurrent gene fusions in Prostate Cancer	Pathway_425
+Development_Cross-talk between VEGF and Angiopoietin 1 signaling pathways	Pathway_426
+Pyruvate metabolism	Pathway_427
+Immune response_Antigen presentation by MHC class II	Pathway_428
+Brca1 in ovarian cancer	Pathway_429
+Retinol metabolism	Pathway_430
+Atorvastatin in treatment of type 2 diabetes and metabolic syndrome X	Pathway_431
+Nitrogen metabolism	Pathway_432
+Defective efferocytosis in COPD	Pathway_433
+G-protein signaling_H-RAS regulation pathway	Pathway_434
+Signal transduction_mTORC1 upstream signaling	Pathway_435
+CAR signaling via cross-talk / Rodent version	Pathway_436
+Development_Astrocyte differentiation from adult stem cells	Pathway_437
+Mitochondrial long chain fatty acid beta-oxidation	Pathway_438
+Translation_Role of Retinoic acid signaling in the initiation of translation	Pathway_439
+Th2 cell migration in asthma	Pathway_440
+Immune response_IFN alpha/beta signaling pathway	Pathway_441
+Stem cells_Stimulation of differentiation of mouse embryonic fibroblasts into adipocytes by extracellular factors	Pathway_442
+Triacylglycerol biosynthesis in obesity and diabetes mellitus, type II	Pathway_443
+Cell cycle_Role of APC in cell cycle regulation	Pathway_444
+Memory CD8+ T cells in allergic contact dermatitis	Pathway_445
+Impaired inhibitory action of lipoxins and Resolvin E1 on neutrophil functions in CF	Pathway_446
+Growth factors in regulation of oligodendrocyte precursor cells survival in multiple sclerosis	Pathway_447
+Fructose metabolism	Pathway_448
+Signal transduction_Production and main functions of biologically active prostaglandins and Thromboxane A2	Pathway_449
+Signal transduction_PTMs in IL-23 signaling pathway	Pathway_450
+Reproduction_Gonadotropin-releasing hormone (GnRH) signaling	Pathway_451
+Vitamin K metabolism	Pathway_452
+Immune response_Inhibitory action of lipoxins on superoxide production induced by IL-8 and Leukotriene B4 in neutrophils	Pathway_453
+Th2 cytokine- and TNF-alpha-induced profibrotic response in asthmatic airway fibroblasts/ myofibroblasts	Pathway_454
+Immune response_BCR pathway	Pathway_455
+IFN-gamma and Th2 cytokines-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_456
+Eosinophil survival in asthma	Pathway_457
+Apoptosis and survival_Ceramides signaling pathway	Pathway_458
+Normal and pathological TGF-beta-mediated regulation of cell proliferation	Pathway_459
+Activation of TGF-beta signaling in advanced colorectal cancer	Pathway_460
+Development_SSTR2 in regulation of cell proliferation	Pathway_461
+Cell cycle_Cell cycle (generic schema)	Pathway_462
+Populations of skin dendritic cells involved in contact hypersensitivity	Pathway_463
+Development_ACM2 and ACM4 activation of ERK	Pathway_464
+NF-kB-, AP-1- and MAPKs-mediated proinflammatory cytokine production by eosinophils in asthma	Pathway_465
+Transcription_CREB signaling pathway	Pathway_466
+Tau pathology in Alzheimer disease	Pathway_467
+Cell adhesion_Plasmin signaling	Pathway_468
+PXR-mediated direct regulation of xenobiotic metabolizing enzymes / Human version	Pathway_469
+CTP/UTP metabolism	Pathway_470
+Stem cells_Fetal brown fat cell differentiation	Pathway_471
+Signal transduction_Calcium signaling	Pathway_472
+Immune response_IL-15 signaling	Pathway_473
+Signal transduction_Additional pathways of NF-kB activation (in the cytoplasm)	Pathway_474
+Immune response_IL-7 signaling in B lymphocytes	Pathway_475
+Neurophysiological process_Constitutive and activity-dependent synaptic AMPA receptor delivery	Pathway_476
+Transcription_Epigenetic regulation of gene expression	Pathway_477
+TGF-beta signaling via kinase cascades in breast cancer	Pathway_478
+Regulation of lipid metabolism_PPAR regulation of lipid metabolism	Pathway_479
+wtCFTR and deltaF508-CFTR traffic / Clathrin coated vesicles formation (normal and CF)	Pathway_480
+Neurophysiological process _Visual perception	Pathway_481
+Angiogenesis in HCC	Pathway_482
+Renal secretion of organic electrolytes / Rodent version 	Pathway_483
+Development_Dopamine D2 receptor transactivation of EGFR	Pathway_484
+Development_EGFR signaling via small GTPases	Pathway_485
+EGFR signaling in Prostate Cancer	Pathway_486
+Apoptosis and survival_Granzyme A signaling	Pathway_487
+Stem cells_Schema: FGF signaling in embryonic stem cell self-renewal and differentiation	Pathway_488
+Role of epigenetic alterations in survival and migration of SCLC cells	Pathway_489
+WNT signaling in gastric cancer	Pathway_490
+Development_WNT signaling pathway. Part 1. Degradation of beta-catenin in the absence WNT signaling	Pathway_491
+Immune response_TLR3 and TLR4 induced TICAM1-specific signaling pathway	Pathway_492
+NF-AT signaling in cardiac hypertrophy	Pathway_493
+Glucose-excited neurons of arcuate nucleus in obesity (rodent model)	Pathway_494
+Stem cells_TNF-alpha, IL-1 alpha and WNT5A-dependent regulation of osteogenesis and adipogenesis in mesenchymal stem cells	Pathway_495
+Antioxidant effects of statins in COPD	Pathway_496
+Cannabinoid receptor signaling in nicotine addiction	Pathway_497
+Apoptosis and survival_Role of CDK5 in neuronal death and survival	Pathway_498
+Mechanism of Pioglitazone/Glimepiride and Rosiglitazone/Glimepiride cooperative action in Diabetes mellitus, Type 2	Pathway_499
+Rho-dependent regulation of normal and asthmatic smooth muscle contraction	Pathway_500
+HCV-mediated liver damage and predisposition to HCC progression via p53	Pathway_501
+Pro-oncogenic action of PTHrP in breast cancer	Pathway_502
+Apoptosis and survival_Role of nuclear PI3K in NGF/ TrkA signaling	Pathway_503
+Chemotaxis_CCL16-, CCL20-, CXCL16- and CCL25-mediated cell migration	Pathway_504
+Nicotine / nAChR alpha-7 signaling in NSCLC	Pathway_505
+Globo-(isoglobo) series GSL Metabolism	Pathway_506
+Regulation of lipid metabolism_RXR-dependent regulation of lipid metabolism via PPAR, RAR and VDR	Pathway_507
+Serotonin - melatonin biosynthesis and metabolism	Pathway_508
+Role of Insulin in regulation of eating behavior in obesity	Pathway_509
+Regulation of lipid metabolism_Regulation of fatty acid synthase activity in hepatocytes	Pathway_510
+Cell cycle_Role of Nek in cell cycle regulation	Pathway_511
+Heparan sulfate/heparin metabolism	Pathway_512
+ErbB2-induced breast cancer cell invasion	Pathway_513
+Nitrogen metabolism/ Rodent version	Pathway_514
+Transport_The role of AVP in regulation of Aquaporin 2 and renal water reabsorption	Pathway_515
+Neutrophil resistance to apoptosis in COPD and proresolving impact of lipid mediators	Pathway_516
+LRRK2 in neuronal apoptosis in Parkinson's disease	Pathway_517
+Stem cells_NOTCH in inhibition of WNT/Beta-catenin-induced osteogenesis	Pathway_518
+A shift from oxidative to glycolytic muscle fiber phenotype in quadriceps muscles in COPD	Pathway_519
+CoA biosynthesis	Pathway_520
+Phospholipid metabolism p.1	Pathway_521
+Resistance of melanoma cells to Apo-2L(TNFSF10)-induced apoptosis	Pathway_522
+Development_Ligand-independent activation of ESR1 and ESR2	Pathway_523
+Immune response_IL-12 signaling pathway	Pathway_524
+Cell cycle_Influence of Ras and Rho proteins on G1/S Transition	Pathway_525
+Pyruvate metabolism/ Rodent version	Pathway_526
+Stem cells_Schema: Adult neuron differentiation in the Subventricular and Subgranular Zones	Pathway_527
+Dichloroethylene metabolism	Pathway_528
+Neurophysiological process_Netrin-1 in regulation of axon guidance	Pathway_529
+Development_HGF-dependent inhibition of TGF-beta-induced EMT	Pathway_530
+Skeletal muscle atrophy in COPD	Pathway_531
+Activation of Cortisol production in major depressive disorder	Pathway_532
+Immune response_CCL2 signaling	Pathway_533
+Apoptosis and survival_NGF/ TrkA PI3K-mediated signaling	Pathway_534
+DKK1 signaling in multiple myeloma	Pathway_535
+Transport_RAB5A regulation pathway	Pathway_536
+Signal transduction_PTMs in IL-17-induced CIKS-independent signaling pathways	Pathway_537
+Cell adhesion_IL-8-dependent cell migration and adhesion	Pathway_538
+G-protein signaling_Regulation of Cyclic AMP levels by ACM	Pathway_539
+Transcription_Effect of Folic acid on genome stability	Pathway_540
+Blood coagulation_GPVI-dependent platelet activation	Pathway_541
+Development_Endothelin-1/EDNRA transactivation of EGFR	Pathway_542
+IGF signaling in lung cancer	Pathway_543
+Role of TNF-alpha, IL-1beta and IL-6 in development of obesity and type 2 diabetes in liver	Pathway_544
+Mechanism of action of DGAT1 inhibitors in obesity and diabetes mellitus, type II (Variant 1)	Pathway_545
+G-protein signaling_Regulation of CDC42 activity	Pathway_546
+Eosinophil adhesion and transendothelial migration in asthma	Pathway_547
+Stem cells_Role of ion channels in glioblastoma cell invasion	Pathway_548
+Role of GITR in skin sensitization	Pathway_549
+Neurophysiological process_Dynein-dynactin motor complex in axonal transport in neurons	Pathway_550
+Putative glucocorticoid- and LABA-mediated inhibition of pro-fibrotic signaling in airway fibroblasts/myofibroblasts	Pathway_551
+Regulation and signaling of HGF receptor (Met) and MSP receptor (RON) in lung cancer	Pathway_552
+Transcription_Transcription factor Tubby signaling pathways	Pathway_553
+Rheumatoid arthritis (general schema)	Pathway_554
+Neurophysiological process_GABAergic neurotransmission	Pathway_555
+wtCFTR traffic / ER-to-Golgi (normal)	Pathway_556
+Transcription_Role of VDR in regulation of genes involved in osteoporosis	Pathway_557
+Cigarette smoke-mediated regulation of NRF2-antioxidant pathway in airway epithelial cells	Pathway_558
+Immune response_IL-4 signaling pathway	Pathway_559
+Activation of Ca2+-dependent neuronal cell death in Huntington's disease	Pathway_560
+Dual role of p53 in transcription deregulation in Huntington's Disease	Pathway_561
+Immune response_IL-10 signaling pathway	Pathway_562
+KLF6 and regulation of KLF6 alternative splicing in HCC	Pathway_563
+Prolactin/ ERK signaling in breast cancer	Pathway_564
+Regulation of caspase activity in Huntington's disease	Pathway_565
+Peroxisomal branched chain fatty acid oxidation	Pathway_566
+Role of integrins in eosinophil degranulation in asthma	Pathway_567
+Aberrant lipid trafficking and metabolism in age-related macular degeneration pathogenesis	Pathway_568
+Signal transduction_PTMs in IL-17-induced CIKS-dependent MAPK signaling pathways	Pathway_569
+Calcium-dependent regulation of normal and asthmatic smooth muscle contraction	Pathway_570
+DNA damage_Role of Brca1 and Brca2 in DNA repair	Pathway_571
+Selective Insulin resistance in type 2 diabetes in liver	Pathway_572
+dGTP metabolism	Pathway_573
+Role of IFN-beta in activation of T cell apoptosis in multiple sclerosis	Pathway_574
+CAR-mediated direct regulation of xenobiotic metabolizing enzymes / Human version	Pathway_575
+Phenylalanine metabolism/ Rodent version	Pathway_576
+Development_Beta adrenergic receptors in brown adipocyte differentiation	Pathway_577
+CFTR folding and maturation (normal and CF)	Pathway_578
+Triacylglycerol metabolism p.1	Pathway_579
+Defective macrophage-mediated bacterial phagocytosis in COPD	Pathway_580
+Gamma-secretase regulation of osteogenesis	Pathway_581
+Fibroblast/ myofibroblast proliferation in asthmatic airways	Pathway_582
+Immune response_IL-3 signaling via ERK and PI3K	Pathway_583
+Inhibition of tumor suppressive pathways in pancreatic cancer	Pathway_584
+Signal transduction_JNK pathway	Pathway_585
+Development_Adenosine A3 receptor signaling	Pathway_586
+Translation_IL-2 regulation of translation	Pathway_587
+K-RAS signaling in pancreatic cancer	Pathway_588
+Development_Angiotensin signaling via PYK2	Pathway_589
+Mechanism of gemcitabine action in pancreatic cancer	Pathway_590
+T regulatory cells in asthma	Pathway_591
+Nociception_Pro-nociceptive action of Nociceptin in spinal cord at low doses	Pathway_592
+Transport_HDL-mediated reverse cholesterol transport	Pathway_593
+(L)-Arginine metabolism	Pathway_594
+CCR4-dependent immune cell chemotaxis in asthma and atopic dermatitis 	Pathway_595
+Immune response_Mast cell proliferation, differentiation and survival	Pathway_596
+Apoptosis and survival_Regulation of Apoptosis by Mitochondrial Proteins	Pathway_597
+Transport_Low density lipoproteins assembly and remodeling	Pathway_598
+Role of Apo-2L(TNFSF10) in Prostate Cancer cell apoptosis	Pathway_599
+TGF-beta 1-induced transactivation of membrane receptors signaling in HCC	Pathway_600
+Chemotaxis_CXCR4 signaling pathway	Pathway_601
+Immune response_IL-4-induced regulators of cell growth, survival, differentiation and metabolism	Pathway_602
+Schema: Initiation of T cell recruitment in allergic contact dermatitis	Pathway_603
+Transcription_Role of Akt in hypoxia induced HIF1 activation	Pathway_604
+Signal transduction_Erk Interactions: Inhibition of Erk	Pathway_605
+Cytoskeleton remodeling_RalA regulation pathway	Pathway_606
+Stem cells_Oligodendrocyte differentiation (general schema)	Pathway_607
+Linoleic acid / Rodent version	Pathway_608
+Development_Notch Signaling Pathway	Pathway_609
+LKB1 signaling pathway in lung cancer cells	Pathway_610
+Cytoskeleton remodeling_Keratin filaments	Pathway_611
+Development_EGFR signaling via PIP3	Pathway_612
+Signal transduction_PTMs in IL-12 signaling pathway	Pathway_613
+Involvement of VEGF signaling in the progression of lung cancer	Pathway_614
+Development_Regulation of endothelial progenitor cell differentiation from adult stem cells	Pathway_615
+G-protein signaling_Regulation of RAC1 activity	Pathway_616
+Role of IL-23/ T17 pathogenic axis in psoriasis	Pathway_617
+Arginine metabolism/ Rodent version	Pathway_618
+Mechanisms of deltaF508 CFTR activation by S-nitrosoglutathione	Pathway_619
+Putative pathways for stimulation of fat cell differentiation by Bisphenol A	Pathway_620
+CCR7 signaling pathways in dendritic cells in allergic contact dermatitis	Pathway_621
+Apoptosis and survival_FAS signaling cascades	Pathway_622
+Role of IL-8 in melanoma	Pathway_623
+Development_Growth factors in regulation of oligodendrocyte precursor cell proliferation	Pathway_624
+Activation of TNF-alpha-dependent pro-tumoral effect in colorectal cancer	Pathway_625
+Proteases and EGFR-activated mucin production in airway epithelium in COPD	Pathway_626
+Production and activation of TGF-beta in airway smooth muscle cells	Pathway_627
+Cytoskeleton remodeling_Neurofilaments	Pathway_628
+Influence of low doses of Arsenite on glucose uptake in adipocytes	Pathway_629
+Immune response_IL-1 signaling pathway	Pathway_630
+IL-6 signaling in Prostate Cancer	Pathway_631
+G-protein signaling_Ras family GTPases in kinase cascades (schema)	Pathway_632
+Methionine metabolism	Pathway_633
+Ubiquinone metabolism	Pathway_634
+Neurophysiological process_Dopamine D2 receptor transactivation of PDGFR in CNS	Pathway_635
+Immune response_TLR5, TLR7, TLR8 and TLR9 signaling pathways	Pathway_636
+Putative roles of SETDB1 and PLU-1 in melanoma	Pathway_637
+Androstenedione and testosterone biosynthesis and metabolism p.2/ Rodent version	Pathway_638
+Prolactin/ JAK2 signaling in breast cancer	Pathway_639
+Immune response_Lipoxins and Resolvin E1 inhibitory action on neutrophil functions	Pathway_640
+Stem cells_H3K36 demethylation in stem cell maintenance	Pathway_641
+IL-1 production in melanoma	Pathway_642
+Cell cycle_ESR1 regulation of G1/S transition	Pathway_643
+Immune response_T cell subsets: cell surface markers	Pathway_644
+Development_ERK5 in cell proliferation and neuronal survival	Pathway_645
+SREBP1 cross-talk with PXR, CAR and LXR	Pathway_646
+Development_GM-CSF signaling	Pathway_647
+Cholesterol and Sphingolipid transport / Distribution to the intracellular membrane compartments (normal and CF)	Pathway_648
+Neurophysiological process_Glutamic acid regulation of Dopamine D1A receptor signaling	Pathway_649
+Apoptosis and survival_Apoptotic Activin A signaling	Pathway_650
+Role of alpha-V/ beta-6 integrin in colorectal cancer	Pathway_651
+Mechanisms of K-RAS addiction in lung cancer cells	Pathway_652
+Role of TNF-alpha in type 2 diabetes in skeletal muscle cells	Pathway_653
+Regulation of Tissue factor signaling in cancer	Pathway_654
+Mechanism of action of CCR4 antagonists in asthma and atopic dermatitis (Variant 1)	Pathway_655
+Fibroblast differentiation to myofibroblasts in asthmatic airways	Pathway_656
+Neurophysiological process_Synaptic vesicle fusion and recycling in nerve terminals	Pathway_657
+Putative pathways of activation of monoclonal protein secretion in multiple myeloma	Pathway_658
+IL-6 signaling in colorectal cancer	Pathway_659
+Stem cells_Self-renewal of adult neural stem cells	Pathway_660
+Neurophysiological process_Melatonin signaling	Pathway_661
+Dibromoethane metabolism	Pathway_662
+Development_Activation of Erk by ACM1, ACM3 and ACM5	Pathway_663
+Regulatory T cells in human allergic contact dermatitis	Pathway_664
+Neuroendocrine transdifferentiation in Prostate Cancer	Pathway_665
+PXR-mediated direct regulation of xenobiotic metabolizing enzymes / Rodent version	Pathway_666
+Neurophysiological process_ACM1 and ACM2 in neuronal membrane polarization	Pathway_667
+IMP biosynthesis	Pathway_668
+Role of prenatal nicotine exposure in inhibition of pancreatic beta cells differentiation and function	Pathway_669
+n-3 Polyunsaturated fatty acid biosynthesis	Pathway_670
+Nicotine / Beta-adrenergic signaling in lung cancer	Pathway_671
+Apoptosis and survival_NO signaling in apoptosis	Pathway_672
+Development_WNT5A signaling	Pathway_673
+Transport_Aldosterone-mediated regulation of ENaC sodium transport	Pathway_674
+Transport_RAB1A regulation pathway	Pathway_675
+microRNA in Prostate Cancer	Pathway_676
+Galactose metabolism/ Rodent version	Pathway_677
+CHDI_Correlations from Discovery data_Causal network	Pathway_678
+Stem cells_Role of Ceramide 1-phosphate, Sphingosine 1-phosphate and Complement cascade in hematopoietic stem cell homing	Pathway_679
+Immune response_TCR and CD28 co-stimulation in activation of NF-kB	Pathway_680
+Androgen signaling in HCC	Pathway_681
+Inhibition of Ephrin receptors in colorectal cancer	Pathway_682
+HGF signaling in pancreatic cancer	Pathway_683
+Cell adhesion_Cadherin-mediated cell adhesion	Pathway_684
+Gamma-Secretase regulation of neuronal cell development and function	Pathway_685
+Development_EPO-induced MAPK pathway	Pathway_686
+Hypoxia-induced EMT in cancer and fibrosis	Pathway_687
+Hypertrophy of  asthmatic airway smooth muscle cells 	Pathway_688
+Prostaglandin 2 biosynthesis and metabolism	Pathway_689
+Impaired macrophage phagocytic function in asthma	Pathway_690
+Stem cells_Response to hypoxia in glioblastoma stem cells	Pathway_691
+Dual role of BMP signaling in gastric cancer	Pathway_692
+Immune response_Regulation of T cell function by CTLA-4	Pathway_693
+Regulation of IGF family activity in colorectal cancer	Pathway_694
+Role of EPAS1 in obesity	Pathway_695
+Stem cells_H3K27 demethylases in differentiation of stem cells	Pathway_696
+IL-6 signaling in multiple myeloma	Pathway_697
+Neurophysiological process_Corticoliberin signaling via CRHR1 	Pathway_698
+Stem cells_Hedgehog, BMP and Parathyroid hormone in osteogenesis	Pathway_699
+Activation of osteoclast differentiation in bone lesions formation in multiple myeloma	Pathway_700
+Tissue Factor signaling in cancer via PAR1 and PAR2	Pathway_701
+Apoptosis and survival_Role of PKR in stress-induced apoptosis	Pathway_702
+Inhibition of TGF-beta signaling in lung cancer	Pathway_703
+Transport_GPR40 signaling pathway in beta cells	Pathway_704
+Development_Beta-adrenergic receptors signaling via Cyclic AMP	Pathway_705
+Common mechanisms of Th17 cell migration	Pathway_706
+Stem cells_NOTCH1-induced self-renewal of glioblastoma stem cells	Pathway_707
+Regulatory T cells in murine model of contact hypersensitivity	Pathway_708
+Development_Flt3 signaling	Pathway_709
+Immune response_Immunological synapse formation	Pathway_710
+NALP3 inflammasome activation in age-related macular degeneration (AMD)	Pathway_711
+Role of adipose tissue hypoxia in obesity and type 2 diabetes	Pathway_712
+Cell cycle_Regulation of G1/S transition (part 2)	Pathway_713
+Pro-oncogenic action of Androgen receptor in ovarian cancer	Pathway_714
+NETosis in SLE	Pathway_715
+Signal transduction_PTEN pathway	Pathway_716
+Immune response_Oncostatin M signaling via JAK-Stat in mouse cells	Pathway_717
+Stem cells_Neovascularization of glioblastoma in response to hypoxia	Pathway_718
+HGF receptor (Met) and MSP receptor (RON) signaling pathways in SCLC	Pathway_719
+Development_Growth hormone signaling via STATs and PLC/IP3	Pathway_720
+Mast cell migration in asthma	Pathway_721
+Development_Transcription regulation of granulocyte development	Pathway_722
+Translation_Opioid receptors in regulation of translation 	Pathway_723
+Development_Angiotensin activation of ERK	Pathway_724
+Development_EDNRB signaling	Pathway_725
+Regulation of lipid metabolism_Stimulation of Arachidonic acid production by ACM receptors	Pathway_726
+Membrane-bound ESR1: interaction with G-proteins signaling	Pathway_727
+Th17 cytokines in COPD	Pathway_728
+Regulation of lipid metabolism_Regulation of acetyl-CoA carboxylase 1 activity in lipogenic tissue	Pathway_729
+Cortisone biosynthesis and metabolism	Pathway_730
+Inhibition of oligodendrocyte precursor cells differentiation by Wnt signaling in multiple sclerosis	Pathway_731
+Role of Thyroid hormone in regulation of oligodendrocyte differentiation in multiple sclerosis	Pathway_732
+Cell adhesion_Ephrin signaling	Pathway_733
+Development_Cytokine-mediated regulation of megakaryopoiesis	Pathway_734
+Notch signaling in breast cancer	Pathway_735
+Tryptophan metabolism/ Rodent version	Pathway_736
+Neurophysiological process_Thyroliberin in cell hyperpolarization and excitability	Pathway_737
+Development_TGF-beta-dependent induction of EMT via SMADs 	Pathway_738
+Development_Lipoxin inhibitory action on PDGF, EGF and LTD4 signaling	Pathway_739
+Translation_(L)-selenoaminoacids incorporation in proteins during translation	Pathway_740
+Transcription_Sirtuin6 regulation and functions 	Pathway_741
+Stem cells_CD30 signaling in transformed embryonic stem cells	Pathway_742
+Autophagy_Autophagy	Pathway_743
+Plasmalogen biosynthesis	Pathway_744
+Signal transduction_PKA signaling	Pathway_745
+Transcription_Transcription regulation of aminoacid metabolism	Pathway_746
+Fatty Acid Omega Oxidation	Pathway_747
+Immune response_Role of the Membrane attack complex in cell survival	Pathway_748
+PR action in breast cancer: stimulation of metastasis	Pathway_749
+Inhibition of Calcitriol/ VDR signaling in colorectal cancer	Pathway_750
+CHDI_Correlations from Discovery data_Causal network (positive)	Pathway_751
+Apoptosis and survival_TNF-alpha-induced ROS-dependent Caspase-3 signaling	Pathway_752
+Nociception_Nociceptin receptor signaling	Pathway_753
+Immune response_Neurotensin-induced activation of IL-8 in colonocytes	Pathway_754
+Propionate metabolism p.2	Pathway_755
+Immune response_Generation of memory CD4+ T cells	Pathway_756
+Androgen receptor activation and downstream signaling in Prostate cancer	Pathway_757
+Role of SHH and Notch in SCLC	Pathway_758
+Some pathways of EMT in cancer cells	Pathway_759
+VEGF signaling in multiple myeloma	Pathway_760
+Sphingolipid metabolism	Pathway_761
+Inhibition of remyelination in multiple sclerosis: role of cell-cell and ECM-cell interactions	Pathway_762
+Androstenedione and testosterone biosynthesis and metabolism p.1	Pathway_763
+Immune response_C5a signaling	Pathway_764
+Role of GIP in pathogenesis of type 2 diabetes	Pathway_765
+Immune response_HTR2A-induced activation of cPLA2	Pathway_766
+Taurine and hypotaurine metabolism	Pathway_767
+Cell adhesion_Role of tetraspanins in the integrin-mediated cell adhesion	Pathway_768
+Development_Slit-Robo signaling	Pathway_769
+Development_Hedgehog and PTH signaling pathways in bone and cartilage development	Pathway_770
+Translation_Non-genomic (rapid) action of Androgen Receptor	Pathway_771
+IL-2 as a growth factor for T cells in multiple sclerosis	Pathway_772
+CHDI_Correlations from Replication data_Cytoskeleton and adhesion module	Pathway_773
+PR action in breast cancer: stimulation of cell growth and proliferation	Pathway_774
+Nicotine metabolism in liver	Pathway_775
+Development_Mu-type opioid receptor signaling via Beta-arrestin	Pathway_776
+Neurophysiological process_Olfactory transduction	Pathway_777
+Apoptosis and survival_APRIL and BAFF signaling	Pathway_778
+IL-6 signaling pathway in lung cancer	Pathway_779
+Generation of cytotoxic CD8+ T cells in COPD	Pathway_780
+Role of CD8+ Tc1 cells in COPD	Pathway_781
+Ganglioside Metabolism p2	Pathway_782
+TLR2-induced platelet activation	Pathway_783
+Pro-oncogenic action of Androgen receptor in breast cancer	Pathway_784
+Role of Ghrelin in activation eating behavior in obesity	Pathway_785
+Regulation of angiogenesis in prostate cancer	Pathway_786
+Estradiol metabolism / Rodent version	Pathway_787
+DNA damage_NHEJ mechanisms of DSBs repair	Pathway_788
+Retinoic acid regulation of oligodendrocyte differentiation in multiple sclerosis	Pathway_789
+Ovarian cancer (main signaling cascades)	Pathway_790
+Role of Langerin+ dermal dendritic cells in contact hypersensitivity	Pathway_791
+Estrone metabolism / Human version	Pathway_792
+DeltaF508-CFTR traffic / ER-to-Golgi in CF	Pathway_793
+Immune response_IL-12-induced IFN-gamma production	Pathway_794
+Development_MicroRNA-dependent inhibition of EMT	Pathway_795
+Role of IGH translocations in multiple myeloma	Pathway_796
+Stem cells_Role of growth factors in the maintenance of embryonic stem cell pluripotency	Pathway_797
+Putative pathways of activation of classical complement system in major depressive disorder	Pathway_798
+TGF-beta signaling via SMADs in breast cancer	Pathway_799
+Development_G-protein-mediated regulation of MAPK-ERK signaling	Pathway_800
+Cytoskeleton remodeling_Role of PKA in cytoskeleton reorganisation	Pathway_801
+Immune response_IL-33 signaling pathway	Pathway_802
+Anti-apoptotic pathways in endoplasmic reticulum stress response in multiple myeloma	Pathway_803
+Lysophospholipid mediators-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_804
+Transcription_ChREBP regulation pathway	Pathway_805
+Neurophysiological process_HTR1A receptor signaling in neuronal cells	Pathway_806
+Retinol metabolism / Rodent version	Pathway_807
+Immune response_Production and main functions of biologically active leukotrienes and Lipoxin A4	Pathway_808
+Androstenedione and testosterone biosynthesis and metabolism p.3	Pathway_809
+Canonical Leptin pathways in breast cancer	Pathway_810
+Cell adhesion_Integrin-mediated cell adhesion and migration	Pathway_811
+Environmental factors-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_812
+SLE genetic marker-specific pathways in B cells	Pathway_813
+Cytoskeleton remodeling_Hyaluronic acid/ CD44 signaling pathways	Pathway_814
+SHH signaling in melanoma	Pathway_815
+E-cadherin signaling and its regulation in gastric cancer	Pathway_816
+Signal transduction_ERK1/2 signaling pathway	Pathway_817
+Signal transduction_PTMs (phosphorylation) in TNF-alpha-induced NF-kB signaling	Pathway_818
+The role of aberrations in CDKN2 locus and CDK4 in familial melanoma	Pathway_819
+Stellate cells activation and liver fibrosis	Pathway_820
+Development_Growth hormone signaling via PI3K/AKT and MAPK cascades	Pathway_821
+Immune response_TLR ligands	Pathway_822
+Immune response_LTBR1 signaling	Pathway_823
+Immune response_Naive CD4+ T cell differentiation	Pathway_824
+Resistance of pancreatic cancer cells to death receptor signaling	Pathway_825
+Th2-cytokines-induced expression of mucins in asthma 	Pathway_826
+Regulation of metabolism_Role of Adiponectin in regulation of metabolism	Pathway_827
+Role of histone modificators in progression of multiple myeloma	Pathway_828
+Angiotensin II Signaling in Cardiac Hypertrophy	Pathway_829
+Autocrine production of eosinophil pro-survival cytokines in asthma	Pathway_830
+Impaired inhibitory action of lipoxins on ROS production in neutrophils in CF	Pathway_831
+Benzo[a]pyrene metabolism	Pathway_832
+Immune response_IL-22 signaling pathway	Pathway_833
+Transition of HCC cells to invasive and migratory phenotype	Pathway_834
+Immune response_IL-13 signaling via PI3K-ERK pathway	Pathway_835
+Development_Regulation of cytoskeleton proteins in oligodendrocyte differentiation and myelination	Pathway_836
+Vitamin E (alfa-tocopherol) metabolism	Pathway_837
+B cell signaling in hematological malignancies	Pathway_838
+Development_Hedgehog signaling	Pathway_839
+Translation_Regulation of translation initiation	Pathway_840
+Platelet activation as a result of endothelial dysfunction after stenting	Pathway_841
+IgE-dependent production of pro-inflammatory mediators by neutrophils in asthma	Pathway_842
+Apoptosis and survival_Granzyme B signaling	Pathway_843
+Development_VEGF-family signaling	Pathway_844
+Histone deacetylases in Prostate Cancer	Pathway_845
+Role of inhibition of WNT signaling in the progression of lung cancer	Pathway_846
+G-protein signaling_TC21 regulation pathway	Pathway_847
+Development_Thyroliberin signaling	Pathway_848
+Development_IGF-1 receptor signaling	Pathway_849
+Alcohol metabolism predisposition of HCC development	Pathway_850
+Histidine-glutamate-glutamine and proline metabolism/ Rodent version	Pathway_851
+Transition of Smoldering multiple myeloma to active multiple myeloma (schema)	Pathway_852
+Stem cells_Signaling pathways in embryonic hepatocyte maturation	Pathway_853
+Catecholamine metabolism	Pathway_854
+Stem cells_FGF2 signaling during embryonic stem cell differentiation	Pathway_855
+Immune response_T regulatory cell-mediated modulation of antigen-presenting cell functions	Pathway_856
+Immune response_Human NKG2D signaling	Pathway_857
+Stem cells_Schema: Embryonal cardiomyogenesis	Pathway_858
+Ubiquitin-proteasome system in Huntington's disease	Pathway_859
+Role of IFN-beta in the improvement of blood-brain barrier integrity in multiple sclerosis	Pathway_860
+Aminoacyl-tRNA biosynthesis in mitochondrion	Pathway_861
+IL-1 signaling in melanoma	Pathway_862
+Development_Role of HGF in hematopoietic stem cell mobilization	Pathway_863
+Muscle contraction_nNOS signaling in skeletal muscle 	Pathway_864
+Muscle contraction_S1P2 receptor-mediated smooth muscle contraction	Pathway_865
+Interaction of deficient alpha-MSH signaling with TNF-alpha in melanoma	Pathway_866
+Development_Activation of ERK by Alpha-1 adrenergic receptors	Pathway_867
+Inhibition of TGF-beta signaling in gastric cancer	Pathway_868
+Regulation of lipid metabolism_Regulation of fatty acid synthesis: NLTP and EHHADH	Pathway_869
+IL-17 and IL-17F-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_870
+Breast cancer (general schema)	Pathway_871
+Immune response_Fc gamma R-mediated phagocytosis in macrophages	Pathway_872
+Cholesterol and Sphingolipid transport / Transport from Golgi and ER to the apical membrane (normal and CF)	Pathway_873
+Pro-oncogenic action of Estradiol/ Estrogen receptors in ovarian cancer	Pathway_874
+Tyrosine metabolism p.1 (dopamine) 	Pathway_875
+Transport_RAN regulation pathway	Pathway_876
+Inhibition of mast cell functions by Siglecs in asthma	Pathway_877
+Degranulation of lung mast cells	Pathway_878
+Role of Nicotine-induced Leptin resistance in hypothalamus in development of obesity	Pathway_879
+Gamma-secretase regulation of gastrointestinal epithelial cell development	Pathway_880
+Immune response_IL-7 signaling in T lymphocytes	Pathway_881
+Ascorbate metabolism / Rodent version	Pathway_882
+HCV-dependent regulation of membrane receptors signaling in HCC	Pathway_883
+Immune response_Differentiation of natural regulatory T cells	Pathway_884
+Aberrant production of IL-2 and IL-17 in SLE T cells	Pathway_885
+Regulation of beta-adrenergic receptors signaling in pancreatic cancer	Pathway_886
+Signal transduction_PTMs in BAFF-induced signaling	Pathway_887
+Regulation of AKT(PKB)/ GSK3 beta cascade in bipolar disorder	Pathway_888
+SHH signaling in colorectal cancer	Pathway_889
+DNA damage_ATM/ATR regulation of G1/S checkpoint	Pathway_890
+Cytoskeleton remodeling_TGF, WNT and cytoskeletal remodeling	Pathway_891
+Immune response_NF-AT signaling and leukocyte interactions	Pathway_892
+DNA damage_ATM / ATR regulation of G2 / M checkpoint	Pathway_893
+Neurophysiological process_ACM regulation of nerve impulse	Pathway_894
+Platelet activation during ADAM-TS13-deficient thrombotic microangiopathy development	Pathway_895
+Cholesterol metabolism	Pathway_896
+Triacylglycerol metabolism p.2	Pathway_897
+Resolution of inflammation in healing myocardial infarction	Pathway_898
+Transcription_Mechanism of regulation of the transcription of Retinoid-target genes	Pathway_899
+Disruption of epithelial layer restitution in asthma	Pathway_900
+Development_Role of Activin A in cell differentiation and proliferation	Pathway_901
+Tyrosine metabolism p.2 (melanin)	Pathway_902
+Development_Neurotrophin family signaling	Pathway_903
+Development_Alpha-2 adrenergic receptor activation of ERK	Pathway_904
+Protein folding and maturation_Angiotensin system maturation \ Rodent version	Pathway_905
+Immune response_Inflammasome in inflammatory response	Pathway_906
+Aryl hydrocarbon receptor signaling	Pathway_907
+p53 signaling in Prostate Cancer	Pathway_908
+Cell cycle_Sister chromatid cohesion	Pathway_909
+Immune response_ETV3 affect on CSF1-promoted macrophage differentiation	Pathway_910
+Apoptosis and survival_Anti-apoptotic action of Gastrin	Pathway_911
+Stem cells_SDF-1 axis in endothelial progenitor cell recruitment in healing myocardial infarction	Pathway_912
+Signal transduction_Soluble CXCL16 signaling	Pathway_913
+Prostaglandin 1 biosynthesis and metabolism	Pathway_914
+Immune response_IL-13 signaling via JAK-STAT	Pathway_915
+Role of Tissue factor in cancer independent of coagulation protease signaling	Pathway_916
+GTP metabolism	Pathway_917
+Neurophysiological process_nNOS signaling in neuronal synapses	Pathway_918
+Transport_Alpha-2 adrenergic receptor regulation of ion channels	Pathway_919
+Regulation of lipid metabolism_Insulin signaling: generic cascades	Pathway_920
+Probable BMP4-mediated induction of EMT in airway epithelium	Pathway_921
+Pioglitazone and Rosiglitazone in treatment of type 2 diabetes and metabolic syndrome X	Pathway_922
+TTP metabolism	Pathway_923
+Immune response_HMGB1 release from the cell	Pathway_924
+Regulation of lipid metabolism_Regulation of lipid metabolism via LXR, NF-Y and SREBP	Pathway_925
+Oxidative stress_Role of Sirtuin1 and PGC1-alpha in activation of antioxidant defense system	Pathway_926
+ESR1 (membrane) 36 kDa isoform signaling in breast cancer	Pathway_927
+Inhibition of apoptosis in multiple myeloma	Pathway_928
+Stem cells_Generation of pancreatic beta-cells from induced pluripotent stem cells	Pathway_929
+1-Naphthylamine and 1-Nitronaphtalene metabolism	Pathway_930
+Neurophysiological process_Mu-type opioid receptor-mediated analgesia	Pathway_931
+Immune response_IL-6 signaling pathway via JAK/STAT	Pathway_932
+Development_Delta- and kappa-type opioid receptors signaling via beta-arrestin	Pathway_933
+Impaired Lipoxin A4 signaling in CF	Pathway_934
+Muscle contraction_Regulation of eNOS activity in cardiomyocytes	Pathway_935
+Cell adhesion_Cell-matrix glycoconjugates	Pathway_936
+Development_S1P4 receptor signaling pathway	Pathway_937
+GLP-1 in inhibition of beta cell proliferation and function in type 2 diabetes	Pathway_938
+Immune response_ICOS pathway in T-helper cell	Pathway_939
+Inhibition of apoptosis in pancreatic cancer	Pathway_940
+FGF signaling in pancreatic cancer	Pathway_941
+Transport_Clathrin-coated vesicle cycle	Pathway_942
+Influence of bone marrow cell environment on progression of multiple myeloma	Pathway_943
+Cell adhesion_Histamine H1 receptor signaling in the interruption of cell barrier integrity	Pathway_944
+Apoptosis and survival_Beta-2 adrenergic receptor anti-apoptotic action	Pathway_945
+Inhibition of WNT5A-dependent non-canonical pathway in colorectal cancer	Pathway_946
+Inhibition of neutrophil migration by proresolving lipid mediators in COPD	Pathway_947
+Transcription_N-CoR/ SMRT complex-mediated epigenetic gene silencing	Pathway_948
+EGFR signaling pathway in lung cancer	Pathway_949
+N-Acylethanolamines. N-Acyltransferase pathway	Pathway_950
+Development_Role of Thyroid hormone in regulation of oligodendrocyte differentiation	Pathway_951
+Transcription_Role of the non-genomic action of Retinoic acid and phosphorylation of Retinoic acid receptors in the initiation of transcription	Pathway_952
+Estradiol metabolism / Human version	Pathway_953
+Immune response_NFAT in immune response	Pathway_954
+Inhibition of GSK3 beta by lithium in major depressive disorder	Pathway_955
+Neolacto-series GSL Metabolism p.2	Pathway_956
+G-protein signaling_S1P2 receptor signaling pathway	Pathway_957
+Role of fibroblasts and keratinocytes in the elicitation phase of allergic contact dermatitis	Pathway_958
+c-Myc in multiple myeloma	Pathway_959
+Histidine-glutamate-glutamine metabolism	Pathway_960
+Development_Growth factors in regulation of oligodendrocyte precursor cell survival	Pathway_961
+Metabolism in pancreatic cancer cells	Pathway_962
+Transcription_Ligand-dependent activation of the ESR1/SP pathway	Pathway_963
+Reproduction_Progesterone-mediated oocyte maturation	Pathway_964
+Neutrophil chemotaxis in asthma	Pathway_965
+Nicotine signaling in cholinergic neurons	Pathway_966
+Non-genomic signaling of ESR2 (membrane) in lung cancer cells	Pathway_967
+Trichloroethylene metabolism/Rodent version	Pathway_968
+Apoptosis and survival_Cytoplasmic/mitochondrial transport of proapoptotic proteins Bid, Bmf and Bim	Pathway_969
+Epithelial cell anoikis in COPD	Pathway_970
+Translation_Regulation of EIF4F activity	Pathway_971
+Role of platelets in allograft rejection	Pathway_972
+Development_MAG-dependent inhibition of neurite outgrowth	Pathway_973
+Inhibition of mast cell functions by Fc gamma RII beta in asthma	Pathway_974
+Development_Gastrin in differentiation of the gastric mucosa	Pathway_975
+HDL dyslipidemia in type 2 diabetes and metabolic syndrome X	Pathway_976
+Regulation of metabolism_Triiodothyronine and Thyroxine signaling	Pathway_977
+Role of DNA methylation in progression of multiple myeloma	Pathway_978
+Cell cycle_The metaphase checkpoint	Pathway_979
+Th17 cells in CF	Pathway_980
+Production of reactive oxygen species and arachidonic acid metabolites by neutrophils in asthma	Pathway_981
+Apoptosis and survival_nAChR in apoptosis inhibition and cell cycle progression	Pathway_982
+Immune response_Classical complement pathway	Pathway_983
+Immune response_MIF-JAB1 signaling	Pathway_984
+Role of IL-8 in colorectal cancer	Pathway_985
+CFTR translational fidelity (class I mutations)	Pathway_986
+Role of cell adhesion in vaso-occlusion in Sickle cell disease	Pathway_987
+Cell adhesion_Alpha-4 integrins in cell migration and adhesion	Pathway_988
+Cigarette smoke-induced proliferation, metaplasia and survival of airway epithelial cells 	Pathway_989
+Blood coagulation_Blood coagulation	Pathway_990
+Mucin expression in CF airways	Pathway_991
+Transcription_Sin3 and NuRD in transcription regulation	Pathway_992
+Immune response_Inhibitory action of Lipoxins on pro-inflammatory TNF-alpha signaling	Pathway_993
+Regulation of lipid metabolism_FXR-dependent negative-feedback regulation of bile acids concentration	Pathway_994
+Immune response_Platelet activating factor/ PTAFR pathway signaling	Pathway_995
+Stem cells_TGF-beta family mediated differentiation of embryonic stem cells	Pathway_996
+Possible influence of low doses of Arsenite on glucose uptake in muscle	Pathway_997
+Stem cells_Inhibition of Hedgehog signaling in medulloblastoma stem cells	Pathway_998
+Effect of H. pylori infection on gastric epithelial cells motility	Pathway_999
+Neolacto-series GSL Metabolism p.2 / Human version	Pathway_1000
+Role of activation of WNT signaling in the progression of lung cancer	Pathway_1001
+Transcription_CoREST complex-mediated epigenetic gene silencing	Pathway_1002
+Apoptosis and survival_TNF-alpha-induced Caspase-8 signaling	Pathway_1003
+Microsatellite instability in colorectal cancer	Pathway_1004
+Role of adhesion of SCLC cells in tumor progression	Pathway_1005
+EGFR family signaling in pancreatic cancer	Pathway_1006
+Cytoskeleton remodeling_Substance P mediated membrane blebbing	Pathway_1007
+Phosphatidylinositol metabolism	Pathway_1008
+Stem cells_H3K9 demethylases in pluripotency maintenance of stem cells	Pathway_1009
+Stem cells_WNT/Beta-catenin and NOTCH in induction of osteogenesis	Pathway_1010
+Development_Oligodendrocyte differentiation from adult stem cells	Pathway_1011
+Chemotaxis_CCR1 signaling	Pathway_1012
+Induction of mucin secretion in  airway goblet cells by purinergic receptors	Pathway_1013
+Stem cells_Schema: Osteogenic and adipogenic differentiation of mesenchymal stem cells	Pathway_1014
+Mechanism of Pioglitazone/ Metformin and Rosiglitazone/ Metformin  cooperative action in Diabetes mellitus, Type 2	Pathway_1015
+Muscle contraction_Relaxin signaling pathway	Pathway_1016
+Cell cycle progression in Prostate Cancer	Pathway_1017
+PDGF activation of prostacyclin synthesis 	Pathway_1018
+Role of mevalonate pathway in multiple myeloma	Pathway_1019
+Role of inflammasome in macrophages, adipocytes and pancreatic beta cells in type 2 diabetes	Pathway_1020
+Role of cell adhesion molecules in progression of pancreatic cancer	Pathway_1021
+G-protein signaling_Rac3 regulation pathway	Pathway_1022
+Th2 cytokine-induced alternative activation of alveolar macrophages in asthma	Pathway_1023
+Impaired inhibition of Th17 cell differentiation by IFN-beta in multiple sclerosis	Pathway_1024
+Histamine metabolism	Pathway_1025
+Development_Alpha-1 adrenergic receptors signaling via Cyclic AMP	Pathway_1026
+Development_FGF-family signaling	Pathway_1027
+HBV signaling via protein kinases leading to HCC	Pathway_1028
+Release of pro-inflammatory mediators and elastolytic enzymes by alveolar macrophages in COPD	Pathway_1029
+Airway smooth muscle contraction in asthma	Pathway_1030
+G-protein signaling_G-Protein alpha-12 signaling pathway	Pathway_1031
+G-protein signaling_N-RAS regulation pathway	Pathway_1032
+Immune responses in asthma (schema)	Pathway_1033
+Prostaglandins and leukotrienes-mediated induction of expression of mucins in normal and asthmatic epithelium 	Pathway_1034
+Stem cells_Trophectoderm differentiation	Pathway_1035
+Immune response_MIF in innate immunity response	Pathway_1036
+WNT signaling in invasive-type melanoma cells	Pathway_1037
+Phospholipid metabolism p.2	Pathway_1038
+The role of KEAP1/NRF2 pathway in skin sensitization	Pathway_1039
+Effect of H. pylori infection on gastric epithelial cell proliferation	Pathway_1040
+Influence of smoking on activation of EGFR signaling in lung cancer cells	Pathway_1041
+Main genetic and epigenetic alterations in lung cancer	Pathway_1042
+High shear stress-induced platelet activation	Pathway_1043
+Neurophysiological process_Long-term depression in cerebellum	Pathway_1044
+Role of microRNAs in cell migration, survival and angiogenesis in colorectal cancer	Pathway_1045
+Glucocorticoid-induced elevation of intraocular pressure as glaucoma risk factor	Pathway_1046
+Proinflammatory mediators release and arachidonic acid metabolites production in basophils in asthma	Pathway_1047
+Apoptosis and survival_TNFR1 signaling pathway	Pathway_1048
+Development_Glucocorticoid receptor signaling	Pathway_1049
+Immune response_Inhibitory PD-1 signaling in T cells	Pathway_1050
+IGF-1 signaling in pancreatic cancer	Pathway_1051
+Regulation of lipid metabolism_Alpha-1 adrenergic receptors signaling via arachidonic acid	Pathway_1052
+Neurophysiological process_Receptor-mediated axon growth repulsion	Pathway_1053
+Urea cycle	Pathway_1054
+Role of neuropeptides in pathogenesis of SCLC	Pathway_1055
+Stem cells_BMP signaling in cardiac myogenesis	Pathway_1056
+DNA damage_Role of NFBD1 in DNA damage response	Pathway_1057
+HSP22 and BAG-3-dependend macroautophagy in Huntington's disease	Pathway_1058
+FGF2 in multiple myeloma	Pathway_1059
+Putative pathways of MHC class I-dependent postsynaptic long-term depression in major depressive disorder	Pathway_1060
+G-protein signaling_K-RAS regulation pathway	Pathway_1061
+Cell adhesion_ECM remodeling	Pathway_1062
+Nicotine signaling in glutamatergic neurons	Pathway_1063
+DeltaF508-CFTR traffic / Sorting endosome formation in CF	Pathway_1064
+Cell cycle_Role of 14-3-3 proteins in cell cycle regulation	Pathway_1065
+Peroxysomal straight-chain fatty acid beta-oxidation	Pathway_1066
+Amitraz-induced inhibition of Insulin secretion	Pathway_1067
+G-protein signaling_Rap2A regulation pathway	Pathway_1068
+Apoptosis and survival_DNA-damage-induced apoptosis	Pathway_1069
+IgE- and MGF-induced Lyn-mediated production of cytokines and arachidonic acid metabolites in lung mast cells in asthma	Pathway_1070
+Leucine, isoleucine and valine metabolism.p.2	Pathway_1071
+CHDI_DEGs from Replication data_Causal network	Pathway_1072
+IL-1 beta-dependent CFTR expression	Pathway_1073
+Proline metabolism	Pathway_1074
+Cell adhesion_Integrin inside-out signaling in T cells	Pathway_1075
+Regulation of mast cell survival in asthma	Pathway_1076
+Action of GSK3 beta in bipolar disorder	Pathway_1077
+Saturated fatty acid biosynthesis	Pathway_1078
+Cell cycle_Role of SCF complex in cell cycle regulation	Pathway_1079
+Immune response_HSP60 and HSP70/ TLR signaling pathway	Pathway_1080
+PDE4 regulation of cyto/chemokine expression in arthritis	Pathway_1081
+dCTP/dUTP metabolism	Pathway_1082
+Oxidative stress in adipocyte dysfunction in type 2 diabetes and metabolic syndrome X	Pathway_1083
+Dysregulation of Adiponectin secretion from adipocytes in obesity, type 2 diabetes and metabolic syndrome X	Pathway_1084
+The role of UV radiation in melanoma development	Pathway_1085
+Retinal ganglion cell damage in glaucoma	Pathway_1086
+Neurophysiological process_GABA-A receptor life cycle	Pathway_1087
+Pancreatic cancer cell resistance to Tarceva (erlotinib)	Pathway_1088
+Signal transduction_Additional pathways of NF-kB activation (in the nucleus)	Pathway_1089
+Catecholamine metabolism / Human version	Pathway_1090
+Glomerular filtration and renal reabsorption of bile acids / Rodent version	Pathway_1091
+Glucagon-induced glucose upregulation in type 2 diabetes in liver 	Pathway_1092
+Development_Regulation of telomere length and cellular immortalization	Pathway_1093
+Development_SSTR1 in regulation of cell proliferation and migration	Pathway_1094
+Nicotine / nAChR alpha-3/nAChR beta-2 signaling in NSCLC	Pathway_1095
+Mechanism of Pioglitazone and Rosiglitazon action in Diabetes mellitus, Type 2	Pathway_1096
+Development_PDGF signaling via MAPK cascades	Pathway_1097
+Blood coagulation_GPIb-IX-V-dependent platelet activation	Pathway_1098
+Gamma-secretase regulation of angiogenesis	Pathway_1099
+Stem cells_Putative pathways of telomerase regulation in glioblastoma stem cells	Pathway_1100
+Th9 cells in asthma	Pathway_1101
+Naphthalene metabolism	Pathway_1102
+Development_Delta-type opioid receptor mediated cardioprotection	Pathway_1103
+Development_WNT signaling pathway. Part 2	Pathway_1104
+Development_BMP signaling	Pathway_1105
+Cytoskeleton remodeling_Regulation of actin cytoskeleton by Rho GTPases	Pathway_1106
+Protein folding and maturation_POMC processing	Pathway_1107
+G-protein signaling_Regulation of p38 and JNK signaling mediated by G-proteins	Pathway_1108
+Stem cells_FGF and BMP signaling in early embryonic hepatogenesis	Pathway_1109
+Activation of pro-oncogenic TGF-beta potential in gastric cancer	Pathway_1110
+UMP biosynthesis	Pathway_1111
+Development_GDNF signaling	Pathway_1112
+Development_PIP3 signaling in cardiac myocytes	Pathway_1113
+Cytoskeleton remodeling_Thyroliberin in cytoskeleton remodeling	Pathway_1114
+Role of Leptin in regulation of eating behavior in obesity	Pathway_1115
+Fructose metabolism/ Rodent version	Pathway_1116
+Cytoskeleton remodeling_Role of PDGFs in cell migration	Pathway_1117
+Glucose-excited neurons of ventromedial nucleus (rodent model)	Pathway_1118
+Anti-apoptotic action of Gastrin in gastric cancer	Pathway_1119
+wtCFTR traffic / Sorting endosome formation (normal)	Pathway_1120
+Pentose phosphate pathway/ Rodent version	Pathway_1121
+IL-1 beta- and Endothelin-1-induced fibroblast/ myofibroblast migration and extracellular matrix production in asthmatic airways	Pathway_1122
+Cytoskeleton remodeling_Reverse signaling by ephrin B	Pathway_1123
+Deregulation of canonical WNT signaling in major depressive disorder	Pathway_1124
+Immune response_IL-18 signaling	Pathway_1125
+Cell adhesion_Integrin inside-out signaling	Pathway_1126
+Glucose-inhibited neurons of ventromedial and arcuate nuclei (rodent model)	Pathway_1127
+Intercellular relations in asthma (general schema)	Pathway_1128
+Aminoacyl-tRNA biosynthesis in cytoplasm	Pathway_1129
+G-protein signaling_Cross-talk between Ras-family GTPases	Pathway_1130
+The innate immune response to contact allergens	Pathway_1131
+dATP/dITP metabolism	Pathway_1132
+HIV-1 signaling via CCR5 in macrophages and T lymphocytes	Pathway_1133
+Development_Transactivation of PDGFR in non-neuronal cells by Dopamine D2 receptor	Pathway_1134
+Immune response_TLR2 and TLR4 signaling pathways	Pathway_1135
+Immune response_Role of integrins in NK cells cytotoxicity	Pathway_1136
+Canonical WNT signaling pathway in colorectal cancer	Pathway_1137
+Lacto-series GSL Metabolism	Pathway_1138
+Oxidative stress_Role of IL-8 signaling pathway in respiratory burst	Pathway_1139
+Ca(2+)-dependent NF-AT signaling in cardiac hypertrophy	Pathway_1140
+G-protein signaling_G-Protein alpha-s signaling cascades	Pathway_1141
+Arsenite metabolism and transport	Pathway_1142
+PXR signaling via cross-talk / Human Version	Pathway_1143
+Desensitization of Beta-2 adrenergic receptor signaling and reduction of relaxation	Pathway_1144
+Cell cycle_Nucleocytoplasmic transport of CDK/Cyclins	Pathway_1145
+Immune response_IL-15 signaling via JAK-STAT cascade	Pathway_1146
+Vitamin B3 (nicotinamide) metabolism	Pathway_1147
+Protein folding and maturation_Bradykinin / Kallidin maturation	Pathway_1148
+Aldosterone biosynthesis and metabolism	Pathway_1149
+Propionate metabolism p.1	Pathway_1150
+Regulation of CFTR gating (normal and CF)	Pathway_1151
+Mitogenic action of ESR1 (membrane) in breast cancer	Pathway_1152
+Immune response_LPS-induced platelet activation	Pathway_1153
+Type 2 diabetes (general schema)	Pathway_1154
+Proteolysis_Role of Parkin in the Ubiquitin-Proteasomal Pathway	Pathway_1155
+Aflatoxin B1-dependent induction of HCC	Pathway_1156
+Immune response_IL-16 signaling pathway	Pathway_1157
+Neurophysiological process_Activity-dependent synaptic AMPA receptor removal	Pathway_1158
+Inflammatory factors-induced expression of mucins in normal and asthmatic epithelium	Pathway_1159
+HCV-mediated liver damage and predisposition to HCC via cell stress	Pathway_1160
+Chemotaxis_CCL19- and CCl21-mediated chemotaxis	Pathway_1161
+Tricarbonic acid cycle	Pathway_1162
+Regulation of intrinsic membrane properties and excitability of striatopallidal medium spiny neurons in Huntington's disease	Pathway_1163
+Down-regulation of mast cell functions through ITIM-containing inhibitory receptors in asthma	Pathway_1164
+CHDI_Correlations from Replication data_Causal network (negative correlations)	Pathway_1165
+Role of Th17 cells in asthma	Pathway_1166
+Regulation of lipid metabolism_Insulin regulation of glycogen metabolism 	Pathway_1167
+HGF signaling in colorectal cancer	Pathway_1168
+Activation of TGF-beta signaling in pancreatic cancer	Pathway_1169
+Development_Transcriptional regulation of megakaryopoiesis	Pathway_1170
+Mitochondrial dysfunction in neurodegenerative diseases	Pathway_1171
+Action of lithium on synaptic transmission and autophagy	Pathway_1172
+Transcription_Receptor-mediated HIF regulation	Pathway_1173
+Development_Regulation of epithelial-to-mesenchymal transition (EMT)	Pathway_1174
+Stem cells_Excitotoxicity of Glutamate in glioblastoma	Pathway_1175
+Stem cells_Role of PKR1 and ILK in cardiac progenitor cells	Pathway_1176
+Signal transduction_PTMs in IL-17-induced CIKS-dependent NF-kB signaling and mRNA stabilization	Pathway_1177
+GLP-1 in beta cell apoptosis in type 2 diabetes	Pathway_1178
+Hedgehog signaling in pancreatic cancer	Pathway_1179
+Endothelin-1- and TNF-alpha-induced inflammatory response in asthmatic airway fibroblasts	Pathway_1180
+Th17 cells in CF (mouse model)	Pathway_1181
+Role of ER stress in obesity and type 2 diabetes	Pathway_1182
+DNA damage_DNA-damage-induced responses	Pathway_1183
+Transport_ACM3 in salivary glands	Pathway_1184
+Stem cells_Role of TGF-beta 1 in fibrosis development after myocardial infarction	Pathway_1185
+Immune response_IL-17 signaling pathways	Pathway_1186
+Stem cells_Inflammatory response in ischemia-reperfusion injury during myocardial infarction	Pathway_1187
+Role of type 2 innate lymphoid cells in airway allergic inflammation and tissue repair	Pathway_1188
+Cell cycle_Initiation of mitosis	Pathway_1189
+Cell cycle_Chromosome condensation in prometaphase	Pathway_1190
+Glycolysis and gluconeogenesis p.3 / Human version	Pathway_1191
+Neuropeptide signaling in pancreatic cancer	Pathway_1192
+Anti-apoptotic action of Gastrin in pancreatic cancer	Pathway_1193
+Ascorbate metabolism	Pathway_1194
+Putative pathways of Oleic acid sensing in ventromedial hypothalamus in obesity (rodent model)	Pathway_1195
+Cytoskeleton remodeling_ESR1 action on cytoskeleton remodeling and cell migration	Pathway_1196
+PI3K signaling in gastric cancer	Pathway_1197
+Stromal-epithelial interaction in Prostate Cancer	Pathway_1198
+Protein folding and maturation_Posttranslational processing of neuroendocrine peptides	Pathway_1199
+Development_Angiotensin signaling via beta-Arrestin	Pathway_1200
+Mitochondrial unsaturated fatty acid beta-oxidation	Pathway_1201
+Cytoskeleton remodeling_RalB regulation pathway	Pathway_1202
+Regulation of lipid metabolism_Regulation of lipid metabolism by niacin and isoprenaline	Pathway_1203
+Dual role of TGF-beta 1 in HCC 	Pathway_1204
+Development_Non-genomic action of Retinoic acid in cell differentiation	Pathway_1205
+Beta-alanine metabolism/ Rodent version	Pathway_1206
+G-protein signaling_Rap1A regulation pathway	Pathway_1207
+Transcription_PPAR Pathway	Pathway_1208
+Putative pathways of hormone action in neurofibromatosis type 1	Pathway_1209
+Development_Angiopoietin - Tie2 signaling	Pathway_1210
+Dysregulation of indirect glucose-induced inhibition of Glucagon secretion from alpha-cells in type 2 diabetes 	Pathway_1211
+Cigarette smoke-induced oxidative stress and apoptosis in airway epithelial cells	Pathway_1212
+Immune response_IL-2 activation and signaling pathway	Pathway_1213
+Neuroprotective action of lithium	Pathway_1214
+Development_Thrombospondin-1 signaling	Pathway_1215
+DNA damage_Mismatch repair	Pathway_1216
+Development_S1P1 receptor signaling via beta-arrestin	Pathway_1217
+Immune response_Oncostatin M signaling via JAK-Stat in human cells	Pathway_1218
+Estrone metabolism	Pathway_1219
+Interleukins-induced inflammatory response in asthmatic airway fibroblasts	Pathway_1220
+IGF family, invasion and metastasis in colorectal cancer	Pathway_1221
+Nicotine signaling in GABAergic neurons	Pathway_1222
+Reactive oxygen and nitrogen species production in eosinophils in asthma	Pathway_1223
+LRRK2 and immune function in Parkinson's disease	Pathway_1224
+Neurophysiological process_GABA-B receptor-mediated regulation of glutamate signaling in Purkinje cells	Pathway_1225
+Development_Role of CDK5 in neuronal development	Pathway_1226
+Th2-cytokines and IFN-mediated regulation of airway smooth muscle contraction	Pathway_1227
+Keratan sulfate metabolism p.1	Pathway_1228
+Possible regulation of HSF-1/ chaperone pathway in Huntington's disease	Pathway_1229
+Immune response_T cell subsets: secreted signals	Pathway_1230
+Development_Inhibition of angiogenesis by PEDF	Pathway_1231
+WNT signaling in proliferative-type melanoma cells	Pathway_1232
+G-protein signaling_RAC1 in cellular process	Pathway_1233
+Cytoskeleton remodeling_FAK signaling	Pathway_1234
+Deregulation of Ca2+-dependent neuronal cell survival in Huntington's disease	Pathway_1235
+Immune response_PGE2 in immune and neuroendocrine system interactions	Pathway_1236
+Cell adhesion_Endothelial cell contacts by non-junctional mechanisms	Pathway_1237
+Role of growth factor receptors transactivation by Hyaluronic acid / CD44 signaling in tumor progression	Pathway_1238
+Role of Endothelin-1 in inflammation and vasoconstriction in Sickle cell disease	Pathway_1239
+Development_Osteopontin signaling in osteoclasts	Pathway_1240
+N-Glycan biosynthesis p1	Pathway_1241
+HBV mediates angiogenesis in HCC	Pathway_1242
+Signal transduction_mTORC1 downstream signaling	Pathway_1243
+Stem cells_Schema: SMAD-dependent TGF-beta family signaling in embryonic stem cells	Pathway_1244
+Proliferative action of Gastrin in pancreatic cancer	Pathway_1245
+Chemoresistance pathways mediated by constitutive activation of PI3K pathway and BCL-2 in small cell lung cancer	Pathway_1246
+Neolacto-series GSL Metabolism p.1	Pathway_1247
+CD8+ Tc1 cells in allergic contact dermatitis	Pathway_1248
+Riboflavin metabolism	Pathway_1249
+Development_Mu-type opioid receptor regulation of proliferation	Pathway_1250
+Role of prenatal nicotine exposure in apoptosis and proliferation of pancreatic beta cells	Pathway_1251
+Apoptotic pathways and resistance to apoptosis in lung cancer cells	Pathway_1252
+Arachidonic acid production	Pathway_1253
+Development_VEGF signaling via VEGFR2 - generic cascades	Pathway_1254
+K-RAS signaling in lung cancer	Pathway_1255
+Immune response_IL-27 signaling pathway	Pathway_1256
+Immune response_Reactive oxygen species (ROS) in IL-4 signaling	Pathway_1257
+Neurophysiological process_Constitutive and regulated NMDA receptor trafficking	Pathway_1258
+Immune response_Substance P-stimulated expression of proinflammatory cytokines via MAPKs	Pathway_1259
+Role of metalloproteases and heparanase in progression of pancreatic cancer	Pathway_1260
+Immune response  _Sialic-acid receptors (Siglecs) signaling	Pathway_1261
+CAR-mediated direct regulation of xenobiotic metabolizing enzymes / Rodent version	Pathway_1262
+Interconnectivity between Folic acid and Fluorouracil pathways in gastric cancer	Pathway_1263
+Activation of ACTH production in pituitary gland in major depressive disorder	Pathway_1264
+G-protein signaling_G-Protein alpha-i signaling cascades	Pathway_1265
+Role of XBP1 protein in multiple myeloma	Pathway_1266
+TLR and EGFR-induced inflammatory signaling in normal and asthmatic airway epithelium	Pathway_1267
+Lysine metabolism	Pathway_1268
+Chemokines in inflammation in adipose tissue and liver in obesity, type 2 diabetes and metabolic syndrome X	Pathway_1269
+Transcription_P53 signaling pathway	Pathway_1270
+Stem cells_Role of BMP signaling in embryonic stem cell neural differentiation	Pathway_1271
+MAPK-independent proliferation of normal and asthmatic smooth muscle cells	Pathway_1272
+Regulation of degradation of deltaF508-CFTR in CF	Pathway_1273
+Putative role of Tregs in COPD	Pathway_1274
+Influence of low doses of Arsenite on Glucose stimulated Insulin secretion in pancreatic cells	Pathway_1275
+Neurogenesis_NGF/ TrkA MAPK-mediated signaling	Pathway_1276
+Development_Angiotensin signaling via STATs	Pathway_1277
+T regulatory cell migration in asthma	Pathway_1278
+Ligand-independent activation of Androgen receptor in Prostate Cancer	Pathway_1279
+Glycolysis and gluconeogenesis p.3	Pathway_1280
+Neurophysiological process_Delta-type opioid receptor in the nervous system	Pathway_1281
+Transport_FXR-regulated cholesterol and bile acids cellular transport	Pathway_1282
+Immunological synapse between dendritic and CD8+ T cells in allergic contact dermatitis	Pathway_1283
+Transition of Monoclonal gammopathy of undetermined significance to active multiple myeloma (schema)	Pathway_1284
+Cell adhesion_Role of CDK5 in cell adhesion	Pathway_1285
+Cytoskeleton remodeling_CDC42 in cellular processes	Pathway_1286
+Neutrophil adhesion and transendothelial migration in asthma	Pathway_1287
+Galactose metabolism	Pathway_1288
+Cell adhesion_Endothelial cell contacts by junctional mechanisms	Pathway_1289
+Arachidonic acid metabolites production in eosinophils in asthma	Pathway_1290
+Development_Delta-type opioid receptor signaling via G-protein alpha-14	Pathway_1291
+TGF-beta-induced fibroblast/ myofibroblast migration and extracellular matrix production in asthmatic airways	Pathway_1292
+Epithelial cell apoptosis in COPD	Pathway_1293
+Role of Tissue factor-induced Thrombin signaling in cancerogenesis	Pathway_1294
+Development_Thrombopoietin-regulated cell processes	Pathway_1295
+Bile Acid Biosynthesis / Rodent version	Pathway_1296
+Transcription_Assembly of RNA Polymerase II preinitiation complex on TATA-less promoters 	Pathway_1297
+Development_Melanocyte development and pigmentation	Pathway_1298
+Glucocorticoids-mediated inhibition of pro-constrictory and pro-inflammatory signaling in airway smooth muscle cells	Pathway_1299
+Stem cells_H3K4 demethylases in stem cell maintenance	Pathway_1300
+Development_Growth hormone-releasing hormone (GH-RH) signaling	Pathway_1301
+Development_TGF-beta-induction of EMT via ROS	Pathway_1302
+Apoptosis and survival_NO synthesis and signaling	Pathway_1303
+Mechanisms of drug resistance in multiple myeloma	Pathway_1304
+Immune response_Innate immune response to RNA viral infection	Pathway_1305
+Anti-apoptotic action of ErbB2 in breast cancer	Pathway_1306
+EGFR signaling pathway in colorectal cancer	Pathway_1307
+SREBP1 cross-talk with PXR, CAR and LXR/ Rodent version	Pathway_1308
+Immune response_Th17 cell differentiation	Pathway_1309
+Role of epigenetic alterations in proliferation and differentiation of SCLC cells	Pathway_1310
+Cytoskeleton remodeling_Integrin outside-in signaling	Pathway_1311
+HBV-dependent NF-kB and PI3K/AKT pathways leading to HCC	Pathway_1312
+Regulation of lipid metabolism_Regulation of acetyl-CoA carboxylase 2 activity in muscle	Pathway_1313
+Immune response_Bacterial infections in normal airways	Pathway_1314
+Suppression of p53 signaling in multiple myeloma	Pathway_1315
+EML4/ALK fusion protein in nonsmoking-related lung cancer 	Pathway_1316
+Ganglioside Metabolism p1	Pathway_1317
+Immune response_CD28 signaling	Pathway_1318
+Acetaminophen metabolism	Pathway_1319
+Nicotine signaling in chromaffin cells	Pathway_1320
+Proinflammatory cytokine production by Th17 cells in asthma	Pathway_1321
+Neurophysiological process_Circadian rhythm	Pathway_1322
+Stem cells_Pancreatic cancer stem cells in tumor metastasis	Pathway_1323
+Lacto-series GSL Metabolism / Human version	Pathway_1324
+Th2-cytokines induced expression of Mucin 5AC and maintenance of mucous cell phenotype in normal airway epithelium	Pathway_1325
+Hedgehog signaling in gastric cancer	Pathway_1326
+Development_Beta-adrenergic receptor-induced regulation of ERK	Pathway_1327
+Apoptosis and survival_Anti-apoptotic TNFs/NF-kB/Bcl-2 pathway	Pathway_1328
+HIF-1 in gastric cancer	Pathway_1329
+IGF-1 signaling in multiple myeloma	Pathway_1330
+Development_Insulin, IGF-1 and TNF-alpha in brown adipocyte differentiation	Pathway_1331
+Chemotaxis_Inhibitory action of lipoxins on IL-8- and Leukotriene B4-induced neutrophil migration	Pathway_1332
+Development_Membrane-bound ESR1: interaction with growth factors signaling	Pathway_1333
+Role of osteoblasts in bone lesions formation in multiple myeloma	Pathway_1334
+Mechanisms of resistance to EGFR inhibitors in lung cancer	Pathway_1335
+Development_NOTCH-induced EMT	Pathway_1336
+Immune response_Th17, Th22 and Th9 cell differentiation 	Pathway_1337
+Development_TGF-beta-dependent induction of EMT via RhoA,  PI3K and ILK. 	Pathway_1338
+Transport_RAB3 regulation pathway	Pathway_1339
+Regulation of CFTR activity (normal and CF)	Pathway_1340
+Langerhans cell migration to lymph nodes in allergic contact dermatitis	Pathway_1341
+Regulation of proinflammatory cytokine production by Th2 cells in asthma	Pathway_1342
+Stimulation of gastric acid secretion in gastric cancer	Pathway_1343
+Stem cells_Early embryonal hypaxial myogenesis	Pathway_1344
+Apo-2L(TNFSF10)-induced apoptosis in melanoma	Pathway_1345
+FAK1 signaling in melanoma	Pathway_1346
+Development_SDF-1 signaling in hematopoietic stem cell homing	Pathway_1347
+Development_Gastrin in cell growth and proliferation	Pathway_1348
+Brca1 and Brca2 in breast cancer	Pathway_1349
+Complement pathway disruption in thrombotic microangiopathy	Pathway_1350
+TGF-beta signaling via microRNA in breast cancer	Pathway_1351
+Th1 and Th17 cells in an autoimmune mechanism of emphysema formation in smokers	Pathway_1352
+Apoptosis and survival_Inhibition of ROS-induced apoptosis by 17beta-estradiol	Pathway_1353
+Role of ZNF202 in regulation of expression of genes involved in atherosclerosis	Pathway_1354
+Apoptosis and survival_Endoplasmic reticulum stress response pathway	Pathway_1355
+Immune response_Role of DAP12 receptors in NK cells	Pathway_1356
+Proinflammatory cytokine release from eosinophils in asthma	Pathway_1357
+L-Alanine, L-Cysteine, and L-Methionine metabolism / Human version	Pathway_1358
+Immune response_Antigen presentation by MHC class I	Pathway_1359
+Immune response_Lectin induced complement pathway	Pathway_1360
+TGF-beta 1-mediated induction of EMT in normal and asthmatic airway epithelium	Pathway_1361
+Acetylcholine biosynthesis and metabolism	Pathway_1362
+T cell generation in COPD	Pathway_1363
+Vitamin D2 (ergocalciferol) metabolism	Pathway_1364
+Role of IL-6 in obesity and type 2 diabetes in adipocytes	Pathway_1365
+The role of PTEN and PI3K signaling in melanoma	Pathway_1366
+Development_Signaling of Beta-adrenergic receptors via Beta-arrestins	Pathway_1367
+Immune response_Oncostatin M signaling via MAPK in mouse cells	Pathway_1368
+Nicotine signaling (general schema)	Pathway_1369
+Role of IFN-beta in inhibition of Th1 cell differentiation in multiple sclerosis	Pathway_1370
+Proteases and EGFR-induced mucin synthesis in normal and asthmatic epithelium	Pathway_1371
+SLE genetic marker-specific pathways in T cells	Pathway_1372
+Chemotaxis_Leukocyte chemotaxis	Pathway_1373
+Neurophysiological process_GABA-B receptor signaling in presynaptic nerve terminals	Pathway_1374
+Immune response_Role of PKR in stress-induced antiviral cell response	Pathway_1375
+Signal transduction_PTMs in BAFF-induced non-canonical NF-kB signaling	Pathway_1376
+Enterohepatic circulation of bile acids / Rodent version	Pathway_1377
+Androstenedione and testosterone biosynthesis and metabolism p.2	Pathway_1378
+Muscle contraction_ACM regulation of smooth muscle contraction	Pathway_1379
+Immune response_T regulatory cell-mediated modulation of effector T cell and NK cell functions	Pathway_1380
+Immune response_Differentiation and clonal expansion of CD8+ T cells	Pathway_1381
+Immune response_C3a signaling	Pathway_1382
+Development_c-Kit ligand signaling pathway during hemopoiesis	Pathway_1383
+Main growth factor signaling cascades in multiple myeloma cells	Pathway_1384
+Development_TGF-beta receptor signaling	Pathway_1385
+Canonical Notch signaling pathway in colorectal cancer	Pathway_1386
+Role of Huntingtin in regulation of BDNF in Huntington's disease	Pathway_1387
+FGF signaling in Prostate Cancer	Pathway_1388
+Abnormalities in cell cycle in SCLC	Pathway_1389
+Transport_Intracellular cholesterol transport	Pathway_1390
+Upregulation of MITF in melanoma	Pathway_1391
+Cell adhesion_Integrin inside-out signaling in neutrophils	Pathway_1392
+Impaired NO signaling in CF airways	Pathway_1393
+Sorafenib-induced inhibition of cell proliferation and angiogenesis in HCC	Pathway_1394
+Development_HGF signaling pathway	Pathway_1395
+Development_EPO-induced PI3K/AKT pathway and Ca(2+) influx	Pathway_1396
+Immune response_Fc epsilon RI pathway	Pathway_1397
+Suppression of TGF-beta signaling in pancreatic cancer	Pathway_1398
+G-protein signaling_G-Protein beta/gamma signaling cascades	Pathway_1399
+Development_GDNF family signaling	Pathway_1400
+Translation_Translation regulation by Alpha-1 adrenergic receptors	Pathway_1401
+Bacterial infections in CF airways	Pathway_1402
+Eosinophil granule protein release in asthma	Pathway_1403
+L-Alanine, L-cysteine, and L-methionine metabolism	Pathway_1404
+Inhibition of Vitamin D pathway in Prostate Cancer	Pathway_1405
+TMPRSS2-ERG fusion in Prostate Cancer	Pathway_1406
+Development_Role of HDAC and calcium/calmodulin-dependent kinase (CaMK) in control of skeletal myogenesis	Pathway_1407
+Development_Differentiation of white adipocytes 	Pathway_1408
+Immune response_Antiviral actions of Interferons	Pathway_1409
+DNA damage_Brca1 as a transcription regulator	Pathway_1410
+Stem cells_FGF10 in development of subcutaneous white adipose tissue in embryogenesis	Pathway_1411
+Oxidative stress_Activation of NADPH oxidase	Pathway_1412
+Neurophysiological process_PGE2-induced pain processing	Pathway_1413
+Vitamin B6 metabolism	Pathway_1414
+Regulation of Beta-catenin activity in colorectal cancer	Pathway_1415
+Immune response _IFN gamma signaling pathway	Pathway_1416
+SHH signaling in oligodendrocyte precursor cells differentiation in multiple sclerosis	Pathway_1417
+Cigarette smoke-induced inflammatory signaling in airway epithelial cells	Pathway_1418
+Stem cells_Role of Neuregulin 1 and Thymosin beta-4 in myocardium regeneration after infarction	Pathway_1419
+Leukotriene 4 biosynthesis and metabolism	Pathway_1420
+Stem cells_Aberrant Hedgehog signaling in medulloblastoma stem cells	Pathway_1421
+Epigenetic alterations in ovarian cancer	Pathway_1422
+Stem cells_Noncanonical WNT signaling in cardiac myogenesis	Pathway_1423
+Development_Transcription factors in segregation of hepatocytic lineage	Pathway_1424
+CREB1-dependent transcription deregulation in Huntington's Disease	Pathway_1425
+Colorectal cancer (general schema)	Pathway_1426
+Stem cells_Histone acetylation in embryonic stem cells	Pathway_1427
+Development_Adenosine A2A receptor signaling	Pathway_1428
+Deregulation of PSD-95-dependent signaling in Huntington's disease	Pathway_1429
+Statin action on the PI3K/ Akt pathway in COPD	Pathway_1430
+Stem cells_Generation of pancreatic beta-cells from embryonic stem cells (late stages)	Pathway_1431
+O-glycan biosynthesis	Pathway_1432
+Inter-cellular relations in COPD (general schema)	Pathway_1433
+Development_EPO-induced Jak-STAT pathway	Pathway_1434
+G-protein signaling_Rap2B regulation pathway	Pathway_1435
+Production of arachidonic acid derivatives by mast cells in asthma	Pathway_1436
+Chemotaxis_C5a-induced chemotaxis	Pathway_1437
+Cytoskeleton remodeling_Role of Activin A in cytoskeleton remodeling	Pathway_1438
+HCV-dependent regulation of RNA polymerases leading to HCC	Pathway_1439
+Extracellular matrix-regulated proliferation of airway smooth muscle cells in asthma	Pathway_1440
+Immune response_HMGB1/RAGE signaling pathway	Pathway_1441
+Development_Role of cell-cell and ECM-cell interactions in oligodendrocyte differentiation and myelination	Pathway_1442
+Mitogenic action of ErbB2 in breast cancer	Pathway_1443
+Transport_Rab-9 regulation pathway	Pathway_1444
+Renal secretion of inorganic electrolytes	Pathway_1445
+GLP-1 in inhibition of insulin secretion in type 2 diabetes	Pathway_1446
+Role of type 2 innate lymphoid cells in asthma	Pathway_1447
+Hedgehog signaling in prostate cancer	Pathway_1448
+Development_TGF-beta-dependent induction of EMT via MAPK 	Pathway_1449
+Activation of Notch signaling in breast cancer	Pathway_1450
+Stem cells_Schema: Histone H3 demethylases in stem cells	Pathway_1451
+Gamma-aminobutyrate (GABA) biosynthesis and metabolism	Pathway_1452
+Glycine, serine, cysteine and threonine metabolism/ Rodent version	Pathway_1453
+Development_Retinoic acid and retinoic acid receptors in regulation of oligodendrocyte differentiation	Pathway_1454
+Cholesterol and Sphingolipid transport / Recycling to plasma membrane in lung (normal and CF)	Pathway_1455
+Role of IL-2 in the enhancement of NK cell cytotoxicity in multiple sclerosis	Pathway_1456
+Growth factors in regulation of oligodendrocyte precursor cells proliferation in multiple sclerosis	Pathway_1457
+N-Acylethanolamines, Phospholipase A2 pathway	Pathway_1458
+Immune response_IL-3 signaling via JAK/STAT, p38, JNK and NF-kB	Pathway_1459
+Immune response_iC3b-induced phagocytosis via alpha-M/beta-2 integrin	Pathway_1460
+Role of nicotine in pathogenesis of SCLC	Pathway_1461
+Immune response_CXCR4 signaling via second messenger 	Pathway_1462
+Dysregulation of direct glucose-induced inhibition of Glucagon secretion from alpha-cells in type 2 diabetes  	Pathway_1463
+Metabolic syndrome X (general schema)	Pathway_1464
+Deficient alpha-MSH signaling in melanoma	Pathway_1465
+Apoptosis and survival_p53-dependent apoptosis	Pathway_1466
+Regulation of Adenylate cyclase and IMPA1 by lithium in major depressive disorder	Pathway_1467
+Development_Endothelin-1/EDNRA signaling	Pathway_1468
+Muscle contraction_Oxytocin signaling in uterus and mammary gland	Pathway_1469
+Cooperative action of IFN-gamma and TNF-alpha on astrocytes in multiple sclerosis	Pathway_1470
+NRF2 regulation of oxidative stress response	Pathway_1471
+Development_Role of nicotinamide in G-CSF-induced granulopoiesis	Pathway_1472
+Development_YAP/TAZ-mediated co-regulation of transcription	Pathway_1473
+Development_VEGF signaling and activation	Pathway_1474
