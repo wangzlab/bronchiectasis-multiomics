@@ -46,4 +46,6 @@ Input: metab_desc.txt, hostt_desc.txt, KEGG_modules.tab, metat_metab_hostt_media
 Output: metat_metab_hostt_summarize.txt
 
 10. Random forest prediction of multi-omic links to pathogen abundance.
-Script: 
+Script: 10_rf_Pa_Hi.r
+Input: Vp_module.txt, Vd_module.txt, Pm_module.txt, Rm_module.txt
+Output: RF.performance_PaHi.inStable_Vp.csv, RF.performance_PaHi.inStable_Vd.csv, RF.performance_PaHi.inStable_Pm.csv, RF.performance_PaHi.inStable_Rm.csv
