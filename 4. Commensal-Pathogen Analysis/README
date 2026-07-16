@@ -1,1 +1,53 @@
 This folder contains scripts and data for interaction analysis betweeen commensal and pathogens (P. aeruginosa and H. influenzae) in this study.
+
+These are the steps and corresponding scripts used to perform multi-omic integration analysis for the inverse correlations between commensal and pathogens.
+
+
+1. For each selected commensal species, obtain biological links between its metatranscriptomic KEGG modules and metabolomic modules.
+Script: 1_species_level_metat_metab_link.pl
+Input: $sp.txt (ko profile for each individual species), KEGG_modules.tab, metab_module_assign.txt, metab_module_description.txt, ko2metabo.txt, KEGG_modules.tab, KEGG_cmpd2module.txt, ko_description.txt, metabolite_description.txt, currency_cmpd.txt
+Output: $sp_metat_metab_link.txt
+
+2. For each selected commensal species, integrate biological links between metatranscriptomic, metabolomic, and host transcriptomic modules.
+Script: 2_integrate.pl
+Input: $sp_metat_metab_link.txt, host_pathway_description.txt, metab_hostt_link.txt, metabolite_description.txt
+Output: $sp_metat_metab_hostt_link.txt
+
+3. Prepare files for mediation analysis between commensal derived metaT modules, metaB modules and pathogen abundances (P. aeruginosa and H. influenzae).
+Script: 3_generate_file_for_metaT_metaB_mediation.pl
+Input: metat_sampleID_match.txt, Pa_Hi.txt, metab_profile.txt, metadata.txt, $sp_module.txt
+Output: files in the mediation_table folder
+
+4. Conduct metaT-metaB mediation analysis in R.
+Script: 4_metaT_metaB_mediation_analysis.r
+Input: files in the metat_metab_mediation_table folder
+Output: forward and reverse mediation analysis results, in their respective folder
+
+5. Obtain metaT-metaB mediation analysis results.
+Scripts: 5_obtain_metaT_metaB_mediation_results.pl
+Input: selected metat and metab module list
+Output: mediation analysis results
+
+6. Prepare files for mediation analysis between metaB modules, hostT pathways and pathogen abundances.
+Script: 6_generate_file_for_metaB_hostT_mediation.pl
+Input: Pa_Hi.txt, metab_profile.txt, metadata.txt, gsva.txt
+
+7. Conduct metaB-hostT mediation analysis in R.
+Script: 7_metaB_hostT_mediation_analysis.r
+Input: files in the metab_hostt_mediation_table folder
+Output: forward and reverse mediation analysis results, in their respective folder
+
+8. Obtain metaB-hostT mediation analysis results.
+Script: 8_obtain_metaB_hostT_mediation_results.pl
+Input: files in the metab_hostt_mediation_table folder
+Output: mediation analysis results
+
+9. Summarize all data above (for each species).
+Script: 9_summarize.pl
+Input: metab_desc.txt, hostt_desc.txt, KEGG_modules.tab, metat_metab_hostt_mediation_results.txt, metat_metab_hostt_integrated_link.txt
+Output: metat_metab_hostt_summarize.txt
+
+10. Random forest prediction of multi-omic links to pathogen abundance.
+Script: 10_rf_Pa_Hi.r
+Input: Vp_module.txt, Vd_module.txt, Pm_module.txt, Rm_module.txt
+Output: RF.performance_PaHi.inStable_Vp.csv, RF.performance_PaHi.inStable_Vd.csv, RF.performance_PaHi.inStable_Pm.csv, RF.performance_PaHi.inStable_Rm.csv
