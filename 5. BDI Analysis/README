@@ -1,1 +1,23 @@
 This folder contains scripts and data used for BDI (Bronchiectasis Dysbiosis Index) establishment in this study.
+
+These are the steps and corresponding scripts used to optimize and calculate bronchiectasis dysbiosis index (BDI).
+
+1. Calculate fold-change between NPD bronchiectasis subgroup and healthy individuals in metaG and metaT data in the China-GZ cohort.
+Script: 1_calculate_FC.pl
+Input: metagenome_rel.txt, metatranscriptome_rel.txt, metadata.txt, common_taxa
+Output: fold_change_metag_metat.txt
+
+2. Generate BDI under different combinations of cutoffs for enriched and depleted species.
+Script: 2_generate_BDI_for_different_cutoffs.pl
+Input: combined_metagenome_three_controls.txt, NPD_Health_EMBARC_CAMEB2_China.txt, fold_change_metag_metat.xt
+Output: files under BDI_diff_cutoffs folder
+
+3. Generate ROC in differentiating NPD versus healthy individuals in the combined three cohorts using BDI generated under different cutoffs.
+Script: 3_loop_BDI_ROC.r
+Input: NPD_Health_EMBARC_CAMEB2_China.txt, BDI_diff_cutoffs/
+Output: AUC_different_BDI.csv
+
+4. Calculate final BDI including pathogens for all samples using the optimized cutoffs (0.85 and 1.10).
+Script: 4_calculate_BDI.pl
+Input: combined_metagenome_three_controls.txt, fold_change_metag_metat.txt, pathogen_list;
+Output: final_BDI.txt
