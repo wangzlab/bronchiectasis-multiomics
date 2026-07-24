@@ -1,0 +1,19 @@
+SputumSampleNo,TypeSamples,FEV1,BSI,Severity,WksToNxtEx,TmToNxtEx,CI diff
+14,EX1,70,6,moderate,3,LessThan12w,3.460190306
+28,EX1,31.9,12,severe,27,MoreThan12w,-1.356626767
+125,EX1,89.7,6,moderate,25,MoreThan12w,1.572632426
+127,EX1,67.5,12,severe,6,LessThan12w,-0.056222098
+128,EX1,42,15,severe,9,LessThan12w,1.322850603
+169,EX1,71,10,severe,11,LessThan12w,0.645326762
+205,EX1,43.4,9,severe,10,LessThan12w,-0.417619354
+217,EX1,90.4,6,moderate,14,MoreThan12w,2.30930893
+252,EX1,82.1,3,mild,42,MoreThan12w,-0.605315708
+276,EX1,77,6,moderate,15,MoreThan12w,3.050222043
+323,EX1,62.2,17,severe,12,MoreThan12w,5.723243163
+334,EX1,38.4,15,severe,3,LessThan12w,2.240039886
+394,EX1,53.6,18,severe,3,LessThan12w,-0.326724509
+425,EX1,47,14,severe,3,LessThan12w,1.47629037
+462,EX1,74,5,moderate,3,LessThan12w,-1.059824605
+515,EX1,53,10,severe,52,MoreThan12w,-2.075502255
+540,EX1,78.4,3,mild,39,MoreThan12w,-0.062583384
+1111,EX1,87,5,moderate,14,MoreThan12w,0.924612863

@@ -1,0 +1,31 @@
+Type,TaxLabel,freq
+blank,Caldimonas aquatica,0.099425718
+blank,Cutibacterium acnes,0.1648233795
+blank,Cutibacterium modestum,0.0149016805
+blank,Enterococcus faecalis,0.219387755
+blank,Mycobacterium xenopi,0.0714148335
+blank,Other,0.1204794415
+blank,Paracoccus sp. AK26,0.1884115125
+blank,Paracoccus yeei,0.0227034845
+blank,Stutzerimonas stutzeri,0.098452195
+sample,Achromobacter xylosoxidans,0.0143489669534886
+sample,Caldimonas aquatica,4.28622963239593e-06
+sample,Cutibacterium acnes,0.000242739224720961
+sample,Cutibacterium modestum,2.86928658337413e-05
+sample,Enterococcus faecalis,0.000105333401145449
+sample,Escherichia coli,0.0156726992274628
+sample,Haemophilus influenzae,0.0495896837863334
+sample,Haemophilus parainfluenzae,0.00798892804207265
+sample,Moraxella catarrhalis,0.00931886761321267
+sample,Mycobacterium xenopi,6.26132592464543e-08
+sample,Neisseria subflava,0.0121262824162226
+sample,Other,0.187790207826284
+sample,Paracoccus sp. AK26,3.13065302744438e-06
+sample,Paracoccus yeei,4.61337050056195e-07
+sample,Pseudomonas aeruginosa,0.622740373252619
+sample,Rothia mucilaginosa,0.0239793425850436
+sample,Streptococcus mitis,0.0159418960905737
+sample,Streptococcus oralis,0.0175464539470852
+sample,Streptococcus parasanguinis,0.0110171741596301
+sample,Streptococcus salivarius,0.0114844545493314
+sample,Stutzerimonas stutzeri,6.99632259708048e-05

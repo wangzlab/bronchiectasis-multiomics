@@ -1,0 +1,43 @@
+Type,TaxLabel,freq
+blank,Bosea beijingensis,0.0249433844722448
+blank,Bosea sp. ANAM02,0.0287916988636936
+blank,Bradyrhizobium sp. BTAi1,0.0739589929364179
+blank,Mesorhizobium sp. Pch-S,0.0947963145674722
+blank,Mesorhizobium terrae,0.0194070890038208
+blank,Moraxella catarrhalis,5.16702538740419e-07
+blank,Mycobacteroides abscessus,0.24680753183512
+blank,Neisseria subflava,5.52010545554347e-05
+blank,Other,0.229424969495174
+blank,Porphyromonas gingivalis,8.61170897900698e-08
+blank,Prevotella intermedia,2.32516142433188e-06
+blank,Prevotella melaninogenica,1.58455445213728e-05
+blank,Pseudomonas aeruginosa,0.000243625247016107
+blank,Ralstonia pickettii,0.0581139651175838
+blank,Rhodopseudomonas boonkerdii,0.173783942728002
+blank,Rothia mucilaginosa,7.75053808110628e-06
+blank,Schaalia odontolytica,1.30897976480906e-05
+blank,Stenotrophomonas maltophilia,0.0496216144250259
+blank,Streptococcus mitis,6.20043046488502e-06
+blank,Streptococcus pneumoniae,3.61691777118293e-06
+blank,Streptococcus salivarius,2.23904433454181e-06
+sample,Bosea beijingensis,1.46914527875848e-06
+sample,Bosea sp. ANAM02,1.02552101811376e-06
+sample,Bradyrhizobium sp. BTAi1,4.86834415902319e-06
+sample,Mesorhizobium sp. Pch-S,1.53079176692599e-05
+sample,Mesorhizobium terrae,5.03859217073814e-05
+sample,Moraxella catarrhalis,0.0414248326307929
+sample,Mycobacteroides abscessus,4.98184283349982e-05
+sample,Neisseria subflava,0.0422809842436819
+sample,Other,0.489112178742506
+sample,Porphyromonas gingivalis,0.022632292485001
+sample,Prevotella intermedia,0.0260044734955216
+sample,Prevotella melaninogenica,0.0175777989771281
+sample,Pseudomonas aeruginosa,0.0963107693724276
+sample,Ralstonia pickettii,8.42511607212729e-05
+sample,Rhodopseudomonas boonkerdii,6.39510297812514e-07
+sample,Rothia mucilaginosa,0.151263241111128
+sample,Schaalia odontolytica,0.0518273750379738
+sample,Stenotrophomonas maltophilia,0.000140456050003345
+sample,Streptococcus mitis,0.0222796198398195
+sample,Streptococcus pneumoniae,0.021527391531002
+sample,Streptococcus salivarius,0.0174108205338276

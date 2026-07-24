@@ -1,0 +1,36 @@
+Type,TaxLabel,freq
+blank,Bosea beijingensis,0.0279859193087661
+blank,Bosea sp. ANAM02,0.0322215817867423
+blank,Bradyrhizobium sp. BTAi1,0.13379020424639
+blank,Haemophilus influenzae,7.27308431504819e-06
+blank,Mesorhizobium sp. Pch-S,0.075699170686561
+blank,Mesorhizobium terrae,0.0164653537537297
+blank,Mycobacteroides abscessus,0.129669092846376
+blank,Neisseria subflava,2.63649306420497e-05
+blank,Other,0.235867033472552
+blank,Porphyromonas gingivalis,0
+blank,Prevotella intermedia,9.09135539381024e-07
+blank,Prevotella jejuni,0
+blank,Prevotella melaninogenica,7.27308431504819e-06
+blank,Prevotella sp. oral taxon 299,0
+blank,Pseudomonas aeruginosa,0.000304560405692643
+blank,Ralstonia pickettii,0.103734183314454
+blank,Ralstonia wenshanensis,0.0185027264974826
+blank,Rhodopseudomonas boonkerdii,0.160165135379373
+blank,Stenotrophomonas maltophilia,0.0655532180670687
+sample,Bradyrhizobium sp. BTAi1,5.53232929206508e-06
+sample,Haemophilus influenzae,0.0419694802479192
+sample,Mesorhizobium sp. Pch-S,2.29245219199088e-06
+sample,Mycobacteroides abscessus,5.07483701862713e-06
+sample,Neisseria subflava,0.0417993363760152
+sample,Other,0.407645216265814
+sample,Porphyromonas gingivalis,0.0437145246350506
+sample,Prevotella intermedia,0.112465201640435
+sample,Prevotella jejuni,0.0813043781138837
+sample,Prevotella melaninogenica,0.150404227363026
+sample,Prevotella oris,0.0184329759046572
+sample,Prevotella sp. oral taxon 299,0.0246346762826596
+sample,Pseudomonas aeruginosa,0.0648372822757671
+sample,Ralstonia pickettii,1.38503706273005e-05
+sample,Stenotrophomonas maltophilia,8.78950791811656e-05
+sample,Treponema sp. OMZ 838,0.0126780558264612

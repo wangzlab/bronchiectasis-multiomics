@@ -1,0 +1,13 @@
+Clusters,Variable,value,n,perc
+Commensal,BSI.cat,mild,84,0.27906976744186
+Commensal,BSI.cat,moderate,96,0.318936877076412
+Commensal,BSI.cat,severe,121,0.401993355481728
+Hi,BSI.cat,mild,19,0.223529411764706
+Hi,BSI.cat,moderate,41,0.482352941176471
+Hi,BSI.cat,severe,25,0.294117647058824
+PPM,BSI.cat,mild,35,0.221518987341772
+PPM,BSI.cat,moderate,48,0.30379746835443
+PPM,BSI.cat,severe,75,0.474683544303797
+Pa,BSI.cat,mild,15,0.119047619047619
+Pa,BSI.cat,moderate,37,0.293650793650794
+Pa,BSI.cat,severe,74,0.587301587301587

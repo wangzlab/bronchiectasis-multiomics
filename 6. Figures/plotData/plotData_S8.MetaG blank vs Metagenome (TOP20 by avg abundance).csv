@@ -1,0 +1,39 @@
+Type,TaxLabel,freq
+blank,Bosea beijingensis,0.0246439576172839
+blank,Bosea sp. ANAM02,0.0284744978946479
+blank,Bradyrhizobium sp. BTAi1,0.058660103837358
+blank,Haemophilus influenzae,7.41060220035601e-06
+blank,Haemophilus parainfluenzae,6.66954198032041e-06
+blank,Mesorhizobium sp. Pch-S,0.128724383400844
+blank,Mesorhizobium terrae,0.0226097473132862
+blank,Mycobacteroides abscessus,0.218093281696257
+blank,Neisseria flavescens,3.705301100178e-06
+blank,Neisseria mucosa,7.41060220035601e-06
+blank,Neisseria subflava,6.44722391430972e-05
+blank,Other,0.226987486457124
+blank,Prevotella intermedia,0
+blank,Prevotella jejuni,0
+blank,Prevotella melaninogenica,2.9642408801424e-06
+blank,Pseudomonas aeruginosa,0.000191934596989221
+blank,Ralstonia pickettii,0.0536942593028995
+blank,Rhodopseudomonas boonkerdii,0.20294675185895
+blank,Stenotrophomonas maltophilia,0.0348772581957555
+blank,Veillonella atypica,7.41060220035601e-07
+blank,Veillonella dispar,2.9642408801424e-06
+sample,Bradyrhizobium sp. BTAi1,4.68721134127475e-05
+sample,Haemophilus influenzae,0.0437431563256479
+sample,Haemophilus parainfluenzae,0.0467206070012716
+sample,Mesorhizobium sp. Pch-S,4.19141113913243e-05
+sample,Mycobacteroides abscessus,2.22574354006916e-05
+sample,Neisseria flavescens,0.0229144826862576
+sample,Neisseria mucosa,0.0441739083205229
+sample,Neisseria subflava,0.141638214650941
+sample,Other,0.3414591674636
+sample,Prevotella intermedia,0.0358423706800631
+sample,Prevotella jejuni,0.0343666881019894
+sample,Prevotella melaninogenica,0.0480059958121734
+sample,Pseudomonas aeruginosa,0.191027921616657
+sample,Ralstonia pickettii,0.000461269520087418
+sample,Stenotrophomonas maltophilia,0.000179004328384468
+sample,Veillonella atypica,0.0253070644554484
+sample,Veillonella dispar,0.0240491053767516
