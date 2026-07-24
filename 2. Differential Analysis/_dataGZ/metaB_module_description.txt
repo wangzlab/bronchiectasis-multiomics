@@ -1,0 +1,236 @@
+module	Summary
+bisque1	Alkaloids
+red3	Amino acids, peptides, and analogues
+hotpink1	Amino acids, peptides, and analogues
+palegreen1	Amino acids, peptides, and analogues
+darkorchid2	Amino acids, peptides, and analogues
+khaki2	Amino acids, peptides, and analogues
+mistyrose1	Amino acids, peptides, and analogues
+cyan4	Amino acids, peptides, and analogues
+goldenrod3	Amino acids, peptides, and analogues
+mediumblue	Amino acids, peptides, and analogues
+lightyellow4	Amino acids, peptides, and analogues
+snow	Amino acids, peptides, and analogues
+hotpink3	Amino acids, peptides, and analogues
+olivedrab4	Amino acids, peptides, and analogues
+mediumorchid1	Amino acids, peptides, and analogues
+lightskyblue	Amino acids, peptides, and analogues
+limegreen	Amino acids, peptides, and analogues
+lemonchiffon4	Amino acids, peptides, and analogues
+aquamarine	Amino acids, peptides, and analogues
+bisque3	Amino acids, peptides, and analogues
+burlywood1	Amino acids, peptides, and analogues
+blanchedalmond	Amino acids, peptides, and analogues
+red1	Amino acids, peptides, and analogues
+indianred	Amino acids, peptides, and analogues
+tan2	Amino acids, peptides, and analogues
+lightpink	Amino acids, peptides, and analogues
+darkseagreen	Amino acids, peptides, and analogues
+blue1	Amino acids, peptides, and analogues
+lightpink2	Amino acids, peptides, and analogues
+plum4	Amino acids, peptides, and analogues
+antiquewhite2	Amino acids, peptides, and analogues
+lavenderblush3	Amino acids, peptides, and analogues
+bisque4	Amino acids, peptides, and analogues
+royalblue	Amino acids, peptides, and analogues
+rosybrown2	Amino acids, peptides, and analogues
+khaki3	Flavonoids
+violetred2	Benzenoids
+deepskyblue4	Benzenoids
+darkorchid1	Carbohydrates and carbohydrate conjugates
+turquoise4	Carbohydrates and carbohydrate conjugates
+hotpink4	Carbohydrates and carbohydrate conjugates
+lavenderblush2	Carbohydrates and carbohydrate conjugates
+darkorchid3	Lipids and lipid-like molecules
+mediumaquamarine	Lipids and lipid-like molecules
+lightseagreen	Lipids and lipid-like molecules
+bisque	Nucleosides, nucleotides, and analogues
+cyan1	Polyketides
+mistyrose4	Polyketides
+lightskyblue1	Polyketides
+coral3	Glycerophospholipids
+tomato2	Glycerophospholipids
+hotpink2	Glycerophospholipids
+chartreuse2	Glycerophospholipids
+grey60	Glycerophospholipids
+orange2	Indoles and derivatives
+olivedrab3	Alkaloids
+burlywood4	Lipids and lipid-like molecules
+orchid	Lipids and lipid-like molecules
+aquamarine1	Lipids and lipid-like molecules
+burlywood3	Lipids and lipid-like molecules
+darkblue	Lipids and lipid-like molecules
+seashell2	Lipids and lipid-like molecules
+oldlace	Lipids and lipid-like molecules
+lightblue1	Lipids and lipid-like molecules
+tomato4	Lipids and lipid-like molecules
+orange3	Lipids and lipid-like molecules
+lightskyblue3	Lipids and lipid-like molecules
+brown3	Lipids and lipid-like molecules
+paleturquoise4	Lipids and lipid-like molecules
+lavenderblush	Lipids and lipid-like molecules
+green3	Lipids and lipid-like molecules
+lightblue3	Lipids and lipid-like molecules
+chocolate4	Lipids and lipid-like molecules
+lavenderblush1	Lipids and lipid-like molecules
+thistle4	Lipids and lipid-like molecules
+lightslateblue	Lipids and lipid-like molecules
+firebrick3	Lipids and lipid-like molecules
+lightsteelblue	Lipids and lipid-like molecules
+firebrick4	Lipids and lipid-like molecules
+lightcoral	Lipids and lipid-like molecules
+mediumorchid	Lipids and lipid-like molecules
+navajowhite2	Lipids and lipid-like molecules
+darkorange2	Lipids and lipid-like molecules
+darkolivegreen	Lipids and lipid-like molecules
+steelblue	Lipids and lipid-like molecules
+darkgreen	Lipids and lipid-like molecules
+cyan	Lipids and lipid-like molecules
+greenyellow	Lipids and lipid-like molecules
+green4	Lipids and lipid-like molecules
+purple	Lipids and lipid-like molecules
+mediumpurple1	Lipids and lipid-like molecules
+deeppink1	Lipids and lipid-like molecules
+peachpuff2	Miscellaneous
+lemonchiffon2	Miscellaneous
+cyan3	Miscellaneous
+snow2	Miscellaneous
+forestgreen	Miscellaneous
+darkcyan	Miscellaneous
+mediumvioletred	Miscellaneous
+chartreuse3	Miscellaneous
+springgreen3	Miscellaneous
+lightyellow2	Miscellaneous
+rosybrown1	Miscellaneous
+peachpuff3	Miscellaneous
+lemonchiffon3	Miscellaneous
+chartreuse4	Miscellaneous
+violetred4	Miscellaneous
+darkorchid4	Miscellaneous
+peachpuff4	Miscellaneous
+seashell3	Miscellaneous
+orange1	Miscellaneous
+slateblue4	Miscellaneous
+peru	Miscellaneous
+dodgerblue3	Miscellaneous
+lightblue	Miscellaneous
+red4	Miscellaneous
+chocolate1	Miscellaneous
+deepskyblue	Miscellaneous
+tan1	Miscellaneous
+burlywood	Miscellaneous
+darkgoldenrod3	Miscellaneous
+rosybrown4	Miscellaneous
+navajowhite4	Miscellaneous
+pink1	Miscellaneous
+purple2	Miscellaneous
+magenta1	Miscellaneous
+indianred1	Miscellaneous
+mediumorchid4	Miscellaneous
+chocolate2	Miscellaneous
+lavender	Miscellaneous
+deeppink2	Miscellaneous
+firebrick	Miscellaneous
+moccasin	Miscellaneous
+chocolate3	Miscellaneous
+palevioletred	Miscellaneous
+cornflowerblue	Miscellaneous
+royalblue3	Miscellaneous
+navajowhite3	Miscellaneous
+aliceblue	Miscellaneous
+darkseagreen1	Miscellaneous
+mediumpurple	Miscellaneous
+lightskyblue4	Miscellaneous
+orangered	Miscellaneous
+indianred2	Miscellaneous
+antiquewhite1	Miscellaneous
+darkseagreen2	Miscellaneous
+palevioletred1	Miscellaneous
+tan4	Miscellaneous
+blue4	Miscellaneous
+indianred3	Miscellaneous
+lightblue4	Miscellaneous
+orangered1	Miscellaneous
+honeydew	Miscellaneous
+darkseagreen3	Miscellaneous
+mediumpurple4	Miscellaneous
+yellow3	Miscellaneous
+sienna4	Miscellaneous
+skyblue4	Miscellaneous
+lightpink3	Miscellaneous
+coral	Miscellaneous
+thistle	Miscellaneous
+plum3	Miscellaneous
+thistle3	Miscellaneous
+darkviolet	Miscellaneous
+mediumpurple2	Miscellaneous
+indianred4	Miscellaneous
+antiquewhite4	Miscellaneous
+coral1	Miscellaneous
+slateblue3	Miscellaneous
+darkseagreen4	Miscellaneous
+coral2	Miscellaneous
+salmon4	Miscellaneous
+maroon	Miscellaneous
+orange4	Miscellaneous
+brown4	Miscellaneous
+floralwhite	Miscellaneous
+ivory	Miscellaneous
+lightcyan1	Miscellaneous
+skyblue3	Miscellaneous
+orangered4	Miscellaneous
+darkmagenta	Miscellaneous
+darkorange	Miscellaneous
+skyblue	Miscellaneous
+tan3	Miscellaneous
+white	Miscellaneous
+lightpink4	Miscellaneous
+darkturquoise	Miscellaneous
+darkred	Miscellaneous
+lightgreen	Miscellaneous
+salmon	Miscellaneous
+lightyellow	Miscellaneous
+antiquewhite3	Miscellaneous
+lightblue2	Miscellaneous
+honeydew1	Miscellaneous
+paleturquoise	Miscellaneous
+black	Miscellaneous
+brown2	Miscellaneous
+green	Miscellaneous
+mistyrose	Miscellaneous
+lightsteelblue1	Miscellaneous
+magenta2	Miscellaneous
+mistyrose2	Miscellaneous
+whitesmoke	Miscellaneous
+dodgerblue1	Miscellaneous
+royalblue4	Nucleosides, nucleotides, and analogues
+sienna2	Nucleosides, nucleotides, and analogues
+goldenrod1	Miscellaneous
+firebrick1	Nucleosides, nucleotides, and analogues
+dodgerblue	Benzenoids
+seashell4	Miscellaneous
+mediumorchid2	Miscellaneous
+tomato	Amino acids, peptides, and analogues
+lightyellow3	Organoheterocyclic compounds
+violetred	Organoheterocyclic compounds
+lightgoldenrod2	Organoheterocyclic compounds
+violetred3	Organoheterocyclic compounds
+darkgoldenrod1	Organoheterocyclic compounds
+lightpink1	Organoheterocyclic compounds
+darksalmon	Amino acids, peptides, and analogues
+plum2	Polyketides
+lightsalmon4	Lipids and lipid-like molecules
+pink3	Lipids and lipid-like molecules
+dodgerblue4	Organoheterocyclic compounds
+royalblue2	Organoheterocyclic compounds
+lightgoldenrod1	Organoheterocyclic compounds
+cornsilk2	Organoheterocyclic compounds
+olivedrab2	Alkaloids
+khaki	Polyketides
+chocolate	Lipids and lipid-like molecules
+goldenrod4	Lipids and lipid-like molecules
+deepskyblue3	Lipids and lipid-like molecules
+mediumorchid3	Lipids and lipid-like molecules
+orangered2	Lipids and lipid-like molecules
+seashell1	Miscellaneous
+green2	Lipids and lipid-like molecules

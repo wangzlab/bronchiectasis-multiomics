@@ -1,0 +1,4426 @@
+Metabolites	Module	Class
+C09335	royalblue	Alkaloids
+C12337	chartreuse3	Alkaloids
+C06544	lavenderblush3	Alkaloids
+C10815	rosybrown1	Alkaloids
+C10816	snow2	Alkaloids
+C10817	mediumpurple1	Alkaloids
+C10819	dodgerblue1	Alkaloids
+C10824	magenta2	Alkaloids
+C10828	paleturquoise	Alkaloids
+C10829	tan4	Alkaloids
+C06091	lightsalmon4	Alkaloids
+C08657	bisque1	Alkaloids
+C08661	darkorchid1	Alkaloids
+C08662	slateblue4	Alkaloids
+C08669	whitesmoke	Alkaloids
+C08674	honeydew1	Alkaloids
+C08678	magenta2	Alkaloids
+C08679	magenta2	Alkaloids
+C08681	magenta2	Alkaloids
+C08692	darkorange2	Alkaloids
+C08697	lightblue1	Alkaloids
+C08704	green4	Alkaloids
+C08705	lightgreen	Alkaloids
+C08707	cyan3	Alkaloids
+C08715	magenta2	Alkaloids
+C10610	lightsteelblue1	Alkaloids
+C06185	mistyrose	Alkaloids
+C10173	whitesmoke	Alkaloids
+C10139	indianred	Alkaloids
+C10157	dodgerblue1	Alkaloids
+C10163	whitesmoke	Alkaloids
+C10170	purple	Alkaloids
+C04170	seashell2	Alkaloids
+C09874	navajowhite2	Alkaloids
+C10753	darkturquoise	Alkaloids
+C10755	moccasin	Alkaloids
+C10758	green	Alkaloids
+C10773	lightyellow	Alkaloids
+C13051	paleturquoise	Alkaloids
+C10282	dodgerblue1	Alkaloids
+C10286	whitesmoke	Alkaloids
+C10301	tomato	Alkaloids
+C10319	indianred2	Alkaloids
+C10321	chartreuse2	Alkaloids
+C10341	violetred3	Alkaloids
+C10361	dodgerblue1	Alkaloids
+C10378	indianred2	Alkaloids
+C10380	chocolate3	Alkaloids
+C10391	tan3	Alkaloids
+C10409	dodgerblue1	Alkaloids
+C10848	indianred3	Alkaloids
+C10860	purple	Alkaloids
+C10861	indianred3	Alkaloids
+C10644	darkorchid3	Alkaloids
+C10645	lightsteelblue1	Alkaloids
+C10685	purple2	Alkaloids
+C01091	bisque1	Alkaloids
+C01626	dodgerblue1	Alkaloids
+C02673	lightblue4	Alkaloids
+C07544	coral1	Alkaloids
+C09084	indianred4	Alkaloids
+C09129	mistyrose2	Alkaloids
+C09144	orange4	Alkaloids
+C09160	dodgerblue1	Alkaloids
+C09162	darkorange2	Alkaloids
+C09203	mistyrose	Alkaloids
+C09218	deeppink1	Alkaloids
+C09240	lightsteelblue1	Alkaloids
+C11676	lightyellow2	Alkaloids
+C11784	skyblue4	Alkaloids
+C16724	lightgreen	Alkaloids
+C09170	royalblue	Alkaloids
+C10639	coral1	Alkaloids
+C10742	whitesmoke	Alkaloids
+C01897	whitesmoke	Alkaloids
+C09032	lightblue2	Alkaloids
+C10652	magenta2	Alkaloids
+C10655	tan3	Alkaloids
+C10670	whitesmoke	Alkaloids
+C10686	chartreuse4	Alkaloids
+C10691	orange4	Alkaloids
+C10694	bisque4	Alkaloids
+C10711	royalblue	Alkaloids
+C10735	indianred2	Alkaloids
+C10736	plum4	Alkaloids
+C05247	whitesmoke	Alkaloids
+C05315	orange1	Alkaloids
+C05316	lightpink4	Alkaloids
+C05322	violetred4	Alkaloids
+C08469	orange4	Alkaloids
+C09248	skyblue	Alkaloids
+C09325	olivedrab3	Alkaloids
+C09334	chocolate2	Alkaloids
+C09421	dodgerblue1	Alkaloids
+C09461	rosybrown2	Alkaloids
+C09464	lightsteelblue1	Alkaloids
+C09546	skyblue	Alkaloids
+C09553	lightpink4	Alkaloids
+C09571	deeppink2	Alkaloids
+C09597	olivedrab4	Alkaloids
+C09612	tan4	Alkaloids
+C09656	dodgerblue1	Alkaloids
+C09659	hotpink1	Alkaloids
+C09661	purple	Alkaloids
+C11250	seashell4	Alkaloids
+C11816	lightpink3	Alkaloids
+C16708	dodgerblue1	Alkaloids
+C16710	orangered1	Alkaloids
+C16713	mistyrose	Alkaloids
+C16714	dodgerblue1	Alkaloids
+C19985	darkgreen	Alkaloids
+C16352	darkseagreen2	Alkaloids
+HMDB0034291	whitesmoke	Alkaloids
+HMDB0033032	dodgerblue1	Alkaloids
+HMDB0030391	mediumvioletred	Alkaloids
+HMDB0039757	lightsteelblue1	Alkaloids
+HMDB0029337	skyblue3	Alkaloids
+HMDB0033097	red3	Alkaloids
+HMDB0033522	indianred1	Alkaloids
+HMDB0038584	whitesmoke	Alkaloids
+C09042	dodgerblue1	Alkaloids
+C12201	lemonchiffon4	Alkaloids
+HMDB0029832	dodgerblue1	Alkaloids
+HMDB0041143	springgreen3	Alkaloids
+HMDB0030435	olivedrab2	Alkaloids
+HMDB0029406	blue4	Alkaloids
+HMDB0039899	dodgerblue1	Alkaloids
+C11173	antiquewhite2	Alkaloids
+C11376	lightpink4	Alkaloids
+C16641	mistyrose2	Alkaloids
+HMDB0031919	whitesmoke	Alkaloids
+C06856	floralwhite	Alkaloids
+HMDB0060782	purple	Alkaloids
+HMDB0240271	lightblue3	Alkaloids
+C09423	darkorchid2	Alkaloids
+HMDB0029992	white	Alkaloids
+HMDB0032102	orangered4	Alkaloids
+HMDB0034767	mistyrose	Alkaloids
+HMDB0030228	firebrick	Alkaloids
+C16578	steelblue	Alkaloids
+HMDB0010341	lightblue2	Alkaloids
+HMDB0030251	lightblue2	Alkaloids
+HMDB0031751	dodgerblue1	Alkaloids
+HMDB0033948	brown2	Alkaloids
+HMDB0038585	darkmagenta	Alkaloids
+C10128	mistyrose2	Alkaloids
+C10129	tomato	Alkaloids
+C11821	salmon4	Alkaloids
+HMDB0032858	lavenderblush2	Alkaloids
+HMDB0033578	green	Alkaloids
+HMDB0039754	paleturquoise	Alkaloids
+HMDB0030171	mistyrose2	Alkaloids
+HMDB0030359	mistyrose2	Alkaloids
+HMDB0031667	darkturquoise	Alkaloids
+HMDB0015311	mediumpurple1	Alkaloids
+C08537	peru	Amino acids, peptides, and analogues
+C17757	honeydew	Amino acids, peptides, and analogues
+C08566	whitesmoke	Amino acids, peptides, and analogues
+C08338	darkseagreen2	Amino acids, peptides, and analogues
+C08335	steelblue	Amino acids, peptides, and analogues
+C08405	sienna2	Amino acids, peptides, and analogues
+C08412	darkmagenta	Amino acids, peptides, and analogues
+C08415	antiquewhite3	Amino acids, peptides, and analogues
+C17271	coral2	Amino acids, peptides, and analogues
+C08428	navajowhite3	Amino acids, peptides, and analogues
+C20215	rosybrown2	Amino acids, peptides, and analogues
+C06664	lightblue2	Others
+C11222	red1	Others
+C06690	white	Others
+C06684	firebrick4	Others
+HMDB0034314	salmon	Benzenoids
+HMDB0040915	darkseagreen2	Benzenoids
+HMDB0060993	tomato	Benzenoids
+HMDB0013864	dodgerblue1	Benzenoids
+HMDB0014725	brown2	Benzenoids
+HMDB0014757	skyblue	Benzenoids
+HMDB0015449	coral3	Benzenoids
+HMDB0015595	brown2	Benzenoids
+HMDB0061006	plum4	Benzenoids
+HMDB0061718	rosybrown2	Benzenoids
+HMDB0240214	dodgerblue1	Benzenoids
+C00292	darkviolet	Benzenoids
+C02372	violetred2	Benzenoids
+HMDB0061926	whitesmoke	Benzenoids
+C19326	dodgerblue1	Benzenoids
+C07630	whitesmoke	Benzenoids
+C08086	lavenderblush1	Benzenoids
+C12616	deeppink1	Benzenoids
+HMDB0014025	rosybrown4	Benzenoids
+HMDB0014029	brown2	Benzenoids
+HMDB0014810	deeppink1	Benzenoids
+HMDB0014977	whitesmoke	Benzenoids
+HMDB0015393	lightblue2	Benzenoids
+HMDB0015521	whitesmoke	Benzenoids
+HMDB0032156	tan4	Benzenoids
+HMDB0032529	lavenderblush3	Benzenoids
+HMDB0060932	ivory	Benzenoids
+HMDB0060935	mistyrose	Benzenoids
+HMDB0060986	lavenderblush2	Benzenoids
+HMDB0061071	chocolate2	Benzenoids
+C16199	forestgreen	Benzenoids
+HMDB0029845	orange4	Benzenoids
+HMDB0032549	burlywood3	Benzenoids
+HMDB0037803	mistyrose2	Benzenoids
+HMDB0060984	green	Benzenoids
+C03005	violetred2	Benzenoids
+C07001	mistyrose	Benzenoids
+C11002	mistyrose	Benzenoids
+HMDB0011723	deeppink2	Benzenoids
+HMDB0013198	cornflowerblue	Benzenoids
+HMDB0014416	darkorange	Benzenoids
+HMDB0029628	navajowhite3	Benzenoids
+HMDB0032573	whitesmoke	Benzenoids
+HMDB0036405	dodgerblue1	Benzenoids
+HMDB0037693	mistyrose2	Benzenoids
+HMDB0040792	green3	Benzenoids
+HMDB0040793	lightblue2	Benzenoids
+HMDB0041836	snow	Benzenoids
+HMDB0041860	mistyrose	Benzenoids
+HMDB0041909	green4	Benzenoids
+HMDB0041910	magenta2	Benzenoids
+HMDB0042043	lightblue4	Benzenoids
+HMDB0060602	mediumpurple	Benzenoids
+HMDB0060608	orangered4	Benzenoids
+HMDB0060831	darkseagreen2	Benzenoids
+HMDB0060996	bisque4	Benzenoids
+HMDB0140425	whitesmoke	Benzenoids
+HMDB0140926	whitesmoke	Benzenoids
+C06354	dodgerblue	Benzenoids
+HMDB0060711	whitesmoke	Benzenoids
+C00261	whitesmoke	Benzenoids
+C07241	dodgerblue1	Benzenoids
+HMDB0040450	whitesmoke	Benzenoids
+C02499	whitesmoke	Benzenoids
+C07072	royalblue3	Benzenoids
+C07468	antiquewhite4	Benzenoids
+C21543	lightsteelblue1	Benzenoids
+HMDB0013842	darkorchid4	Benzenoids
+HMDB0013845	dodgerblue1	Benzenoids
+HMDB0013846	rosybrown1	Benzenoids
+C18418	whitesmoke	Benzenoids
+HMDB0060851	deeppink2	Benzenoids
+C07872	honeydew	Benzenoids
+HMDB0041990	thistle	Benzenoids
+C11065	deepskyblue4	Benzenoids
+HMDB0037520	purple2	Benzenoids
+HMDB0061387	whitesmoke	Benzenoids
+C06913	violetred4	Benzenoids
+C06961	lightpink1	Benzenoids
+C07045	lightsteelblue1	Benzenoids
+C07080	brown4	Benzenoids
+C07463	lightskyblue3	Benzenoids
+C08039	deepskyblue4	Benzenoids
+HMDB0014354	rosybrown2	Benzenoids
+HMDB0014639	dodgerblue1	Benzenoids
+HMDB0014701	mistyrose2	Benzenoids
+HMDB0014708	brown4	Benzenoids
+HMDB0015499	cyan	Benzenoids
+HMDB0015583	magenta2	Benzenoids
+HMDB0015585	white	Benzenoids
+HMDB0039842	lightsteelblue	Benzenoids
+HMDB0060159	dodgerblue1	Benzenoids
+HMDB0061039	antiquewhite2	Benzenoids
+HMDB0240275	lemonchiffon3	Benzenoids
+C19397	whitesmoke	Benzenoids
+HMDB0014258	lightskyblue	Benzenoids
+HMDB0000434	whitesmoke	Benzenoids
+HMDB0135465	dodgerblue1	Benzenoids
+HMDB0135476	steelblue	Benzenoids
+HMDB0135479	tan3	Benzenoids
+HMDB0135485	red3	Benzenoids
+HMDB0135486	dodgerblue1	Benzenoids
+C00918	skyblue	Benzenoids
+C14427	tan3	Benzenoids
+HMDB0042020	magenta2	Benzenoids
+C01407	lavender	Benzenoids
+C15230	antiquewhite4	Benzenoids
+C16596	darkviolet	Benzenoids
+HMDB0032066	ivory	Benzenoids
+HMDB0034782	mediumpurple	Benzenoids
+HMDB0040288	lightpink4	Benzenoids
+HMDB0126522	dodgerblue1	Benzenoids
+HMDB0126544	whitesmoke	Benzenoids
+HMDB0041858	whitesmoke	Benzenoids
+HMDB0060748	thistle3	Benzenoids
+HMDB0060765	lightgreen	Benzenoids
+C19119	lavenderblush2	Benzenoids
+HMDB0032348	whitesmoke	Benzenoids
+HMDB0032567	whitesmoke	Benzenoids
+HMDB0036326	whitesmoke	Benzenoids
+HMDB0038999	palegreen1	Benzenoids
+HMDB0039150	darkturquoise	Benzenoids
+C07258	coral2	Benzenoids
+C07317	red1	Benzenoids
+C00601	slateblue3	Benzenoids
+HMDB0014947	coral2	Benzenoids
+C07188	palevioletred1	Benzenoids
+C07753	dodgerblue1	Benzenoids
+C13766	magenta2	Benzenoids
+C16607	dodgerblue	Benzenoids
+C16609	peachpuff3	Benzenoids
+HMDB0014246	green4	Benzenoids
+HMDB0032216	dodgerblue1	Benzenoids
+HMDB0015058	darkmagenta	Benzenoids
+HMDB0015681	whitesmoke	Benzenoids
+HMDB0015689	dodgerblue1	Benzenoids
+HMDB0032578	brown2	Benzenoids
+HMDB0240227	dodgerblue1	Benzenoids
+C07913	dodgerblue1	Benzenoids
+HMDB0012227	dodgerblue4	Benzenoids
+HMDB0032062	whitesmoke	Benzenoids
+HMDB0060611	whitesmoke	Benzenoids
+HMDB0133708	mistyrose2	Benzenoids
+HMDB0140966	whitesmoke	Benzenoids
+C01244	whitesmoke	Benzenoids
+HMDB0133741	mediumpurple	Benzenoids
+C01455	slateblue3	Benzenoids
+HMDB0060927	whitesmoke	Benzenoids
+HMDB0014322	lightpink3	Benzenoids
+HMDB0060551	dodgerblue1	Benzenoids
+HMDB0060950	lightblue2	Benzenoids
+C07363	mediumvioletred	Benzenoids
+C14460	tan2	Benzenoids
+HMDB0032587	magenta2	Benzenoids
+HMDB0015498	violetred4	Benzenoids
+HMDB0061034	darkorange	Benzenoids
+HMDB0032885	blue4	Benzenoids
+HMDB0032738	coral	Benzenoids
+HMDB0033384	mediumpurple1	Benzenoids
+HMDB0034022	mediumpurple2	Benzenoids
+C06835	coral1	Benzenoids
+HMDB0033936	mediumorchid4	Benzenoids
+HMDB0038222	limegreen	Benzenoids
+C08079	dodgerblue1	Benzenoids
+C14788	mistyrose2	Benzenoids
+HMDB0060890	dodgerblue1	Benzenoids
+HMDB0060891	lightgreen	Benzenoids
+HMDB0041451	whitesmoke	Benzenoids
+C07870	magenta2	Benzenoids
+HMDB0014749	paleturquoise	Benzenoids
+HMDB0031986	palevioletred	Benzenoids
+HMDB0060784	darkorchid2	Benzenoids
+HMDB0013139	darkolivegreen	Benzenoids
+HMDB0038629	cyan	Benzenoids
+C06963	chocolate3	Benzenoids
+HMDB0036544	mistyrose2	Benzenoids
+HMDB0041955	lightgreen	Benzenoids
+C07187	dodgerblue1	Benzenoids
+HMDB0035443	orange1	Benzenoids
+HMDB0062483	plum4	Benzenoids
+HMDB0132947	whitesmoke	Benzenoids
+HMDB0132970	royalblue	Benzenoids
+HMDB0133008	whitesmoke	Benzenoids
+HMDB0135750	darkturquoise	Benzenoids
+HMDB0240222	lightyellow	Benzenoids
+HMDB0014931	lightslateblue	Benzenoids
+HMDB0030192	dodgerblue1	Benzenoids
+HMDB0030838	whitesmoke	Benzenoids
+HMDB0041142	black	Benzenoids
+HMDB0060842	antiquewhite1	Benzenoids
+HMDB0060980	olivedrab4	Benzenoids
+HMDB0060981	chocolate3	Benzenoids
+HMDB0060994	lightpink3	Benzenoids
+HMDB0061105	brown2	Benzenoids
+C04227	antiquewhite3	Benzenoids
+C16584	brown2	Benzenoids
+HMDB0033483	whitesmoke	Benzenoids
+HMDB0141179	whitesmoke	Benzenoids
+HMDB0141768	blue4	Benzenoids
+C15584	antiquewhite3	Benzenoids
+HMDB0060766	dodgerblue1	Benzenoids
+HMDB0061122	whitesmoke	Benzenoids
+C01912	whitesmoke	Benzenoids
+HMDB0059977	whitesmoke	Benzenoids
+HMDB0059979	deeppink1	Benzenoids
+HMDB0134083	lavender	Benzenoids
+HMDB0139534	darkmagenta	Benzenoids
+HMDB0139940	antiquewhite4	Benzenoids
+HMDB0137818	slateblue3	Benzenoids
+C01468	antiquewhite3	Benzenoids
+C02575	darkorange	Benzenoids
+C20216	dodgerblue1	Benzenoids
+HMDB0060000	orangered	Benzenoids
+HMDB0128108	mediumpurple4	Benzenoids
+HMDB0128697	whitesmoke	Benzenoids
+HMDB0135483	orangered	Benzenoids
+HMDB0135671	whitesmoke	Benzenoids
+HMDB0135715	whitesmoke	Benzenoids
+HMDB0139570	dodgerblue1	Benzenoids
+HMDB0142220	sienna4	Benzenoids
+HMDB0030196	lightpink4	Benzenoids
+C18259	mistyrose	Benzenoids
+HMDB0041793	black	Benzenoids
+HMDB0059759	brown2	Benzenoids
+HMDB0015334	dodgerblue1	Benzenoids
+HMDB0060841	salmon4	Benzenoids
+C19998	antiquewhite3	Others
+C19999	honeydew1	Others
+C19996	bisque4	Others
+C19997	magenta2	Others
+C12216	cornflowerblue	Lipids and lipid-like molecules
+C16345	magenta2	Lipids and lipid-like molecules
+C17941	whitesmoke	Lipids and lipid-like molecules
+C17221	darkolivegreen	Lipids and lipid-like molecules
+C16593	firebrick	Lipids and lipid-like molecules
+C21945	rosybrown1	Lipids and lipid-like molecules
+C21953	floralwhite	Lipids and lipid-like molecules
+C13825	mistyrose2	Lipids and lipid-like molecules
+C01037	seashell4	Lipids and lipid-like molecules
+C05717	burlywood	Lipids and lipid-like molecules
+C16436	whitesmoke	Lipids and lipid-like molecules
+C06008	darkturquoise	Lipids and lipid-like molecules
+C04797	lightblue	Lipids and lipid-like molecules
+C18241	orangered1	Lipids and lipid-like molecules
+C00684	brown4	Lipids and lipid-like molecules
+C02780	lightyellow	Lipids and lipid-like molecules
+C04593	dodgerblue1	Lipids and lipid-like molecules
+C01092	whitesmoke	Lipids and lipid-like molecules
+C21958	oldlace	Lipids and lipid-like molecules
+C04103	magenta2	Lipids and lipid-like molecules
+C18191	mistyrose2	Lipids and lipid-like molecules
+C08378	chocolate4	Lipids and lipid-like molecules
+C08553	dodgerblue1	Lipids and lipid-like molecules
+C11842	whitesmoke	Lipids and lipid-like molecules
+C02722	coral	Lipids and lipid-like molecules
+C05944	salmon4	Lipids and lipid-like molecules
+C10944	mediumpurple	Lipids and lipid-like molecules
+C01291	mistyrose2	Lipids and lipid-like molecules
+C02593	whitesmoke	Lipids and lipid-like molecules
+C07297	floralwhite	Lipids and lipid-like molecules
+C16528	lightsteelblue	Lipids and lipid-like molecules
+C03425	whitesmoke	Lipids and lipid-like molecules
+C21669	whitesmoke	Lipids and lipid-like molecules
+C20186	lightseagreen	Lipids and lipid-like molecules
+C20988	lightpink2	Lipids and lipid-like molecules
+C00810	whitesmoke	Lipids and lipid-like molecules
+C10100	steelblue	Phenylpropanoids and polyketides
+C08574	khaki3	Phenylpropanoids and polyketides
+C12137	orange3	Phenylpropanoids and polyketides
+C12645	seashell2	Phenylpropanoids and polyketides
+C05622	whitesmoke	Phenylpropanoids and polyketides
+C07576	greenyellow	Others
+C08438	whitesmoke	Others
+C08439	magenta1	Others
+C06048	orchid	Others
+C08271	dodgerblue1	Others
+C20070	magenta1	Others
+C20546	lavenderblush3	Others
+C20551	dodgerblue1	Others
+C20596	dodgerblue1	Others
+C20597	darkorange2	Others
+C20598	darkseagreen3	Others
+C20601	dodgerblue1	Others
+C20731	dodgerblue1	Others
+C03032	paleturquoise	Others
+C08441	dodgerblue1	Others
+C08511	honeydew1	Others
+C10595	salmon	Others
+C11590	cyan	Others
+C20017	rosybrown2	Others
+C13892	dodgerblue1	Lipids and lipid-like molecules
+C13900	green	Lipids and lipid-like molecules
+C13902	skyblue	Lipids and lipid-like molecules
+HMDB0059920	honeydew1	Others
+C00009	whitesmoke	Others
+C02466	green4	Others
+C11684	dodgerblue1	Others
+HMDB0036759	deeppink1	Others
+HMDB0030944	whitesmoke	Others
+HMDB0032730	dodgerblue1	Others
+HMDB0030557	lightsteelblue1	Others
+HMDB0031536	cyan	Others
+HMDB0032830	lightblue2	Others
+HMDB0036397	whitesmoke	Others
+HMDB0038922	peachpuff3	Others
+HMDB0038951	mistyrose	Others
+HMDB0040282	floralwhite	Others
+HMDB0040283	orangered4	Others
+HMDB0006045	ivory	Others
+HMDB0072880	coral3	Lipids and lipid-like molecules
+C05951	royalblue	Lipids and lipid-like molecules
+HMDB0012109	dodgerblue1	Lipids and lipid-like molecules
+HMDB0012503	lightseagreen	Lipids and lipid-like molecules
+HMDB0014256	cyan	Lipids and lipid-like molecules
+HMDB0015220	dodgerblue1	Lipids and lipid-like molecules
+HMDB0015704	black	Lipids and lipid-like molecules
+HMDB0062591	greenyellow	Lipids and lipid-like molecules
+C07874	indianred4	Lipids and lipid-like molecules
+C10988	coral2	Lipids and lipid-like molecules
+HMDB0000552	indianred3	Lipids and lipid-like molecules
+HMDB0032791	whitesmoke	Lipids and lipid-like molecules
+HMDB0034759	indianred4	Lipids and lipid-like molecules
+HMDB0038946	indianred3	Lipids and lipid-like molecules
+HMDB0041080	whitesmoke	Lipids and lipid-like molecules
+HMDB0041479	black	Lipids and lipid-like molecules
+HMDB0060158	magenta2	Lipids and lipid-like molecules
+HMDB0061634	indianred4	Lipids and lipid-like molecules
+C00497	darkred	Lipids and lipid-like molecules
+C01180	darkgoldenrod3	Lipids and lipid-like molecules
+C01732	oldlace	Lipids and lipid-like molecules
+C02679	chartreuse4	Lipids and lipid-like molecules
+C03196	yellow3	Lipids and lipid-like molecules
+C11758	firebrick4	Lipids and lipid-like molecules
+HMDB0000407	darkturquoise	Lipids and lipid-like molecules
+HMDB0032472	mediumaquamarine	Lipids and lipid-like molecules
+HMDB0038588	whitesmoke	Lipids and lipid-like molecules
+HMDB0041287	lightseagreen	Lipids and lipid-like molecules
+HMDB0112161	orchid	Lipids and lipid-like molecules
+HMDB0116433	deeppink1	Lipids and lipid-like molecules
+HMDB0116443	greenyellow	Lipids and lipid-like molecules
+C19632	lightseagreen	Lipids and lipid-like molecules
+HMDB0000585	steelblue	Lipids and lipid-like molecules
+HMDB0002060	darkseagreen4	Lipids and lipid-like molecules
+HMDB0006598	skyblue3	Lipids and lipid-like molecules
+HMDB0006700	cyan	Lipids and lipid-like molecules
+HMDB0010331	goldenrod4	Lipids and lipid-like molecules
+HMDB0012214	mediumaquamarine	Lipids and lipid-like molecules
+HMDB0029771	cyan	Lipids and lipid-like molecules
+HMDB0029772	darkorange	Lipids and lipid-like molecules
+HMDB0029773	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0029782	lightblue1	Lipids and lipid-like molecules
+HMDB0030422	skyblue	Lipids and lipid-like molecules
+HMDB0030697	paleturquoise4	Lipids and lipid-like molecules
+HMDB0031690	chartreuse3	Lipids and lipid-like molecules
+HMDB0031694	mistyrose	Lipids and lipid-like molecules
+HMDB0031763	lightyellow4	Lipids and lipid-like molecules
+HMDB0031876	whitesmoke	Lipids and lipid-like molecules
+HMDB0031936	dodgerblue1	Lipids and lipid-like molecules
+HMDB0031956	red4	Lipids and lipid-like molecules
+HMDB0034771	cyan3	Lipids and lipid-like molecules
+HMDB0034873	navajowhite2	Lipids and lipid-like molecules
+HMDB0036214	steelblue	Lipids and lipid-like molecules
+HMDB0036340	antiquewhite3	Lipids and lipid-like molecules
+HMDB0036822	paleturquoise	Lipids and lipid-like molecules
+HMDB0039952	brown2	Lipids and lipid-like molecules
+HMDB0040668	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040672	darkorange	Lipids and lipid-like molecules
+HMDB0041415	steelblue	Lipids and lipid-like molecules
+HMDB0041579	dodgerblue1	Lipids and lipid-like molecules
+HMDB0126537	whitesmoke	Lipids and lipid-like molecules
+HMDB0128687	lightyellow	Lipids and lipid-like molecules
+HMDB0130042	mediumorchid1	Lipids and lipid-like molecules
+HMDB0132957	whitesmoke	Lipids and lipid-like molecules
+HMDB0132967	steelblue	Lipids and lipid-like molecules
+HMDB0133007	navajowhite4	Lipids and lipid-like molecules
+HMDB0133023	deeppink1	Lipids and lipid-like molecules
+C16376	whitesmoke	Lipids and lipid-like molecules
+HMDB0002057	skyblue	Lipids and lipid-like molecules
+HMDB0003946	whitesmoke	Lipids and lipid-like molecules
+HMDB0006519	whitesmoke	Lipids and lipid-like molecules
+HMDB0006526	dodgerblue1	Lipids and lipid-like molecules
+HMDB0006529	rosybrown1	Lipids and lipid-like molecules
+HMDB0006805	chocolate2	Lipids and lipid-like molecules
+HMDB0006897	lightyellow	Lipids and lipid-like molecules
+HMDB0012474	whitesmoke	Lipids and lipid-like molecules
+HMDB0012606	lightblue	Lipids and lipid-like molecules
+HMDB0013028	darkorchid3	Lipids and lipid-like molecules
+HMDB0062213	darkorchid3	Lipids and lipid-like molecules
+HMDB0062371	antiquewhite3	Lipids and lipid-like molecules
+HMDB0112241	darkorange2	Lipids and lipid-like molecules
+HMDB0112251	whitesmoke	Lipids and lipid-like molecules
+HMDB0035500	greenyellow	Lipids and lipid-like molecules
+HMDB0040568	mediumpurple1	Lipids and lipid-like molecules
+HMDB0013813	whitesmoke	Lipids and lipid-like molecules
+HMDB0029792	indianred1	Lipids and lipid-like molecules
+HMDB0031228	whitesmoke	Lipids and lipid-like molecules
+HMDB0031275	orange3	Lipids and lipid-like molecules
+HMDB0034563	antiquewhite3	Lipids and lipid-like molecules
+HMDB0035389	whitesmoke	Lipids and lipid-like molecules
+HMDB0036342	whitesmoke	Lipids and lipid-like molecules
+HMDB0036975	grey60	Lipids and lipid-like molecules
+HMDB0038963	slateblue3	Lipids and lipid-like molecules
+HMDB0039403	brown3	Lipids and lipid-like molecules
+HMDB0040373	mistyrose	Lipids and lipid-like molecules
+HMDB0040921	greenyellow	Lipids and lipid-like molecules
+C19670	deeppink1	Lipids and lipid-like molecules
+HMDB0007007	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041177	lightcyan1	Lipids and lipid-like molecules
+HMDB0041203	lavenderblush3	Lipids and lipid-like molecules
+HMDB0043823	mediumorchid4	Lipids and lipid-like molecules
+HMDB0092960	whitesmoke	Lipids and lipid-like molecules
+HMDB0094060	indianred1	Lipids and lipid-like molecules
+HMDB0029331	brown2	Lipids and lipid-like molecules
+HMDB0041093	green4	Lipids and lipid-like molecules
+HMDB0041094	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041511	whitesmoke	Lipids and lipid-like molecules
+HMDB0011582	grey60	Lipids and lipid-like molecules
+HMDB0011585	dodgerblue1	Lipids and lipid-like molecules
+HMDB0031639	lightskyblue3	Lipids and lipid-like molecules
+C13870	thistle4	Lipids and lipid-like molecules
+HMDB0032857	whitesmoke	Lipids and lipid-like molecules
+HMDB0043424	honeydew	Lipids and lipid-like molecules
+HMDB0043489	whitesmoke	Lipids and lipid-like molecules
+HMDB0043803	whitesmoke	Lipids and lipid-like molecules
+HMDB0047718	blue4	Lipids and lipid-like molecules
+HMDB0047720	lightskyblue3	Lipids and lipid-like molecules
+HMDB0047722	thistle4	Lipids and lipid-like molecules
+HMDB0050299	whitesmoke	Lipids and lipid-like molecules
+HMDB0050337	floralwhite	Lipids and lipid-like molecules
+HMDB0051424	green4	Lipids and lipid-like molecules
+HMDB0051909	darkmagenta	Lipids and lipid-like molecules
+HMDB0052156	chocolate4	Lipids and lipid-like molecules
+HMDB0052349	darkolivegreen	Lipids and lipid-like molecules
+HMDB0052844	darkseagreen1	Lipids and lipid-like molecules
+HMDB0054702	green2	Lipids and lipid-like molecules
+HMDB0055189	mediumpurple4	Lipids and lipid-like molecules
+HMDB0055640	mediumpurple4	Lipids and lipid-like molecules
+HMDB0055716	green2	Lipids and lipid-like molecules
+HMDB0110669	deeppink2	Lipids and lipid-like molecules
+HMDB0110818	whitesmoke	Lipids and lipid-like molecules
+HMDB0006972	dodgerblue1	Lipids and lipid-like molecules
+HMDB0115965	burlywood4	Lipids and lipid-like molecules
+HMDB0115988	lightcoral	Lipids and lipid-like molecules
+HMDB0116019	oldlace	Lipids and lipid-like molecules
+HMDB0116027	purple	Lipids and lipid-like molecules
+HMDB0116036	orangered1	Lipids and lipid-like molecules
+HMDB0116038	magenta2	Lipids and lipid-like molecules
+HMDB0116041	oldlace	Lipids and lipid-like molecules
+HMDB0116043	mistyrose2	Lipids and lipid-like molecules
+HMDB0116166	navajowhite2	Lipids and lipid-like molecules
+HMDB0116169	darkseagreen4	Lipids and lipid-like molecules
+HMDB0116174	lightcoral	Lipids and lipid-like molecules
+HMDB0116190	darkred	Lipids and lipid-like molecules
+HMDB0116192	magenta2	Lipids and lipid-like molecules
+HMDB0116198	aquamarine1	Lipids and lipid-like molecules
+HMDB0116200	magenta2	Lipids and lipid-like molecules
+HMDB0116205	green4	Lipids and lipid-like molecules
+HMDB0116211	green	Lipids and lipid-like molecules
+HMDB0116213	honeydew	Lipids and lipid-like molecules
+HMDB0116231	whitesmoke	Lipids and lipid-like molecules
+HMDB0116247	floralwhite	Lipids and lipid-like molecules
+HMDB0116249	green4	Lipids and lipid-like molecules
+HMDB0116260	tomato2	Lipids and lipid-like molecules
+HMDB0116265	lavenderblush3	Lipids and lipid-like molecules
+HMDB0116277	lavenderblush1	Lipids and lipid-like molecules
+HMDB0116287	firebrick4	Lipids and lipid-like molecules
+HMDB0116295	lightcyan1	Lipids and lipid-like molecules
+HMDB0116312	honeydew1	Lipids and lipid-like molecules
+HMDB0116363	orangered	Lipids and lipid-like molecules
+HMDB0116365	whitesmoke	Lipids and lipid-like molecules
+HMDB0116366	blue4	Lipids and lipid-like molecules
+HMDB0114754	dodgerblue1	Lipids and lipid-like molecules
+HMDB0115126	whitesmoke	Lipids and lipid-like molecules
+HMDB0115211	dodgerblue1	Lipids and lipid-like molecules
+HMDB0115426	lightslateblue	Lipids and lipid-like molecules
+HMDB0115427	lightslateblue	Lipids and lipid-like molecules
+HMDB0115614	paleturquoise	Lipids and lipid-like molecules
+HMDB0115689	mediumorchid	Lipids and lipid-like molecules
+HMDB0115786	mediumorchid	Lipids and lipid-like molecules
+HMDB0115818	mediumaquamarine	Lipids and lipid-like molecules
+HMDB0003752	greenyellow	Lipids and lipid-like molecules
+HMDB0008039	coral3	Lipids and lipid-like molecules
+HMDB0008156	grey60	Lipids and lipid-like molecules
+HMDB0008576	coral3	Lipids and lipid-like molecules
+HMDB0008729	grey60	Lipids and lipid-like molecules
+HMDB0008730	whitesmoke	Lipids and lipid-like molecules
+HMDB0008776	darkolivegreen	Lipids and lipid-like molecules
+HMDB0010390	mistyrose2	Lipids and lipid-like molecules
+HMDB0011212	greenyellow	Lipids and lipid-like molecules
+HMDB0011262	grey60	Lipids and lipid-like molecules
+HMDB0011328	grey60	Lipids and lipid-like molecules
+HMDB0011333	grey60	Lipids and lipid-like molecules
+HMDB0029220	navajowhite2	Lipids and lipid-like molecules
+HMDB0039528	grey60	Lipids and lipid-like molecules
+HMDB0061455	whitesmoke	Lipids and lipid-like molecules
+HMDB0061465	whitesmoke	Lipids and lipid-like molecules
+HMDB0061466	whitesmoke	Lipids and lipid-like molecules
+HMDB0061470	whitesmoke	Lipids and lipid-like molecules
+HMDB0061699	green4	Lipids and lipid-like molecules
+HMDB0061701	mediumpurple1	Lipids and lipid-like molecules
+HMDB0005779	grey60	Lipids and lipid-like molecules
+HMDB0005780	coral3	Lipids and lipid-like molecules
+HMDB0008954	steelblue	Lipids and lipid-like molecules
+HMDB0009086	rosybrown2	Lipids and lipid-like molecules
+HMDB0009195	navajowhite2	Lipids and lipid-like molecules
+HMDB0009683	maroon	Lipids and lipid-like molecules
+HMDB0009686	grey60	Lipids and lipid-like molecules
+HMDB0009690	whitesmoke	Lipids and lipid-like molecules
+HMDB0009695	grey60	Lipids and lipid-like molecules
+HMDB0011343	coral3	Lipids and lipid-like molecules
+HMDB0011344	darkviolet	Lipids and lipid-like molecules
+HMDB0011349	coral3	Lipids and lipid-like molecules
+HMDB0011352	coral3	Lipids and lipid-like molecules
+HMDB0011359	coral3	Lipids and lipid-like molecules
+HMDB0011375	coral3	Lipids and lipid-like molecules
+HMDB0011384	cyan	Lipids and lipid-like molecules
+HMDB0011442	coral3	Lipids and lipid-like molecules
+HMDB0011448	grey60	Lipids and lipid-like molecules
+HMDB0011458	lightseagreen	Lipids and lipid-like molecules
+HMDB0061491	darkolivegreen	Lipids and lipid-like molecules
+HMDB0061539	coral3	Lipids and lipid-like molecules
+HMDB0061540	plum4	Lipids and lipid-like molecules
+HMDB0113261	rosybrown1	Lipids and lipid-like molecules
+HMDB0113691	magenta2	Lipids and lipid-like molecules
+HMDB0114601	whitesmoke	Lipids and lipid-like molecules
+HMDB0114659	darkgoldenrod1	Lipids and lipid-like molecules
+HMDB0116660	darkseagreen3	Lipids and lipid-like molecules
+HMDB0116678	mediumpurple1	Lipids and lipid-like molecules
+HMDB0116693	dodgerblue1	Lipids and lipid-like molecules
+HMDB0116696	skyblue3	Lipids and lipid-like molecules
+HMDB0013472	dodgerblue1	Lipids and lipid-like molecules
+HMDB0013488	lightblue3	Lipids and lipid-like molecules
+HMDB0013497	darkorange2	Lipids and lipid-like molecules
+HMDB0013503	darkcyan	Lipids and lipid-like molecules
+HMDB0013516	magenta2	Lipids and lipid-like molecules
+HMDB0013531	cyan	Lipids and lipid-like molecules
+HMDB0013537	purple	Lipids and lipid-like molecules
+HMDB0013547	lightcoral	Lipids and lipid-like molecules
+HMDB0013561	cyan	Lipids and lipid-like molecules
+HMDB0013581	darkorange2	Lipids and lipid-like molecules
+HMDB0013591	dodgerblue1	Lipids and lipid-like molecules
+HMDB0116476	tomato2	Lipids and lipid-like molecules
+HMDB0116478	chartreuse2	Lipids and lipid-like molecules
+HMDB0116502	dodgerblue1	Lipids and lipid-like molecules
+HMDB0116530	lavenderblush2	Lipids and lipid-like molecules
+HMDB0116536	honeydew1	Lipids and lipid-like molecules
+HMDB0116570	dodgerblue1	Lipids and lipid-like molecules
+HMDB0116571	tomato2	Lipids and lipid-like molecules
+HMDB0116804	skyblue	Lipids and lipid-like molecules
+HMDB0116820	thistle	Lipids and lipid-like molecules
+HMDB0116832	tomato2	Lipids and lipid-like molecules
+HMDB0116838	dodgerblue1	Lipids and lipid-like molecules
+HMDB0117629	thistle4	Lipids and lipid-like molecules
+HMDB0124595	hotpink2	Lipids and lipid-like molecules
+HMDB0124660	burlywood3	Lipids and lipid-like molecules
+HMDB0009943	darkblue	Lipids and lipid-like molecules
+HMDB0009950	burlywood3	Lipids and lipid-like molecules
+HMDB0009983	chartreuse2	Lipids and lipid-like molecules
+HMDB0010001	darkgreen	Lipids and lipid-like molecules
+HMDB0010015	chartreuse2	Lipids and lipid-like molecules
+HMDB0010030	tan1	Lipids and lipid-like molecules
+HMDB0010056	lightcyan1	Lipids and lipid-like molecules
+HMDB0010059	mediumorchid3	Lipids and lipid-like molecules
+HMDB0010115	snow2	Lipids and lipid-like molecules
+HMDB0010127	dodgerblue1	Lipids and lipid-like molecules
+HMDB0010136	darkorange	Lipids and lipid-like molecules
+HMDB0010140	dodgerblue1	Lipids and lipid-like molecules
+HMDB0010143	darkgreen	Lipids and lipid-like molecules
+HMDB0010146	darkseagreen1	Lipids and lipid-like molecules
+HMDB0010147	lightsteelblue	Lipids and lipid-like molecules
+HMDB0010148	dodgerblue1	Lipids and lipid-like molecules
+HMDB0010159	lavenderblush	Lipids and lipid-like molecules
+HMDB0006953	whitesmoke	Lipids and lipid-like molecules
+HMDB0009802	dodgerblue1	Lipids and lipid-like molecules
+HMDB0009918	skyblue3	Lipids and lipid-like molecules
+HMDB0011669	aliceblue	Lipids and lipid-like molecules
+HMDB0012331	paleturquoise	Lipids and lipid-like molecules
+HMDB0012335	mistyrose2	Lipids and lipid-like molecules
+HMDB0012337	magenta2	Lipids and lipid-like molecules
+HMDB0012439	palevioletred1	Lipids and lipid-like molecules
+HMDB0061567	hotpink2	Lipids and lipid-like molecules
+HMDB0061574	grey60	Lipids and lipid-like molecules
+HMDB0061578	dodgerblue1	Lipids and lipid-like molecules
+HMDB0061586	lightsteelblue	Lipids and lipid-like molecules
+HMDB0061587	mediumpurple1	Lipids and lipid-like molecules
+HMDB0061604	firebrick3	Lipids and lipid-like molecules
+HMDB0112282	paleturquoise4	Lipids and lipid-like molecules
+HMDB0112513	whitesmoke	Lipids and lipid-like molecules
+HMDB0112562	purple	Lipids and lipid-like molecules
+HMDB0112674	paleturquoise	Lipids and lipid-like molecules
+HMDB0112829	dodgerblue1	Lipids and lipid-like molecules
+HMDB0112877	orange4	Lipids and lipid-like molecules
+HMDB0116765	coral3	Lipids and lipid-like molecules
+HMDB0116778	tomato4	Lipids and lipid-like molecules
+HMDB0116796	greenyellow	Lipids and lipid-like molecules
+HMDB0094688	whitesmoke	Lipids and lipid-like molecules
+HMDB0039595	whitesmoke	Lipids and lipid-like molecules
+C08589	mediumpurple	Lipids and lipid-like molecules
+C11231	floralwhite	Lipids and lipid-like molecules
+C13715	lavenderblush	Lipids and lipid-like molecules
+HMDB0002376	coral1	Lipids and lipid-like molecules
+HMDB0011678	peachpuff2	Lipids and lipid-like molecules
+HMDB0015360	ivory	Lipids and lipid-like molecules
+HMDB0015672	green4	Lipids and lipid-like molecules
+HMDB0033399	lavenderblush1	Lipids and lipid-like molecules
+HMDB0034388	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034617	mediumorchid3	Lipids and lipid-like molecules
+HMDB0035037	mediumorchid	Lipids and lipid-like molecules
+HMDB0036753	magenta2	Lipids and lipid-like molecules
+HMDB0039122	greenyellow	Lipids and lipid-like molecules
+HMDB0040291	dodgerblue1	Lipids and lipid-like molecules
+HMDB0060753	dodgerblue1	Lipids and lipid-like molecules
+HMDB0060794	orange4	Lipids and lipid-like molecules
+HMDB0060871	dodgerblue1	Lipids and lipid-like molecules
+HMDB0127524	mistyrose2	Lipids and lipid-like molecules
+HMDB0127544	dodgerblue1	Lipids and lipid-like molecules
+HMDB0127548	plum2	Lipids and lipid-like molecules
+HMDB0012869	black	Lipids and lipid-like molecules
+HMDB0029485	deeppink1	Lipids and lipid-like molecules
+HMDB0031211	green4	Lipids and lipid-like molecules
+HMDB0033574	whitesmoke	Lipids and lipid-like molecules
+HMDB0034969	whitesmoke	Lipids and lipid-like molecules
+HMDB0035195	thistle3	Lipids and lipid-like molecules
+HMDB0035374	whitesmoke	Lipids and lipid-like molecules
+HMDB0035899	mediumorchid	Lipids and lipid-like molecules
+HMDB0036133	mistyrose	Lipids and lipid-like molecules
+HMDB0036143	lightseagreen	Lipids and lipid-like molecules
+HMDB0036171	whitesmoke	Lipids and lipid-like molecules
+HMDB0036669	whitesmoke	Lipids and lipid-like molecules
+HMDB0036816	grey60	Lipids and lipid-like molecules
+HMDB0037013	greenyellow	Lipids and lipid-like molecules
+HMDB0037272	grey60	Lipids and lipid-like molecules
+HMDB0038387	deeppink1	Lipids and lipid-like molecules
+HMDB0038619	skyblue	Lipids and lipid-like molecules
+HMDB0039138	grey60	Lipids and lipid-like molecules
+HMDB0041045	deepskyblue	Lipids and lipid-like molecules
+HMDB0042054	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0133061	maroon	Lipids and lipid-like molecules
+HMDB0011673	lightcyan1	Lipids and lipid-like molecules
+C05200	dodgerblue1	Lipids and lipid-like molecules
+HMDB0012146	dodgerblue1	Lipids and lipid-like molecules
+C20265	tan3	Lipids and lipid-like molecules
+HMDB0002012	deeppink1	Lipids and lipid-like molecules
+HMDB0030017	whitesmoke	Lipids and lipid-like molecules
+HMDB0033685	skyblue	Lipids and lipid-like molecules
+C12531	plum2	Lipids and lipid-like molecules
+C21695	darkmagenta	Lipids and lipid-like molecules
+HMDB0001054	darkseagreen3	Lipids and lipid-like molecules
+HMDB0030555	brown4	Lipids and lipid-like molecules
+HMDB0031674	khaki	Lipids and lipid-like molecules
+HMDB0035001	mistyrose2	Lipids and lipid-like molecules
+HMDB0035067	whitesmoke	Lipids and lipid-like molecules
+HMDB0035134	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0035689	lightblue4	Lipids and lipid-like molecules
+HMDB0035722	lightyellow	Lipids and lipid-like molecules
+HMDB0035884	whitesmoke	Lipids and lipid-like molecules
+HMDB0036162	deepskyblue	Lipids and lipid-like molecules
+HMDB0036422	whitesmoke	Lipids and lipid-like molecules
+HMDB0036453	whitesmoke	Lipids and lipid-like molecules
+HMDB0036821	whitesmoke	Lipids and lipid-like molecules
+HMDB0037035	pink3	Lipids and lipid-like molecules
+HMDB0038547	darkorange	Lipids and lipid-like molecules
+HMDB0038562	lavenderblush1	Lipids and lipid-like molecules
+HMDB0038704	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039380	orange4	Lipids and lipid-like molecules
+HMDB0040702	violetred2	Lipids and lipid-like molecules
+HMDB0041586	darkmagenta	Lipids and lipid-like molecules
+HMDB0041365	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041368	dodgerblue1	Lipids and lipid-like molecules
+HMDB0029622	dodgerblue1	Lipids and lipid-like molecules
+HMDB0029849	whitesmoke	Lipids and lipid-like molecules
+HMDB0031025	lightpink	Lipids and lipid-like molecules
+HMDB0031027	pink3	Lipids and lipid-like molecules
+HMDB0031164	darkorange	Lipids and lipid-like molecules
+HMDB0031350	skyblue3	Lipids and lipid-like molecules
+HMDB0031353	burlywood3	Lipids and lipid-like molecules
+HMDB0031775	dodgerblue1	Lipids and lipid-like molecules
+HMDB0031891	darkolivegreen	Lipids and lipid-like molecules
+HMDB0031892	greenyellow	Lipids and lipid-like molecules
+HMDB0031918	brown4	Lipids and lipid-like molecules
+HMDB0031965	purple	Lipids and lipid-like molecules
+HMDB0031990	deepskyblue3	Lipids and lipid-like molecules
+HMDB0032836	lightsalmon4	Lipids and lipid-like molecules
+HMDB0032932	lightcyan1	Lipids and lipid-like molecules
+HMDB0033150	dodgerblue1	Lipids and lipid-like molecules
+HMDB0033175	mediumpurple1	Lipids and lipid-like molecules
+HMDB0033405	mediumorchid3	Lipids and lipid-like molecules
+HMDB0033500	lightsteelblue	Lipids and lipid-like molecules
+HMDB0033501	mediumorchid2	Lipids and lipid-like molecules
+HMDB0033580	darkolivegreen	Lipids and lipid-like molecules
+HMDB0033636	dodgerblue1	Lipids and lipid-like molecules
+HMDB0033643	firebrick3	Lipids and lipid-like molecules
+HMDB0034265	chocolate3	Lipids and lipid-like molecules
+HMDB0034536	magenta2	Lipids and lipid-like molecules
+HMDB0034537	darkgreen	Lipids and lipid-like molecules
+HMDB0034546	magenta2	Lipids and lipid-like molecules
+HMDB0034625	darkmagenta	Lipids and lipid-like molecules
+HMDB0034651	darkturquoise	Lipids and lipid-like molecules
+HMDB0034816	lemonchiffon2	Lipids and lipid-like molecules
+HMDB0034868	darkblue	Lipids and lipid-like molecules
+HMDB0034870	purple	Lipids and lipid-like molecules
+HMDB0034871	magenta2	Lipids and lipid-like molecules
+HMDB0034945	orangered2	Lipids and lipid-like molecules
+HMDB0034946	darkorange2	Lipids and lipid-like molecules
+HMDB0034950	mediumorchid	Lipids and lipid-like molecules
+HMDB0035096	chocolate4	Lipids and lipid-like molecules
+HMDB0035101	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035165	thistle3	Lipids and lipid-like molecules
+HMDB0035167	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035217	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0035341	mistyrose2	Lipids and lipid-like molecules
+HMDB0035342	oldlace	Lipids and lipid-like molecules
+HMDB0035468	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035497	purple2	Lipids and lipid-like molecules
+HMDB0035947	slateblue4	Lipids and lipid-like molecules
+HMDB0036300	burlywood4	Lipids and lipid-like molecules
+HMDB0036316	cyan	Lipids and lipid-like molecules
+HMDB0036362	darkgreen	Lipids and lipid-like molecules
+HMDB0036707	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0036846	deeppink1	Lipids and lipid-like molecules
+HMDB0036903	antiquewhite2	Lipids and lipid-like molecules
+HMDB0036943	darkgreen	Lipids and lipid-like molecules
+HMDB0036965	darkorange2	Lipids and lipid-like molecules
+HMDB0036966	dodgerblue1	Lipids and lipid-like molecules
+HMDB0037126	dodgerblue1	Lipids and lipid-like molecules
+HMDB0037827	dodgerblue1	Lipids and lipid-like molecules
+HMDB0037911	lightslateblue	Lipids and lipid-like molecules
+HMDB0037912	goldenrod1	Lipids and lipid-like molecules
+HMDB0037923	green3	Lipids and lipid-like molecules
+HMDB0037924	dodgerblue1	Lipids and lipid-like molecules
+HMDB0038315	honeydew	Lipids and lipid-like molecules
+HMDB0038316	darkorange2	Lipids and lipid-like molecules
+HMDB0038342	magenta2	Lipids and lipid-like molecules
+HMDB0038451	purple	Lipids and lipid-like molecules
+HMDB0038452	lightblue1	Lipids and lipid-like molecules
+HMDB0038541	magenta2	Lipids and lipid-like molecules
+HMDB0038542	dodgerblue1	Lipids and lipid-like molecules
+HMDB0038612	whitesmoke	Lipids and lipid-like molecules
+HMDB0038759	lightcoral	Lipids and lipid-like molecules
+HMDB0038923	mediumorchid3	Lipids and lipid-like molecules
+HMDB0038983	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039010	mediumpurple1	Lipids and lipid-like molecules
+HMDB0039290	orangered	Lipids and lipid-like molecules
+HMDB0039292	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039293	antiquewhite3	Lipids and lipid-like molecules
+HMDB0039310	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039318	mediumpurple1	Lipids and lipid-like molecules
+HMDB0039352	mistyrose2	Lipids and lipid-like molecules
+HMDB0039400	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039418	antiquewhite1	Lipids and lipid-like molecules
+HMDB0039448	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039478	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039487	darkorange2	Lipids and lipid-like molecules
+HMDB0039512	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039553	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039560	magenta2	Lipids and lipid-like molecules
+HMDB0039577	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039591	cyan	Lipids and lipid-like molecules
+HMDB0039636	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039892	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039947	lightpink4	Lipids and lipid-like molecules
+HMDB0039976	whitesmoke	Lipids and lipid-like molecules
+HMDB0039978	lightpink3	Lipids and lipid-like molecules
+HMDB0040123	magenta2	Lipids and lipid-like molecules
+HMDB0040523	darkorange	Lipids and lipid-like molecules
+HMDB0040616	goldenrod4	Lipids and lipid-like molecules
+HMDB0040617	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040647	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040649	darkgreen	Lipids and lipid-like molecules
+HMDB0040653	whitesmoke	Lipids and lipid-like molecules
+HMDB0040752	magenta2	Lipids and lipid-like molecules
+HMDB0040859	skyblue4	Lipids and lipid-like molecules
+HMDB0040945	darkgreen	Lipids and lipid-like molecules
+HMDB0040957	deepskyblue3	Lipids and lipid-like molecules
+HMDB0041018	lightslateblue	Lipids and lipid-like molecules
+HMDB0041020	mediumorchid3	Lipids and lipid-like molecules
+HMDB0041021	green	Lipids and lipid-like molecules
+HMDB0041240	lightblue1	Lipids and lipid-like molecules
+HMDB0041241	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041347	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041548	dodgerblue1	Lipids and lipid-like molecules
+HMDB0060012	orchid	Lipids and lipid-like molecules
+HMDB0061689	magenta2	Lipids and lipid-like molecules
+HMDB0030597	steelblue	Lipids and lipid-like molecules
+HMDB0031373	mistyrose2	Lipids and lipid-like molecules
+HMDB0031380	dodgerblue1	Lipids and lipid-like molecules
+HMDB0031932	whitesmoke	Lipids and lipid-like molecules
+HMDB0032844	paleturquoise	Lipids and lipid-like molecules
+HMDB0034475	lightyellow	Lipids and lipid-like molecules
+HMDB0034998	lightgreen	Lipids and lipid-like molecules
+HMDB0035029	ivory	Lipids and lipid-like molecules
+HMDB0035036	whitesmoke	Lipids and lipid-like molecules
+HMDB0035164	lightpink3	Lipids and lipid-like molecules
+HMDB0035610	orange2	Lipids and lipid-like molecules
+HMDB0036489	hotpink3	Lipids and lipid-like molecules
+HMDB0036691	chocolate1	Lipids and lipid-like molecules
+HMDB0036692	lightblue3	Lipids and lipid-like molecules
+HMDB0036735	orangered4	Lipids and lipid-like molecules
+HMDB0036781	rosybrown2	Lipids and lipid-like molecules
+HMDB0036842	dodgerblue1	Lipids and lipid-like molecules
+HMDB0036862	darkolivegreen	Lipids and lipid-like molecules
+HMDB0037059	lavender	Lipids and lipid-like molecules
+HMDB0039061	orangered2	Lipids and lipid-like molecules
+HMDB0041027	whitesmoke	Lipids and lipid-like molecules
+HMDB0041037	deeppink1	Lipids and lipid-like molecules
+HMDB0041551	thistle4	Lipids and lipid-like molecules
+HMDB0002741	brown2	Lipids and lipid-like molecules
+HMDB0030100	seashell2	Lipids and lipid-like molecules
+HMDB0029625	mistyrose2	Lipids and lipid-like molecules
+HMDB0030509	green3	Lipids and lipid-like molecules
+HMDB0031371	magenta2	Lipids and lipid-like molecules
+HMDB0031381	honeydew1	Lipids and lipid-like molecules
+HMDB0032781	darkturquoise	Lipids and lipid-like molecules
+HMDB0032894	royalblue	Lipids and lipid-like molecules
+HMDB0034503	tan4	Lipids and lipid-like molecules
+HMDB0034510	whitesmoke	Lipids and lipid-like molecules
+HMDB0034548	green	Lipids and lipid-like molecules
+HMDB0034610	deeppink1	Lipids and lipid-like molecules
+HMDB0034637	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034737	darkred	Lipids and lipid-like molecules
+HMDB0035336	skyblue3	Lipids and lipid-like molecules
+HMDB0035349	aquamarine1	Lipids and lipid-like molecules
+HMDB0035487	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035509	lightsalmon4	Lipids and lipid-like molecules
+HMDB0035599	chocolate3	Lipids and lipid-like molecules
+HMDB0035641	pink1	Lipids and lipid-like molecules
+HMDB0035684	firebrick4	Lipids and lipid-like molecules
+HMDB0035693	pink3	Lipids and lipid-like molecules
+HMDB0035725	green4	Lipids and lipid-like molecules
+HMDB0035750	whitesmoke	Lipids and lipid-like molecules
+HMDB0035973	whitesmoke	Lipids and lipid-like molecules
+HMDB0035978	paleturquoise	Lipids and lipid-like molecules
+HMDB0035987	dodgerblue1	Lipids and lipid-like molecules
+HMDB0036357	lightblue3	Lipids and lipid-like molecules
+HMDB0036404	whitesmoke	Lipids and lipid-like molecules
+HMDB0036442	lavenderblush1	Lipids and lipid-like molecules
+HMDB0036810	violetred3	Lipids and lipid-like molecules
+HMDB0036882	dodgerblue1	Lipids and lipid-like molecules
+HMDB0037904	dodgerblue1	Lipids and lipid-like molecules
+HMDB0038199	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039006	green4	Lipids and lipid-like molecules
+HMDB0039398	bisque1	Lipids and lipid-like molecules
+HMDB0040493	dodgerblue3	Lipids and lipid-like molecules
+HMDB0040495	rosybrown2	Lipids and lipid-like molecules
+HMDB0040654	magenta2	Lipids and lipid-like molecules
+HMDB0040659	green4	Lipids and lipid-like molecules
+HMDB0040662	darkorange2	Lipids and lipid-like molecules
+HMDB0040667	paleturquoise	Lipids and lipid-like molecules
+HMDB0040711	whitesmoke	Lipids and lipid-like molecules
+HMDB0040874	darkorange2	Lipids and lipid-like molecules
+HMDB0041351	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041466	dodgerblue1	Lipids and lipid-like molecules
+HMDB0041534	rosybrown2	Lipids and lipid-like molecules
+HMDB0035867	deeppink1	Lipids and lipid-like molecules
+HMDB0038117	lightsteelblue1	Lipids and lipid-like molecules
+HMDB0039365	dodgerblue1	Lipids and lipid-like molecules
+HMDB0130025	brown3	Lipids and lipid-like molecules
+HMDB0000790	coral3	Lipids and lipid-like molecules
+HMDB0011758	grey60	Lipids and lipid-like molecules
+HMDB0011767	rosybrown2	Lipids and lipid-like molecules
+HMDB0035470	whitesmoke	Lipids and lipid-like molecules
+HMDB0035480	coral3	Lipids and lipid-like molecules
+HMDB0000024	darkolivegreen	Lipids and lipid-like molecules
+HMDB0004837	grey60	Lipids and lipid-like molecules
+HMDB0004888	lightslateblue	Lipids and lipid-like molecules
+HMDB0011914	dodgerblue1	Lipids and lipid-like molecules
+HMDB0011915	salmon4	Lipids and lipid-like molecules
+HMDB0032795	purple	Lipids and lipid-like molecules
+HMDB0032843	mediumpurple	Lipids and lipid-like molecules
+HMDB0062485	mediumpurple1	Lipids and lipid-like molecules
+C06124	purple	Lipids and lipid-like molecules
+HMDB0012082	whitesmoke	Lipids and lipid-like molecules
+HMDB0062665	grey60	Lipids and lipid-like molecules
+HMDB0001984	seashell2	Lipids and lipid-like molecules
+HMDB0015316	indianred3	Lipids and lipid-like molecules
+HMDB0061030	lightpink3	Lipids and lipid-like molecules
+HMDB0061092	brown4	Lipids and lipid-like molecules
+C17644	white	Lipids and lipid-like molecules
+HMDB0000601	dodgerblue1	Lipids and lipid-like molecules
+HMDB0002497	green3	Lipids and lipid-like molecules
+HMDB0006898	greenyellow	Lipids and lipid-like molecules
+HMDB0032596	paleturquoise	Lipids and lipid-like molecules
+HMDB0034706	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034927	deeppink1	Lipids and lipid-like molecules
+HMDB0036298	lightcoral	Lipids and lipid-like molecules
+HMDB0039753	cornflowerblue	Lipids and lipid-like molecules
+C11228	floralwhite	Lipids and lipid-like molecules
+C14383	violetred4	Lipids and lipid-like molecules
+HMDB0002720	goldenrod4	Lipids and lipid-like molecules
+HMDB0012941	indianred2	Lipids and lipid-like molecules
+HMDB0014729	darkorange	Lipids and lipid-like molecules
+HMDB0034341	sienna4	Lipids and lipid-like molecules
+HMDB0034342	plum3	Lipids and lipid-like molecules
+HMDB0039695	lightsteelblue1	Lipids and lipid-like molecules
+C12695	firebrick4	Lipids and lipid-like molecules
+HMDB0014433	honeydew1	Lipids and lipid-like molecules
+C07553	grey60	Lipids and lipid-like molecules
+HMDB0029313	whitesmoke	Lipids and lipid-like molecules
+HMDB0030010	deeppink1	Lipids and lipid-like molecules
+HMDB0030142	chocolate	Lipids and lipid-like molecules
+HMDB0032685	chocolate4	Lipids and lipid-like molecules
+HMDB0032828	tomato4	Lipids and lipid-like molecules
+HMDB0032834	coral1	Lipids and lipid-like molecules
+HMDB0033085	lightskyblue4	Lipids and lipid-like molecules
+HMDB0033424	cyan	Lipids and lipid-like molecules
+HMDB0033572	antiquewhite1	Lipids and lipid-like molecules
+HMDB0033573	dodgerblue1	Lipids and lipid-like molecules
+HMDB0033728	dodgerblue1	Lipids and lipid-like molecules
+HMDB0033846	lightsteelblue	Lipids and lipid-like molecules
+HMDB0033899	dodgerblue1	Lipids and lipid-like molecules
+HMDB0033907	goldenrod4	Lipids and lipid-like molecules
+HMDB0034057	whitesmoke	Lipids and lipid-like molecules
+HMDB0034086	cyan4	Lipids and lipid-like molecules
+HMDB0034200	lightpink2	Lipids and lipid-like molecules
+HMDB0034201	chocolate2	Lipids and lipid-like molecules
+HMDB0034321	black	Lipids and lipid-like molecules
+HMDB0034339	lightblue4	Lipids and lipid-like molecules
+HMDB0034361	honeydew1	Lipids and lipid-like molecules
+HMDB0034362	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035771	green	Lipids and lipid-like molecules
+HMDB0035860	palevioletred	Lipids and lipid-like molecules
+HMDB0035863	lightyellow	Lipids and lipid-like molecules
+HMDB0036946	purple2	Lipids and lipid-like molecules
+HMDB0037379	dodgerblue1	Lipids and lipid-like molecules
+HMDB0038535	darkgreen	Lipids and lipid-like molecules
+HMDB0039693	chocolate	Lipids and lipid-like molecules
+HMDB0039694	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040671	skyblue	Lipids and lipid-like molecules
+HMDB0041879	darkgreen	Lipids and lipid-like molecules
+HMDB0060818	whitesmoke	Lipids and lipid-like molecules
+HMDB0034102	lightgreen	Lipids and lipid-like molecules
+C11131	dodgerblue1	Lipids and lipid-like molecules
+C17544	dodgerblue1	Lipids and lipid-like molecules
+HMDB0002579	steelblue	Lipids and lipid-like molecules
+HMDB0004482	firebrick4	Lipids and lipid-like molecules
+HMDB0029312	dodgerblue1	Lipids and lipid-like molecules
+HMDB0029321	green2	Lipids and lipid-like molecules
+HMDB0029769	dodgerblue1	Lipids and lipid-like molecules
+HMDB0030321	pink3	Lipids and lipid-like molecules
+HMDB0030535	dodgerblue1	Lipids and lipid-like molecules
+HMDB0030902	firebrick4	Lipids and lipid-like molecules
+HMDB0031364	mediumpurple1	Lipids and lipid-like molecules
+HMDB0031838	magenta2	Lipids and lipid-like molecules
+HMDB0031881	navajowhite2	Lipids and lipid-like molecules
+HMDB0032002	lavenderblush3	Lipids and lipid-like molecules
+HMDB0032692	darkolivegreen	Lipids and lipid-like molecules
+HMDB0033401	deepskyblue3	Lipids and lipid-like molecules
+HMDB0034063	lightblue3	Lipids and lipid-like molecules
+HMDB0034083	darkolivegreen	Lipids and lipid-like molecules
+HMDB0034091	green3	Lipids and lipid-like molecules
+HMDB0034194	honeydew	Lipids and lipid-like molecules
+HMDB0034202	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034309	mediumpurple1	Lipids and lipid-like molecules
+HMDB0034327	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034337	cyan	Lipids and lipid-like molecules
+HMDB0034357	firebrick3	Lipids and lipid-like molecules
+HMDB0034375	skyblue4	Lipids and lipid-like molecules
+HMDB0034595	darkseagreen3	Lipids and lipid-like molecules
+HMDB0034599	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034601	dodgerblue1	Lipids and lipid-like molecules
+HMDB0034603	lightslateblue	Lipids and lipid-like molecules
+HMDB0035169	skyblue	Lipids and lipid-like molecules
+HMDB0035344	skyblue4	Lipids and lipid-like molecules
+HMDB0035346	darkgreen	Lipids and lipid-like molecules
+HMDB0035424	floralwhite	Lipids and lipid-like molecules
+HMDB0035433	coral1	Lipids and lipid-like molecules
+HMDB0035507	chocolate4	Lipids and lipid-like molecules
+HMDB0035697	green4	Lipids and lipid-like molecules
+HMDB0035727	yellow3	Lipids and lipid-like molecules
+HMDB0035892	whitesmoke	Lipids and lipid-like molecules
+HMDB0035905	dodgerblue1	Lipids and lipid-like molecules
+HMDB0035981	whitesmoke	Lipids and lipid-like molecules
+HMDB0035982	floralwhite	Lipids and lipid-like molecules
+HMDB0036297	dodgerblue1	Lipids and lipid-like molecules
+HMDB0036338	orange3	Lipids and lipid-like molecules
+HMDB0036484	mediumorchid2	Lipids and lipid-like molecules
+HMDB0036567	darkorange2	Lipids and lipid-like molecules
+HMDB0037123	whitesmoke	Lipids and lipid-like molecules
+HMDB0038345	lightpink3	Lipids and lipid-like molecules
+HMDB0038348	lightskyblue3	Lipids and lipid-like molecules
+HMDB0038349	lightpink2	Lipids and lipid-like molecules
+HMDB0038350	brown3	Lipids and lipid-like molecules
+HMDB0038383	black	Lipids and lipid-like molecules
+HMDB0039003	magenta1	Lipids and lipid-like molecules
+HMDB0039007	purple	Lipids and lipid-like molecules
+HMDB0039051	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039054	dodgerblue1	Lipids and lipid-like molecules
+HMDB0039353	deepskyblue3	Lipids and lipid-like molecules
+HMDB0039514	darkorange2	Lipids and lipid-like molecules
+HMDB0039645	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040399	darkgreen	Lipids and lipid-like molecules
+HMDB0040401	honeydew1	Lipids and lipid-like molecules
+HMDB0040665	dodgerblue1	Lipids and lipid-like molecules
+HMDB0040950	firebrick4	Lipids and lipid-like molecules
+HMDB0041331	bisque1	Lipids and lipid-like molecules
+HMDB0041342	magenta2	Lipids and lipid-like molecules
+HMDB0041343	magenta2	Lipids and lipid-like molecules
+HMDB0041344	darkgreen	Lipids and lipid-like molecules
+HMDB0041528	purple	Lipids and lipid-like molecules
+HMDB0029767	greenyellow	Lipids and lipid-like molecules
+HMDB0033887	green4	Lipids and lipid-like molecules
+HMDB0034553	chartreuse2	Lipids and lipid-like molecules
+C04555	salmon	Lipids and lipid-like molecules
+HMDB0002504	navajowhite2	Lipids and lipid-like molecules
+HMDB0060584	steelblue	Lipids and lipid-like molecules
+HMDB0060848	pink1	Lipids and lipid-like molecules
+HMDB0062544	salmon	Lipids and lipid-like molecules
+HMDB0062611	pink3	Lipids and lipid-like molecules
+HMDB0094682	lavenderblush	Lipids and lipid-like molecules
+C16762	magenta2	Others
+C16886	skyblue3	Others
+C16887	black	Others
+C20001	dodgerblue1	Others
+C20003	salmon	Others
+C20004	palevioletred1	Others
+C20007	firebrick4	Others
+C01945	darkgreen	Others
+C16871	darkseagreen3	Others
+C16839	chocolate3	Others
+C16857	firebrick4	Others
+C20015	chocolate4	Others
+C20024	green	Others
+C11692	mediumpurple4	Others
+C20026	mistyrose	Others
+C20021	dodgerblue1	Others
+C20018	lightsteelblue1	Others
+C20019	tan1	Others
+C15226	green4	Others
+HMDB0001312	dodgerblue1	Nucleosides, nucleotides, and analogues
+HMDB0001501	royalblue4	Nucleosides, nucleotides, and analogues
+C04392	lightslateblue	Nucleosides, nucleotides, and analogues
+C06198	magenta2	Nucleosides, nucleotides, and analogues
+C20190	orange4	Nucleosides, nucleotides, and analogues
+HMDB0001380	greenyellow	Nucleosides, nucleotides, and analogues
+HMDB0001472	black	Nucleosides, nucleotides, and analogues
+C00170	salmon	Nucleosides, nucleotides, and analogues
+C01137	mistyrose	Nucleosides, nucleotides, and analogues
+HMDB0001185	aliceblue	Nucleosides, nucleotides, and analogues
+C12739	firebrick1	Nucleosides, nucleotides, and analogues
+C00016	snow	Nucleosides, nucleotides, and analogues
+C03838	whitesmoke	Nucleosides, nucleotides, and analogues
+HMDB0041934	green	Nucleosides, nucleotides, and analogues
+C05131	white	Nucleosides, nucleotides, and analogues
+C02067	whitesmoke	Nucleosides, nucleotides, and analogues
+C01762	plum2	Nucleosides, nucleotides, and analogues
+HMDB0000912	darkred	Nucleosides, nucleotides, and analogues
+HMDB0001563	black	Nucleosides, nucleotides, and analogues
+HMDB0005862	tan1	Nucleosides, nucleotides, and analogues
+HMDB0029956	darkseagreen4	Nucleosides, nucleotides, and analogues
+HMDB0032880	purple2	Nucleosides, nucleotides, and analogues
+HMDB0060792	mistyrose2	Nucleosides, nucleotides, and analogues
+C00360	springgreen3	Nucleosides, nucleotides, and analogues
+C00361	whitesmoke	Nucleosides, nucleotides, and analogues
+C00362	mistyrose4	Nucleosides, nucleotides, and analogues
+C06196	dodgerblue1	Nucleosides, nucleotides, and analogues
+HMDB0011670	sienna2	Nucleosides, nucleotides, and analogues
+C00498	sienna2	Nucleosides, nucleotides, and analogues
+HMDB0039421	mistyrose2	Nucleosides, nucleotides, and analogues
+C00224	darkgreen	Nucleosides, nucleotides, and analogues
+C00655	magenta2	Nucleosides, nucleotides, and analogues
+C00700	mistyrose2	Nucleosides, nucleotides, and analogues
+C04494	indianred4	Nucleosides, nucleotides, and analogues
+C05696	antiquewhite1	Nucleosides, nucleotides, and analogues
+C05983	plum2	Nucleosides, nucleotides, and analogues
+C16616	sienna2	Nucleosides, nucleotides, and analogues
+HMDB0004220	darkseagreen4	Nucleosides, nucleotides, and analogues
+HMDB0060875	tan4	Nucleosides, nucleotides, and analogues
+HMDB0000481	darkturquoise	Nucleosides, nucleotides, and analogues
+C00299	firebrick1	Nucleosides, nucleotides, and analogues
+C02961	mistyrose	Nucleosides, nucleotides, and analogues
+C16633	magenta2	Nucleosides, nucleotides, and analogues
+HMDB0000982	mistyrose	Nucleosides, nucleotides, and analogues
+HMDB0004813	brown4	Nucleosides, nucleotides, and analogues
+HMDB0005923	darkmagenta	Nucleosides, nucleotides, and analogues
+HMDB0060751	lightgreen	Nucleosides, nucleotides, and analogues
+C00214	white	Nucleosides, nucleotides, and analogues
+C00526	rosybrown4	Nucleosides, nucleotides, and analogues
+C00881	royalblue	Nucleosides, nucleotides, and analogues
+HMDB0014394	deeppink1	Nucleosides, nucleotides, and analogues
+HMDB0014576	darkviolet	Nucleosides, nucleotides, and analogues
+HMDB0042036	darkviolet	Nucleosides, nucleotides, and analogues
+HMDB0060774	lightskyblue4	Nucleosides, nucleotides, and analogues
+C00239	indianred3	Nucleosides, nucleotides, and analogues
+C00364	whitesmoke	Nucleosides, nucleotides, and analogues
+C00460	bisque	Nucleosides, nucleotides, and analogues
+C01346	whitesmoke	Nucleosides, nucleotides, and analogues
+C00128	indianred2	Nucleosides, nucleotides, and analogues
+HMDB0011720	mistyrose2	Nucleosides, nucleotides, and analogues
+HMDB0012222	white	Nucleosides, nucleotides, and analogues
+C00055	sienna2	Nucleosides, nucleotides, and analogues
+C00105	whitesmoke	Nucleosides, nucleotides, and analogues
+C00307	ivory	Nucleosides, nucleotides, and analogues
+C00570	darkorchid1	Nucleosides, nucleotides, and analogues
+C16634	whitesmoke	Nucleosides, nucleotides, and analogues
+HMDB0012206	royalblue4	Nucleosides, nucleotides, and analogues
+HMDB0011596	lightpink4	Nucleosides, nucleotides, and analogues
+C01367	sienna2	Nucleosides, nucleotides, and analogues
+C00127	darkseagreen1	Unclassified
+C00180	antiquewhite3	Unclassified
+C00220	antiquewhite3	Unclassified
+C00225	dodgerblue1	Unclassified
+C00303	lightpink	Unclassified
+C00494	royalblue	Unclassified
+C00528	lightcyan1	Unclassified
+C00545	royalblue2	Unclassified
+C00556	lavender	Unclassified
+C00563	navajowhite3	Unclassified
+C00593	plum2	Unclassified
+C00711	antiquewhite3	Unclassified
+C00732	paleturquoise	Unclassified
+C00825	mistyrose	Unclassified
+C00908	dodgerblue1	Unclassified
+C00915	olivedrab2	Unclassified
+C00939	ivory	Unclassified
+C00982	cyan	Unclassified
+C01007	olivedrab4	Unclassified
+C01023	skyblue4	Unclassified
+C01077	mistyrose2	Unclassified
+C01100	goldenrod3	Unclassified
+C01109	blue1	Unclassified
+C01266	lavenderblush2	Unclassified
+C01285	whitesmoke	Unclassified
+C01302	coral1	Unclassified
+C01313	khaki2	Unclassified
+C01315	lightpink4	Unclassified
+C01316	coral2	Unclassified
+C01341	moccasin	Unclassified
+C01348	greenyellow	Unclassified
+C01359	steelblue	Unclassified
+C01445	whitesmoke	Unclassified
+C01449	lightblue4	Unclassified
+C01505	mediumpurple1	Unclassified
+C01550	dodgerblue1	Unclassified
+C01552	palevioletred1	Unclassified
+C01555	cornflowerblue	Unclassified
+C01564	mistyrose2	Unclassified
+C01567	dodgerblue1	Unclassified
+C01582	cornflowerblue	Unclassified
+C01593	dodgerblue1	Unclassified
+C01596	darkseagreen1	Unclassified
+C01616	darkred	Unclassified
+C01621	royalblue	Unclassified
+C01670	red4	Unclassified
+C01677	seashell4	Unclassified
+C01682	mistyrose	Unclassified
+C01700	lightblue3	Unclassified
+C01727	whitesmoke	Unclassified
+C01740	whitesmoke	Unclassified
+C01746	mistyrose2	Unclassified
+C01747	paleturquoise	Unclassified
+C01782	slateblue3	Unclassified
+C01833	aquamarine	Unclassified
+C01861	whitesmoke	Unclassified
+C01925	forestgreen	Unclassified
+C01964	lightpink	Unclassified
+C02010	lightpink4	Unclassified
+C02081	lightblue1	Unclassified
+C02084	green	Unclassified
+C02130	dodgerblue1	Unclassified
+C02138	brown2	Unclassified
+C02195	dodgerblue1	Unclassified
+C02202	mistyrose2	Unclassified
+C02203	sienna4	Unclassified
+C02267	tan3	Unclassified
+C02328	snow	Unclassified
+C02334	dodgerblue1	Unclassified
+C02366	slateblue3	Unclassified
+C02400	mediumorchid2	Unclassified
+C02431	whitesmoke	Unclassified
+C02463	navajowhite3	Unclassified
+C02487	dodgerblue1	Unclassified
+C02590	paleturquoise	Unclassified
+C02691	royalblue3	Unclassified
+C02725	chocolate	Unclassified
+C02734	grey60	Unclassified
+C02750	whitesmoke	Unclassified
+C02755	darkseagreen2	Unclassified
+C02796	blanchedalmond	Unclassified
+C02798	dodgerblue1	Unclassified
+C02802	darkviolet	Unclassified
+C02828	dodgerblue1	Unclassified
+C02852	lightskyblue4	Unclassified
+C02886	mistyrose	Unclassified
+C02899	dodgerblue1	Unclassified
+C02957	brown2	Unclassified
+C03001	lightcyan1	Unclassified
+C03010	dodgerblue1	Unclassified
+C03076	orangered1	Unclassified
+C03112	indianred1	Unclassified
+C03149	rosybrown4	Unclassified
+C03154	darkorange	Unclassified
+C03183	seashell1	Unclassified
+C03230	green	Unclassified
+C03246	antiquewhite2	Unclassified
+C03274	cornflowerblue	Unclassified
+C03281	whitesmoke	Unclassified
+C03326	dodgerblue1	Unclassified
+C03347	indianred4	Unclassified
+C03387	darkgoldenrod1	Unclassified
+C03411	snow	Unclassified
+C03431	whitesmoke	Unclassified
+C03495	seashell4	Unclassified
+C03516	tan4	Unclassified
+C03651	dodgerblue1	Unclassified
+C03712	lightsteelblue1	Unclassified
+C03725	whitesmoke	Unclassified
+C03733	darkorchid1	Unclassified
+C03755	dodgerblue1	Unclassified
+C03822	darkmagenta	Unclassified
+C03860	darkseagreen3	Unclassified
+C03885	orangered1	Unclassified
+C03887	chartreuse3	Unclassified
+C03925	whitesmoke	Unclassified
+C03943	blue1	Unclassified
+C03987	dodgerblue4	Unclassified
+C03996	tan3	Unclassified
+C04020	lightgoldenrod2	Unclassified
+C04078	lightcyan1	Unclassified
+C04137	pink1	Unclassified
+C04178	dodgerblue1	Unclassified
+C04197	mediumorchid	Unclassified
+C04204	darkseagreen	Unclassified
+C04259	dodgerblue1	Unclassified
+C04277	violetred2	Unclassified
+C04285	lightblue	Unclassified
+C04286	darkred	Unclassified
+C04303	whitesmoke	Unclassified
+C04318	dodgerblue1	Unclassified
+C04421	antiquewhite4	Unclassified
+C04425	honeydew1	Unclassified
+C04428	white	Unclassified
+C04445	magenta2	Unclassified
+C04452	royalblue	Unclassified
+C04454	brown4	Unclassified
+C04536	darksalmon	Unclassified
+C04572	whitesmoke	Unclassified
+C04580	green	Unclassified
+C04611	whitesmoke	Unclassified
+C04639	mistyrose4	Unclassified
+C04660	greenyellow	Unclassified
+C04691	darkmagenta	Unclassified
+C04702	orange4	Unclassified
+C04752	lightskyblue4	Unclassified
+C04804	whitesmoke	Unclassified
+C04811	green2	Unclassified
+C04832	indianred4	Unclassified
+C04875	dodgerblue1	Unclassified
+C04876	dodgerblue1	Unclassified
+C04923	thistle	Unclassified
+C04931	indianred	Unclassified
+C05073	whitesmoke	Unclassified
+C05324	rosybrown2	Unclassified
+C05328	dodgerblue1	Unclassified
+C05346	mistyrose2	Unclassified
+C05370	darkseagreen3	Unclassified
+C05516	dodgerblue4	Unclassified
+C05556	rosybrown2	Unclassified
+C05571	indianred2	Unclassified
+C05589	lightgreen	Unclassified
+C05646	moccasin	Unclassified
+C05648	skyblue3	Unclassified
+C05680	burlywood1	Unclassified
+C05705	whitesmoke	Unclassified
+C05730	dodgerblue1	Unclassified
+C05765	limegreen	Unclassified
+C05778	floralwhite	Unclassified
+C05793	magenta2	Unclassified
+C05794	orange1	Unclassified
+C05810	dodgerblue1	Unclassified
+C05856	dodgerblue1	Unclassified
+C05929	navajowhite2	Unclassified
+C05931	lightskyblue	Unclassified
+C05941	lavender	Unclassified
+C06189	lightcyan1	Unclassified
+C06193	mistyrose4	Unclassified
+C06217	peru	Unclassified
+C06218	coral1	Unclassified
+C06228	dodgerblue1	Unclassified
+C06229	paleturquoise	Unclassified
+C06231	mistyrose	Unclassified
+C06319	lightslateblue	Unclassified
+C06335	antiquewhite1	Unclassified
+C06342	orangered4	Unclassified
+C06344	mistyrose2	Unclassified
+C06381	dodgerblue4	Unclassified
+C06433	lightsteelblue1	Unclassified
+C06436	whitesmoke	Unclassified
+C06446	cornsilk2	Unclassified
+C06492	dodgerblue1	Unclassified
+C06494	darkred	Unclassified
+C06496	dodgerblue1	Unclassified
+C06497	magenta2	Unclassified
+C06515	honeydew1	Unclassified
+C06565	dodgerblue3	Unclassified
+C06585	lightsteelblue	Unclassified
+C06640	lightblue2	Unclassified
+C06643	green	Unclassified
+C06644	dodgerblue1	Unclassified
+C06645	tomato	Unclassified
+C06650	maroon	Unclassified
+C06655	dodgerblue1	Unclassified
+C06659	lavenderblush1	Unclassified
+C06667	dodgerblue1	Unclassified
+C06668	sienna4	Unclassified
+C06676	darkturquoise	Unclassified
+C06696	darkorange	Unclassified
+C06718	mediumpurple1	Unclassified
+C06769	palevioletred	Unclassified
+C06785	plum2	Unclassified
+C06830	navajowhite2	Unclassified
+C06853	darkcyan	Unclassified
+C06870	mistyrose	Unclassified
+C06888	whitesmoke	Unclassified
+C06917	mediumorchid	Unclassified
+C06944	cyan4	Unclassified
+C07006	royalblue2	Unclassified
+C07016	pink3	Unclassified
+C07024	whitesmoke	Unclassified
+C07031	navajowhite3	Unclassified
+C07032	dodgerblue1	Unclassified
+C07088	indianred1	Unclassified
+C07165	lightslateblue	Unclassified
+C07222	navajowhite3	Unclassified
+C07235	purple	Unclassified
+C07351	whitesmoke	Unclassified
+C07389	green	Unclassified
+C07423	dodgerblue1	Unclassified
+C07448	whitesmoke	Unclassified
+C07465	burlywood4	Unclassified
+C07466	skyblue	Unclassified
+C07509	limegreen	Unclassified
+C07540	dodgerblue1	Unclassified
+C07577	rosybrown2	Unclassified
+C07596	chocolate4	Unclassified
+C07636	paleturquoise	Unclassified
+C07638	mediumpurple2	Unclassified
+C07642	whitesmoke	Unclassified
+C07655	lightsteelblue1	Unclassified
+C07657	seashell1	Unclassified
+C07701	whitesmoke	Unclassified
+C07707	violetred2	Unclassified
+C07709	dodgerblue1	Unclassified
+C07734	whitesmoke	Unclassified
+C07740	dodgerblue1	Unclassified
+C07756	honeydew	Unclassified
+C07770	orange4	Unclassified
+C07784	chocolate4	Unclassified
+C07841	thistle4	Unclassified
+C07843	lightblue2	Unclassified
+C07853	mediumaquamarine	Unclassified
+C07862	chartreuse4	Unclassified
+C07865	mediumpurple2	Unclassified
+C07871	green2	Unclassified
+C07952	orangered4	Unclassified
+C07955	pink3	Unclassified
+C07956	burlywood	Unclassified
+C07966	mediumorchid3	Unclassified
+C07982	violetred	Unclassified
+C07997	olivedrab2	Unclassified
+C08033	mistyrose2	Unclassified
+C08038	deeppink1	Unclassified
+C08054	black	Unclassified
+C08059	magenta2	Unclassified
+C08074	salmon4	Unclassified
+C08089	lightblue2	Unclassified
+C08129	whitesmoke	Unclassified
+C08161	antiquewhite2	Unclassified
+C08175	lightblue2	Unclassified
+C08178	chocolate3	Unclassified
+C08184	antiquewhite4	Unclassified
+C08185	chocolate2	Unclassified
+C08193	maroon	Unclassified
+C08212	antiquewhite2	Unclassified
+C08217	darkorange	Unclassified
+C08248	hotpink4	Unclassified
+C08249	greenyellow	Unclassified
+C08294	indianred4	Unclassified
+C08341	white	Unclassified
+C08372	whitesmoke	Unclassified
+C08430	lightyellow	Unclassified
+C08432	darkturquoise	Unclassified
+C08437	sienna4	Unclassified
+C08440	lightpink4	Unclassified
+C08442	cyan	Unclassified
+C08474	whitesmoke	Unclassified
+C08483	whitesmoke	Unclassified
+C08504	royalblue	Unclassified
+C08686	chocolate1	Unclassified
+C08734	ivory	Unclassified
+C08979	lightyellow	Unclassified
+C09007	hotpink3	Unclassified
+C09038	honeydew1	Unclassified
+C09050	dodgerblue1	Unclassified
+C09052	maroon	Unclassified
+C09100	darkseagreen3	Unclassified
+C09106	cornflowerblue	Unclassified
+C09130	magenta2	Unclassified
+C09193	darkseagreen	Unclassified
+C09195	thistle	Unclassified
+C09200	dodgerblue1	Unclassified
+C09208	mediumorchid4	Unclassified
+C09221	whitesmoke	Unclassified
+C09247	whitesmoke	Unclassified
+C09249	turquoise4	Unclassified
+C09252	dodgerblue1	Unclassified
+C09329	black	Unclassified
+C09418	floralwhite	Unclassified
+C09565	dodgerblue1	Unclassified
+C09634	darkolivegreen	Unclassified
+C09669	deepskyblue	Unclassified
+C09716	paleturquoise	Unclassified
+C09746	skyblue4	Unclassified
+C09851	dodgerblue1	Unclassified
+C09940	aquamarine1	Unclassified
+C09941	magenta2	Unclassified
+C09946	rosybrown2	Unclassified
+C09948	mistyrose2	Unclassified
+C09968	dodgerblue1	Unclassified
+C09984	royalblue	Unclassified
+C09985	antiquewhite1	Unclassified
+C09992	mistyrose2	Unclassified
+C09995	magenta2	Unclassified
+C09996	darkmagenta	Unclassified
+C09997	dodgerblue1	Unclassified
+C10001	darkgreen	Unclassified
+C10004	dodgerblue1	Unclassified
+C10006	dodgerblue1	Unclassified
+C10007	magenta2	Unclassified
+C10008	dodgerblue1	Unclassified
+C10014	lightpink2	Unclassified
+C10015	dodgerblue1	Unclassified
+C10085	brown2	Unclassified
+C10133	honeydew1	Unclassified
+C10318	purple	Unclassified
+C10352	whitesmoke	Unclassified
+C10355	coral1	Unclassified
+C10386	chartreuse4	Unclassified
+C10458	lightblue1	Unclassified
+C10481	lavenderblush2	Unclassified
+C10564	lavenderblush3	Unclassified
+C10565	mistyrose	Unclassified
+C10582	dodgerblue1	Unclassified
+C10603	bisque	Unclassified
+C10605	snow	Unclassified
+C10623	rosybrown2	Unclassified
+C10715	lavenderblush	Unclassified
+C10855	slateblue4	Unclassified
+C10895	lightblue2	Unclassified
+C10913	navajowhite2	Unclassified
+C10917	purple	Unclassified
+C10918	dodgerblue1	Unclassified
+C10922	whitesmoke	Unclassified
+C10926	lightgreen	Unclassified
+C10927	plum2	Unclassified
+C10929	dodgerblue1	Unclassified
+C10932	mediumpurple4	Unclassified
+C10937	whitesmoke	Unclassified
+C10939	tan3	Unclassified
+C10942	mediumorchid1	Unclassified
+C10948	purple	Unclassified
+C10950	antiquewhite3	Unclassified
+C10955	lightpink4	Unclassified
+C10956	whitesmoke	Unclassified
+C10967	tan2	Unclassified
+C10977	rosybrown4	Unclassified
+C10982	indianred3	Unclassified
+C10986	darksalmon	Unclassified
+C10987	orange4	Unclassified
+C10992	slateblue3	Unclassified
+C10993	white	Unclassified
+C10994	deepskyblue4	Unclassified
+C10999	lightsteelblue	Unclassified
+C11007	slateblue3	Unclassified
+C11019	lightblue2	Unclassified
+C11023	brown2	Unclassified
+C11024	seashell4	Unclassified
+C11029	lightsteelblue1	Unclassified
+C11034	brown2	Unclassified
+C11054	whitesmoke	Unclassified
+C11055	purple	Unclassified
+C11064	mistyrose2	Unclassified
+C11068	whitesmoke	Unclassified
+C11074	dodgerblue1	Unclassified
+C11075	lavenderblush3	Unclassified
+C11082	mistyrose	Unclassified
+C11086	aliceblue	Unclassified
+C11091	cyan	Unclassified
+C11092	orange4	Unclassified
+C11100	rosybrown2	Unclassified
+C11112	whitesmoke	Unclassified
+C11118	green	Unclassified
+C11120	skyblue	Unclassified
+C11122	mistyrose2	Unclassified
+C11152	brown3	Unclassified
+C11159	mediumpurple4	Unclassified
+C11161	green	Unclassified
+C11163	whitesmoke	Unclassified
+C11166	whitesmoke	Unclassified
+C11178	mistyrose2	Unclassified
+C11189	antiquewhite4	Unclassified
+C11190	lightsteelblue1	Unclassified
+C11191	plum3	Unclassified
+C11201	tan3	Unclassified
+C11212	dodgerblue1	Unclassified
+C11223	royalblue	Unclassified
+C11229	peachpuff2	Unclassified
+C11236	palevioletred	Unclassified
+C11242	palevioletred1	Unclassified
+C11255	whitesmoke	Unclassified
+C11256	goldenrod4	Unclassified
+C11273	orange3	Unclassified
+C11282	deeppink1	Unclassified
+C11293	purple	Unclassified
+C11296	tomato4	Unclassified
+C11299	darkseagreen4	Unclassified
+C11302	olivedrab2	Unclassified
+C11308	dodgerblue1	Unclassified
+C11312	steelblue	Unclassified
+C11316	skyblue3	Unclassified
+C11319	whitesmoke	Unclassified
+C11329	dodgerblue1	Unclassified
+C11336	coral	Unclassified
+C11341	skyblue4	Unclassified
+C11342	tan2	Unclassified
+C11352	whitesmoke	Unclassified
+C11362	greenyellow	Unclassified
+C11365	mistyrose2	Unclassified
+C11375	dodgerblue1	Unclassified
+C11434	peru	Unclassified
+C11453	whitesmoke	Unclassified
+C11466	indianred2	Unclassified
+C11468	dodgerblue1	Unclassified
+C11500	aliceblue	Unclassified
+C11501	whitesmoke	Unclassified
+C11536	orangered1	Unclassified
+C11545	darkolivegreen	Unclassified
+C11561	dodgerblue1	Unclassified
+C11562	mediumorchid1	Unclassified
+C11564	whitesmoke	Unclassified
+C11568	tan3	Unclassified
+C11582	magenta1	Unclassified
+C11587	green2	Unclassified
+C11588	black	Unclassified
+C11593	lightsteelblue1	Unclassified
+C11595	skyblue3	Unclassified
+C11596	dodgerblue1	Unclassified
+C11597	lavenderblush2	Unclassified
+C11604	dodgerblue1	Unclassified
+C11607	tan4	Unclassified
+C11608	lightpink4	Unclassified
+C11609	greenyellow	Unclassified
+C11610	paleturquoise	Unclassified
+C11611	salmon	Unclassified
+C11622	steelblue	Unclassified
+C11625	whitesmoke	Unclassified
+C11654	whitesmoke	Unclassified
+C11665	black	Unclassified
+C11674	lightyellow	Unclassified
+C11685	whitesmoke	Unclassified
+C11709	salmon	Unclassified
+C11712	magenta2	Unclassified
+C11716	paleturquoise	Unclassified
+C11721	coral1	Unclassified
+C11726	whitesmoke	Unclassified
+C11734	darkgreen	Unclassified
+C11737	mistyrose2	Unclassified
+C11742	sienna4	Unclassified
+C11745	whitesmoke	Unclassified
+C11752	rosybrown2	Unclassified
+C11760	dodgerblue1	Unclassified
+C11761	darkseagreen4	Unclassified
+C11762	orange3	Unclassified
+C11767	whitesmoke	Unclassified
+C11769	royalblue	Unclassified
+C11771	peachpuff4	Unclassified
+C11773	indianred3	Unclassified
+C11774	violetred4	Unclassified
+C11775	lightyellow2	Unclassified
+C11790	firebrick4	Unclassified
+C11795	rosybrown2	Unclassified
+C11801	hotpink3	Unclassified
+C11815	mistyrose2	Unclassified
+C11829	skyblue	Unclassified
+C11831	lightsteelblue1	Unclassified
+C11953	firebrick3	Unclassified
+C11954	darkorange2	Unclassified
+C11955	skyblue	Unclassified
+C11956	honeydew1	Unclassified
+C11964	dodgerblue1	Unclassified
+C11965	dodgerblue1	Unclassified
+C11966	lightcoral	Unclassified
+C11969	green4	Unclassified
+C11970	rosybrown2	Unclassified
+C11972	rosybrown2	Unclassified
+C11974	aquamarine1	Unclassified
+C11978	dodgerblue1	Unclassified
+C11980	brown4	Unclassified
+C11981	lightcoral	Unclassified
+C11982	green	Unclassified
+C11998	lightblue3	Unclassified
+C12009	dodgerblue1	Unclassified
+C12018	firebrick1	Unclassified
+C12019	lightgreen	Unclassified
+C12037	orangered4	Unclassified
+C12038	mistyrose2	Unclassified
+C12047	whitesmoke	Unclassified
+C12051	whitesmoke	Unclassified
+C12052	salmon	Unclassified
+C12056	indianred	Unclassified
+C12065	dodgerblue1	Unclassified
+C12066	magenta2	Unclassified
+C12070	dodgerblue1	Unclassified
+C12073	lightsteelblue1	Unclassified
+C12091	antiquewhite3	Unclassified
+C12102	lightcoral	Unclassified
+C12109	blanchedalmond	Unclassified
+C12119	whitesmoke	Unclassified
+C12150	dodgerblue1	Unclassified
+C12169	peachpuff3	Unclassified
+C12171	mistyrose	Unclassified
+C12183	dodgerblue1	Unclassified
+C12184	thistle3	Unclassified
+C12189	darkmagenta	Unclassified
+C12197	lightcoral	Unclassified
+C12198	lavenderblush2	Unclassified
+C12200	mistyrose	Unclassified
+C12202	steelblue	Unclassified
+C12220	paleturquoise	Unclassified
+C12221	dodgerblue1	Unclassified
+C12223	tan3	Unclassified
+C12224	darkseagreen2	Unclassified
+C12225	lightsteelblue1	Unclassified
+C12230	dodgerblue1	Unclassified
+C12237	rosybrown2	Unclassified
+C12254	mistyrose	Unclassified
+C12255	brown4	Unclassified
+C12256	red1	Unclassified
+C12262	lightsteelblue1	Unclassified
+C12283	mediumpurple4	Unclassified
+C12310	cyan1	Unclassified
+C12311	darksalmon	Unclassified
+C12322	whitesmoke	Unclassified
+C12330	whitesmoke	Unclassified
+C12368	whitesmoke	Unclassified
+C12377	whitesmoke	Unclassified
+C12382	whitesmoke	Unclassified
+C12385	lightblue2	Unclassified
+C12387	darkseagreen3	Unclassified
+C12394	darkorange	Unclassified
+C12395	skyblue3	Unclassified
+C12399	whitesmoke	Unclassified
+C12404	dodgerblue1	Unclassified
+C12405	darksalmon	Unclassified
+C12406	chocolate	Unclassified
+C12407	whitesmoke	Unclassified
+C12411	whitesmoke	Unclassified
+C12413	dodgerblue1	Unclassified
+C12414	peachpuff2	Unclassified
+C12427	darkseagreen2	Unclassified
+C12428	cornsilk2	Unclassified
+C12432	royalblue4	Unclassified
+C12437	mistyrose	Unclassified
+C12471	white	Unclassified
+C12472	skyblue3	Unclassified
+C12474	lightpink4	Unclassified
+C12479	dodgerblue1	Unclassified
+C12480	plum3	Unclassified
+C12539	dodgerblue1	Unclassified
+C12540	darkviolet	Unclassified
+C12590	thistle4	Unclassified
+C12675	mediumpurple1	Unclassified
+C12729	lightgreen	Unclassified
+C12786	dodgerblue1	Unclassified
+C12849	darkturquoise	Unclassified
+C12896	red4	Unclassified
+C12915	dodgerblue1	Unclassified
+C12935	whitesmoke	Unclassified
+C12946	dodgerblue1	Unclassified
+C12959	dodgerblue1	Unclassified
+C12961	dodgerblue1	Unclassified
+C12979	khaki	Unclassified
+C12986	olivedrab3	Unclassified
+C13016	firebrick3	Unclassified
+C13024	mistyrose4	Unclassified
+C13038	blue4	Unclassified
+C13048	whitesmoke	Unclassified
+C13050	dodgerblue1	Unclassified
+C13086	green4	Unclassified
+C13103	purple	Unclassified
+C13104	blue4	Unclassified
+C13106	darkseagreen4	Unclassified
+C13168	honeydew	Unclassified
+C13173	deeppink2	Unclassified
+C13179	darkmagenta	Unclassified
+C13229	whitesmoke	Unclassified
+C13299	darkgreen	Unclassified
+C13311	mistyrose	Unclassified
+C13326	burlywood4	Unclassified
+C13376	mistyrose2	Unclassified
+C13377	coral2	Unclassified
+C13383	deeppink1	Unclassified
+C13441	whitesmoke	Unclassified
+C13451	darkgreen	Unclassified
+C13494	darkorchid3	Unclassified
+C13556	whitesmoke	Unclassified
+C13558	whitesmoke	Unclassified
+C13563	whitesmoke	Unclassified
+C13622	salmon4	Unclassified
+C13667	black	Unclassified
+C13672	mistyrose	Unclassified
+C13673	darkred	Unclassified
+C13688	whitesmoke	Unclassified
+C13693	coral	Unclassified
+C13695	royalblue2	Unclassified
+C13700	lightsteelblue1	Unclassified
+C13707	darkseagreen3	Unclassified
+C13725	firebrick1	Unclassified
+C13727	mediumpurple1	Unclassified
+C13729	honeydew1	Unclassified
+C13733	mistyrose	Unclassified
+C13737	darkgoldenrod1	Unclassified
+C13752	mediumpurple2	Unclassified
+C13756	firebrick3	Unclassified
+C13759	dodgerblue1	Unclassified
+C13762	mediumorchid	Unclassified
+C13764	lavenderblush3	Unclassified
+C13771	brown2	Unclassified
+C13779	dodgerblue1	Unclassified
+C13780	rosybrown2	Unclassified
+C13786	maroon	Unclassified
+C13817	plum2	Unclassified
+C13824	lightpink4	Unclassified
+C13826	dodgerblue1	Unclassified
+C13849	palevioletred1	Unclassified
+C13851	lightsteelblue1	Unclassified
+C13931	cornflowerblue	Unclassified
+C13964	turquoise4	Unclassified
+C13974	deeppink1	Unclassified
+C14010	mediumpurple4	Unclassified
+C14015	dodgerblue1	Unclassified
+C14029	lightcyan1	Unclassified
+C14049	antiquewhite4	Unclassified
+C14056	darkred	Unclassified
+C14058	dodgerblue1	Unclassified
+C14059	whitesmoke	Unclassified
+C14060	dodgerblue1	Unclassified
+C14062	mediumpurple1	Unclassified
+C14086	deeppink2	Unclassified
+C14107	orangered	Unclassified
+C14112	whitesmoke	Unclassified
+C14123	darkorange	Unclassified
+C14125	mistyrose2	Unclassified
+C14127	dodgerblue1	Unclassified
+C14182	honeydew	Unclassified
+C14212	orangered2	Unclassified
+C14213	indianred4	Unclassified
+C14236	lightyellow	Unclassified
+C14278	whitesmoke	Unclassified
+C14304	mediumpurple2	Unclassified
+C14315	honeydew1	Unclassified
+C14333	navajowhite4	Unclassified
+C14338	lavenderblush1	Unclassified
+C14345	dodgerblue1	Unclassified
+C14350	salmon4	Unclassified
+C14359	darkred	Unclassified
+C14387	slateblue3	Unclassified
+C14397	burlywood1	Unclassified
+C14404	antiquewhite3	Unclassified
+C14432	navajowhite4	Unclassified
+C14438	green4	Unclassified
+C14439	mediumorchid	Unclassified
+C14443	maroon	Unclassified
+C14477	darkgoldenrod1	Unclassified
+C14499	greenyellow	Unclassified
+C14517	tomato4	Unclassified
+C14524	dodgerblue1	Unclassified
+C14525	dodgerblue1	Unclassified
+C14526	mistyrose	Unclassified
+C14611	navajowhite4	Unclassified
+C14619	skyblue3	Unclassified
+C14644	blue4	Unclassified
+C14645	antiquewhite4	Unclassified
+C14648	coral	Unclassified
+C14651	darkgreen	Unclassified
+C14660	dodgerblue1	Unclassified
+C14673	dodgerblue1	Unclassified
+C14674	tomato	Unclassified
+C14724	magenta2	Unclassified
+C14727	dodgerblue1	Unclassified
+C14756	darkorange2	Unclassified
+C14790	mistyrose2	Unclassified
+C14876	skyblue3	Unclassified
+C14922	darkseagreen2	Unclassified
+C14924	lightblue2	Unclassified
+C14926	aquamarine	Unclassified
+C14935	orange4	Unclassified
+C14959	dodgerblue1	Unclassified
+C14960	dodgerblue1	Unclassified
+C14967	whitesmoke	Unclassified
+C14968	magenta2	Unclassified
+C14979	dodgerblue1	Unclassified
+C14981	dodgerblue1	Unclassified
+C15006	moccasin	Unclassified
+C15010	lavenderblush2	Unclassified
+C15025	burlywood1	Unclassified
+C15028	mistyrose2	Unclassified
+C15037	whitesmoke	Unclassified
+C15038	whitesmoke	Unclassified
+C15050	brown2	Unclassified
+C15055	yellow3	Unclassified
+C15062	whitesmoke	Unclassified
+C15065	tomato	Unclassified
+C15067	rosybrown2	Unclassified
+C15073	aliceblue	Unclassified
+C15083	darkgoldenrod3	Unclassified
+C15084	navajowhite4	Unclassified
+C15089	tomato	Unclassified
+C15091	dodgerblue1	Unclassified
+C15098	mistyrose1	Unclassified
+C15134	dodgerblue1	Unclassified
+C15136	thistle	Unclassified
+C15143	lightcyan1	Unclassified
+C15152	olivedrab3	Unclassified
+C15163	cyan	Unclassified
+C15164	red1	Unclassified
+C15232	whitesmoke	Unclassified
+C15248	bisque	Unclassified
+C15267	royalblue	Unclassified
+C15270	whitesmoke	Unclassified
+C15271	dodgerblue1	Unclassified
+C15276	lightpink1	Unclassified
+C15299	cornflowerblue	Unclassified
+C15302	black	Unclassified
+C15305	lavenderblush2	Unclassified
+C15320	greenyellow	Unclassified
+C15323	lavenderblush	Unclassified
+C15327	lightyellow	Unclassified
+C15340	steelblue	Unclassified
+C15343	mistyrose2	Unclassified
+C15366	white	Unclassified
+C15369	lightsteelblue1	Unclassified
+C15371	honeydew1	Unclassified
+C15383	paleturquoise4	Unclassified
+C15387	indianred3	Unclassified
+C15393	whitesmoke	Unclassified
+C15396	dodgerblue1	Unclassified
+C15400	peachpuff4	Unclassified
+C15411	orangered1	Unclassified
+C15414	lightpink1	Unclassified
+C15424	lightyellow	Unclassified
+C15427	whitesmoke	Unclassified
+C15429	navajowhite2	Unclassified
+C15430	darkorchid2	Unclassified
+C15439	lavenderblush	Unclassified
+C15447	dodgerblue1	Unclassified
+C15458	lightpink3	Unclassified
+C15474	antiquewhite3	Unclassified
+C15485	plum4	Unclassified
+C15545	plum3	Unclassified
+C15549	mistyrose2	Unclassified
+C15620	magenta1	Unclassified
+C15626	lightcyan1	Unclassified
+C15649	green	Unclassified
+C15652	indianred	Unclassified
+C15657	dodgerblue1	Unclassified
+C15662	rosybrown4	Unclassified
+C15663	lightsteelblue	Unclassified
+C15665	mistyrose2	Unclassified
+C15668	burlywood1	Unclassified
+C15674	dodgerblue1	Unclassified
+C15675	tan3	Unclassified
+C15676	honeydew1	Unclassified
+C15677	mediumpurple2	Unclassified
+C15678	dodgerblue1	Unclassified
+C15680	mediumpurple1	Unclassified
+C15681	orange3	Unclassified
+C15682	magenta2	Unclassified
+C15685	dodgerblue1	Unclassified
+C15687	dodgerblue1	Unclassified
+C15698	darkgreen	Unclassified
+C15700	lightblue4	Unclassified
+C15701	orange1	Unclassified
+C15702	green	Unclassified
+C15703	mediumpurple2	Unclassified
+C15705	purple	Unclassified
+C15708	mistyrose2	Unclassified
+C15710	purple2	Unclassified
+C15712	red1	Unclassified
+C15714	honeydew1	Unclassified
+C15716	lightskyblue3	Unclassified
+C15719	skyblue	Unclassified
+C15722	seashell4	Unclassified
+C15723	bisque1	Unclassified
+C15724	dodgerblue1	Unclassified
+C15726	lightsteelblue1	Unclassified
+C15728	firebrick4	Unclassified
+C15729	green	Unclassified
+C15732	magenta2	Unclassified
+C15733	dodgerblue1	Unclassified
+C15735	antiquewhite4	Unclassified
+C15736	paleturquoise	Unclassified
+C15737	plum2	Unclassified
+C15738	dodgerblue1	Unclassified
+C15739	dodgerblue1	Unclassified
+C15743	lightyellow2	Unclassified
+C15744	firebrick4	Unclassified
+C15745	dodgerblue1	Unclassified
+C15746	dodgerblue1	Unclassified
+C15747	darkgreen	Unclassified
+C15748	purple	Unclassified
+C15749	coral	Unclassified
+C15750	dodgerblue1	Unclassified
+C15754	lightyellow4	Unclassified
+C15758	seashell1	Unclassified
+C15759	whitesmoke	Unclassified
+C15760	paleturquoise	Unclassified
+C15761	dodgerblue1	Unclassified
+C15844	lightblue3	Unclassified
+C15851	hotpink2	Unclassified
+C15930	darkolivegreen	Unclassified
+C15940	greenyellow	Unclassified
+C15986	mistyrose2	Unclassified
+C15997	whitesmoke	Unclassified
+C16070	ivory	Unclassified
+C16194	yellow3	Unclassified
+C16212	darkred	Unclassified
+C16235	brown4	Unclassified
+C16264	mistyrose	Unclassified
+C16285	lightcyan1	Unclassified
+C16391	thistle3	Unclassified
+C16403	salmon	Unclassified
+C16427	royalblue	Unclassified
+C16432	darkred	Unclassified
+C16447	aquamarine	Unclassified
+C16454	whitesmoke	Unclassified
+C16457	brown3	Unclassified
+C16475	darkgoldenrod3	Unclassified
+C16505	whitesmoke	Unclassified
+C16508	brown4	Unclassified
+C16518	whitesmoke	Unclassified
+C16562	dodgerblue1	Unclassified
+C16563	peachpuff4	Unclassified
+C16564	darkolivegreen	Unclassified
+C16566	black	Unclassified
+C16594	skyblue	Unclassified
+C16647	lightsteelblue1	Unclassified
+C16723	brown2	Unclassified
+C16725	antiquewhite4	Unclassified
+C16747	lightsalmon4	Unclassified
+C16749	mistyrose1	Unclassified
+C16771	cyan	Unclassified
+C16786	honeydew1	Unclassified
+C16791	mediumpurple1	Unclassified
+C16807	pink3	Unclassified
+C16808	lightsteelblue	Unclassified
+C16831	antiquewhite4	Unclassified
+C16842	whitesmoke	Unclassified
+C16847	lightblue3	Unclassified
+C16860	tomato2	Unclassified
+C16874	whitesmoke	Unclassified
+C16877	lightcoral	Unclassified
+C16881	magenta2	Unclassified
+C16893	greenyellow	Unclassified
+C16901	lightpink1	Unclassified
+C16902	purple	Unclassified
+C16903	dodgerblue1	Unclassified
+C16905	coral	Unclassified
+C16954	honeydew1	Unclassified
+C16956	lightpink1	Unclassified
+C16963	tan3	Unclassified
+C16965	mediumorchid	Unclassified
+C16985	dodgerblue1	Unclassified
+C17004	lightsteelblue1	Unclassified
+C17009	whitesmoke	Unclassified
+C17011	blanchedalmond	Unclassified
+C17017	whitesmoke	Unclassified
+C17038	slateblue4	Unclassified
+C17063	magenta2	Unclassified
+C17064	indianred3	Unclassified
+C17083	lightsteelblue1	Unclassified
+C17097	khaki3	Unclassified
+C17099	bisque	Unclassified
+C17100	dodgerblue1	Unclassified
+C17103	whitesmoke	Unclassified
+C17104	steelblue	Unclassified
+C17107	whitesmoke	Unclassified
+C17114	mediumorchid4	Unclassified
+C17159	lightsteelblue1	Unclassified
+C17162	dodgerblue1	Unclassified
+C17181	rosybrown4	Unclassified
+C17203	royalblue	Unclassified
+C17204	black	Unclassified
+C17212	olivedrab4	Unclassified
+C17215	hotpink4	Unclassified
+C17251	honeydew1	Unclassified
+C17267	lightsteelblue1	Unclassified
+C17309	honeydew1	Unclassified
+C17326	lightskyblue1	Unclassified
+C17350	lightblue2	Unclassified
+C17354	whitesmoke	Unclassified
+C17355	lavenderblush2	Unclassified
+C17356	green	Unclassified
+C17359	cornsilk2	Unclassified
+C17360	mistyrose	Unclassified
+C17364	dodgerblue1	Unclassified
+C17370	lightsteelblue1	Unclassified
+C17374	dodgerblue1	Unclassified
+C17376	dodgerblue1	Unclassified
+C17380	bisque4	Unclassified
+C17389	mediumpurple2	Unclassified
+C17395	mistyrose	Unclassified
+C17405	honeydew	Unclassified
+C17424	honeydew1	Unclassified
+C17428	purple	Unclassified
+C17430	lightpink4	Unclassified
+C17431	lightyellow4	Unclassified
+C17439	mistyrose2	Unclassified
+C17456	mistyrose	Unclassified
+C17476	slateblue4	Unclassified
+C17478	whitesmoke	Unclassified
+C17485	thistle	Unclassified
+C17519	plum2	Unclassified
+C17523	green	Unclassified
+C17528	darkseagreen4	Unclassified
+C17533	khaki3	Unclassified
+C17548	firebrick3	Unclassified
+C17553	darkblue	Unclassified
+C17565	darkseagreen2	Unclassified
+C17571	chocolate2	Unclassified
+C17573	brown3	Unclassified
+C17575	greenyellow	Unclassified
+C17582	brown2	Unclassified
+C17583	tan3	Unclassified
+C17589	dodgerblue1	Unclassified
+C17619	orange3	Unclassified
+C17680	magenta2	Unclassified
+C17683	lightpink4	Unclassified
+C17685	palevioletred1	Unclassified
+C17686	dodgerblue1	Unclassified
+C17700	bisque4	Unclassified
+C17702	tan1	Unclassified
+C17703	mediumpurple1	Unclassified
+C17708	darkorange	Unclassified
+C17712	deepskyblue	Unclassified
+C17722	orangered4	Unclassified
+C17729	honeydew1	Unclassified
+C17768	dodgerblue1	Unclassified
+C17769	darkgreen	Unclassified
+C17790	dodgerblue1	Unclassified
+C17804	darkseagreen3	Unclassified
+C17812	burlywood	Unclassified
+C17816	coral2	Unclassified
+C17832	darksalmon	Unclassified
+C17858	maroon	Unclassified
+C17860	hotpink2	Unclassified
+C17864	coral2	Unclassified
+C17866	dodgerblue1	Unclassified
+C17870	steelblue	Unclassified
+C17877	thistle	Unclassified
+C17882	dodgerblue1	Unclassified
+C17889	dodgerblue1	Unclassified
+C17902	yellow3	Unclassified
+C17908	dodgerblue1	Unclassified
+C17909	tomato2	Unclassified
+C17944	orangered4	Unclassified
+C17950	lightpink4	Unclassified
+C17961	dodgerblue1	Unclassified
+C17963	magenta2	Unclassified
+C17967	mediumorchid4	Unclassified
+C17975	dodgerblue1	Unclassified
+C17978	plum2	Unclassified
+C17986	seashell2	Unclassified
+C17991	tomato2	Unclassified
+C17993	whitesmoke	Unclassified
+C17995	skyblue	Unclassified
+C17999	cyan	Unclassified
+C18002	palevioletred1	Unclassified
+C18004	lightblue2	Unclassified
+C18005	chocolate	Unclassified
+C18010	indianred3	Unclassified
+C18021	orangered2	Unclassified
+C18073	sienna4	Unclassified
+C18093	lightgreen	Unclassified
+C18097	darkgreen	Unclassified
+C18103	grey60	Unclassified
+C18106	greenyellow	Unclassified
+C18110	dodgerblue3	Unclassified
+C18113	thistle4	Unclassified
+C18122	greenyellow	Unclassified
+C18123	aquamarine1	Unclassified
+C18124	darkgreen	Unclassified
+C18127	darkorange	Unclassified
+C18128	mistyrose	Unclassified
+C18136	dodgerblue1	Unclassified
+C18148	dodgerblue1	Unclassified
+C18152	orange3	Unclassified
+C18155	dodgerblue1	Unclassified
+C18216	navajowhite4	Unclassified
+C18236	whitesmoke	Unclassified
+C18238	salmon4	Unclassified
+C18240	magenta2	Unclassified
+C18252	magenta2	Unclassified
+C18269	whitesmoke	Unclassified
+C18274	ivory	Unclassified
+C18280	whitesmoke	Unclassified
+C18286	orangered1	Unclassified
+C18295	whitesmoke	Unclassified
+C18302	orangered1	Unclassified
+C18318	lightblue2	Unclassified
+C18339	green	Unclassified
+C18341	lightskyblue4	Unclassified
+C18342	grey60	Unclassified
+C18361	paleturquoise	Unclassified
+C18362	mediumorchid	Unclassified
+C18363	whitesmoke	Unclassified
+C18365	orangered2	Unclassified
+C18372	brown2	Unclassified
+C18374	whitesmoke	Unclassified
+C18378	brown4	Unclassified
+C18379	navajowhite3	Unclassified
+C18382	orangered	Unclassified
+C18386	mistyrose2	Unclassified
+C18389	whitesmoke	Unclassified
+C18390	magenta2	Unclassified
+C18398	salmon	Unclassified
+C18402	grey60	Unclassified
+C18404	paleturquoise4	Unclassified
+C18406	darkmagenta	Unclassified
+C18408	black	Unclassified
+C18409	sienna2	Unclassified
+C18411	dodgerblue1	Unclassified
+C18412	greenyellow	Unclassified
+C18415	lightpink3	Unclassified
+C18421	brown4	Unclassified
+C18428	yellow3	Unclassified
+C18431	goldenrod1	Unclassified
+C18432	lightyellow	Unclassified
+C18433	lemonchiffon4	Unclassified
+C18439	lightpink4	Unclassified
+C18450	lightskyblue4	Unclassified
+C18452	whitesmoke	Unclassified
+C18455	orangered	Unclassified
+C18458	yellow3	Unclassified
+C18459	dodgerblue1	Unclassified
+C18470	whitesmoke	Unclassified
+C18476	cyan1	Unclassified
+C18478	whitesmoke	Unclassified
+C18479	indianred	Unclassified
+C18485	whitesmoke	Unclassified
+C18495	honeydew1	Unclassified
+C18505	whitesmoke	Unclassified
+C18508	orangered4	Unclassified
+C18516	olivedrab3	Unclassified
+C18517	deepskyblue	Unclassified
+C18522	brown2	Unclassified
+C18526	goldenrod4	Unclassified
+C18539	dodgerblue1	Unclassified
+C18545	dodgerblue1	Unclassified
+C18546	whitesmoke	Unclassified
+C18547	magenta1	Unclassified
+C18557	dodgerblue1	Unclassified
+C18560	aquamarine	Unclassified
+C18563	green	Unclassified
+C18568	maroon	Unclassified
+C18571	lightpink2	Unclassified
+C18572	lightpink4	Unclassified
+C18578	lightcoral	Unclassified
+C18583	thistle	Unclassified
+C18589	tan2	Unclassified
+C18590	dodgerblue	Unclassified
+C18592	green	Unclassified
+C18595	khaki	Unclassified
+C18601	burlywood1	Unclassified
+C18602	dodgerblue1	Unclassified
+C18604	green	Unclassified
+C18609	ivory	Unclassified
+C18610	whitesmoke	Unclassified
+C18621	blanchedalmond	Unclassified
+C18633	steelblue	Unclassified
+C18642	thistle	Unclassified
+C18644	whitesmoke	Unclassified
+C18646	lightcyan1	Unclassified
+C18654	skyblue	Unclassified
+C18656	lightsteelblue1	Unclassified
+C18657	whitesmoke	Unclassified
+C18662	antiquewhite3	Unclassified
+C18680	darkmagenta	Unclassified
+C18683	whitesmoke	Unclassified
+C18684	dodgerblue1	Unclassified
+C18685	paleturquoise	Unclassified
+C18691	whitesmoke	Unclassified
+C18693	turquoise4	Unclassified
+C18696	dodgerblue1	Unclassified
+C18697	tomato2	Unclassified
+C18698	burlywood	Unclassified
+C18704	tomato2	Unclassified
+C18715	thistle	Unclassified
+C18717	darkseagreen3	Unclassified
+C18720	darkred	Unclassified
+C18736	white	Unclassified
+C18740	lightyellow	Unclassified
+C18741	whitesmoke	Unclassified
+C18743	whitesmoke	Unclassified
+C18745	darkgoldenrod3	Unclassified
+C18751	whitesmoke	Unclassified
+C18762	whitesmoke	Unclassified
+C18767	whitesmoke	Unclassified
+C18772	green2	Unclassified
+C18791	deeppink1	Unclassified
+C18799	mistyrose2	Unclassified
+C18801	dodgerblue1	Unclassified
+C18822	dodgerblue1	Unclassified
+C18823	royalblue3	Unclassified
+C18824	plum2	Unclassified
+C18831	magenta2	Unclassified
+C18832	whitesmoke	Unclassified
+C18839	tomato4	Unclassified
+C18846	dodgerblue1	Unclassified
+C18847	firebrick3	Unclassified
+C18861	darksalmon	Unclassified
+C18864	bisque4	Unclassified
+C18865	lemonchiffon4	Unclassified
+C18868	magenta2	Unclassified
+C18879	lightpink	Unclassified
+C18889	whitesmoke	Unclassified
+C18899	mistyrose2	Unclassified
+C18916	blue1	Unclassified
+C18927	sienna4	Unclassified
+C18933	whitesmoke	Unclassified
+C18934	whitesmoke	Unclassified
+C18943	royalblue3	Unclassified
+C18948	maroon	Unclassified
+C18951	green	Unclassified
+C18958	tan4	Unclassified
+C18960	grey60	Unclassified
+C18961	chocolate4	Unclassified
+C18965	lightsteelblue	Unclassified
+C18968	khaki2	Unclassified
+C18986	orange4	Unclassified
+C19002	dodgerblue1	Unclassified
+C19011	dodgerblue3	Unclassified
+C19013	white	Unclassified
+C19016	slateblue3	Unclassified
+C19032	whitesmoke	Unclassified
+C19036	darkseagreen2	Unclassified
+C19037	orangered	Unclassified
+C19049	mediumpurple4	Unclassified
+C19050	bisque4	Unclassified
+C19062	lightblue2	Unclassified
+C19065	plum4	Unclassified
+C19069	whitesmoke	Unclassified
+C19070	forestgreen	Unclassified
+C19076	tan2	Unclassified
+C19089	deeppink2	Unclassified
+C19109	mediumblue	Unclassified
+C19111	mistyrose2	Unclassified
+C19121	whitesmoke	Unclassified
+C19131	goldenrod3	Unclassified
+C19139	brown2	Unclassified
+C19144	indianred2	Unclassified
+C19147	whitesmoke	Unclassified
+C19205	whitesmoke	Unclassified
+C19215	darkgoldenrod3	Unclassified
+C19217	whitesmoke	Unclassified
+C19236	whitesmoke	Unclassified
+C19252	lightsteelblue	Unclassified
+C19262	burlywood1	Unclassified
+C19277	darkturquoise	Unclassified
+C19279	lavenderblush1	Unclassified
+C19280	salmon	Unclassified
+C19289	lemonchiffon4	Unclassified
+C19294	green4	Unclassified
+C19303	dodgerblue3	Unclassified
+C19307	darkolivegreen	Unclassified
+C19310	whitesmoke	Unclassified
+C19312	whitesmoke	Unclassified
+C19323	antiquewhite3	Unclassified
+C19338	darkviolet	Unclassified
+C19347	indianred3	Unclassified
+C19369	tan2	Unclassified
+C19375	deeppink1	Unclassified
+C19376	paleturquoise4	Unclassified
+C19391	tan4	Unclassified
+C19396	hotpink2	Unclassified
+C19402	whitesmoke	Unclassified
+C19409	salmon4	Unclassified
+C19416	chocolate4	Unclassified
+C19422	salmon	Unclassified
+C19425	thistle4	Unclassified
+C19432	tan4	Unclassified
+C19435	mistyrose2	Unclassified
+C19455	peachpuff3	Unclassified
+C19459	antiquewhite4	Unclassified
+C19460	skyblue	Unclassified
+C19463	mistyrose2	Unclassified
+C19468	darkturquoise	Unclassified
+C19469	mistyrose	Unclassified
+C19471	khaki3	Unclassified
+C19473	royalblue	Unclassified
+C19478	salmon	Unclassified
+C19482	darkred	Unclassified
+C19516	khaki3	Unclassified
+C19518	salmon	Unclassified
+C19524	mediumpurple	Unclassified
+C19526	royalblue	Unclassified
+C19528	dodgerblue1	Unclassified
+C19529	whitesmoke	Unclassified
+C19531	salmon4	Unclassified
+C19556	lightgreen	Unclassified
+C19575	antiquewhite1	Unclassified
+C19584	deeppink1	Unclassified
+C19600	darkred	Unclassified
+C19637	whitesmoke	Unclassified
+C19689	khaki3	Unclassified
+C19704	dodgerblue1	Unclassified
+C19705	mistyrose2	Unclassified
+C19710	mistyrose	Unclassified
+C19715	skyblue3	Unclassified
+C19717	orangered4	Unclassified
+C19721	royalblue3	Unclassified
+C19724	dodgerblue1	Unclassified
+C19761	brown3	Unclassified
+C19763	tomato4	Unclassified
+C19785	pink1	Unclassified
+C19787	orangered4	Unclassified
+C19805	black	Unclassified
+C19809	paleturquoise	Unclassified
+C19868	darkorange2	Unclassified
+C19871	mediumpurple1	Unclassified
+C19899	mistyrose2	Unclassified
+C19904	darkorange2	Unclassified
+C19916	purple2	Unclassified
+C19929	indianred3	Unclassified
+C19932	mistyrose	Unclassified
+C19933	purple	Unclassified
+C19961	lightsteelblue	Unclassified
+C20073	whitesmoke	Unclassified
+C20121	black	Unclassified
+C20122	darkviolet	Unclassified
+C20124	darkturquoise	Unclassified
+C20132	plum3	Unclassified
+C20138	slateblue3	Unclassified
+C20140	coral2	Unclassified
+C20160	mediumpurple4	Unclassified
+C20164	lavenderblush2	Unclassified
+C20166	sienna4	Unclassified
+C20235	whitesmoke	Unclassified
+C20247	darkseagreen4	Unclassified
+C20250	antiquewhite3	Unclassified
+C20258	blue1	Unclassified
+C20277	lightsteelblue1	Unclassified
+C20279	moccasin	Unclassified
+C20287	whitesmoke	Unclassified
+C20290	lightsteelblue	Unclassified
+C20312	lightskyblue	Unclassified
+C20336	hotpink4	Unclassified
+C20342	whitesmoke	Unclassified
+C20349	hotpink2	Unclassified
+C20350	darkcyan	Unclassified
+C20366	whitesmoke	Unclassified
+C20386	mistyrose2	Unclassified
+C20387	mistyrose	Unclassified
+C20389	navajowhite2	Unclassified
+C20418	steelblue	Unclassified
+C20419	mediumorchid2	Unclassified
+C20424	lightsteelblue1	Unclassified
+C20434	darkblue	Unclassified
+C20466	whitesmoke	Unclassified
+C20513	lightpink3	Unclassified
+C20515	lavenderblush1	Unclassified
+C20516	black	Unclassified
+C20517	plum2	Unclassified
+C20543	chartreuse3	Unclassified
+C20545	lemonchiffon2	Unclassified
+C20548	green2	Unclassified
+C20549	steelblue	Unclassified
+C20563	dodgerblue1	Unclassified
+C20572	palevioletred1	Unclassified
+C20573	white	Unclassified
+C20584	green3	Unclassified
+C20585	rosybrown2	Unclassified
+C20594	honeydew1	Unclassified
+C20603	dodgerblue1	Unclassified
+C20605	ivory	Unclassified
+C20630	firebrick3	Unclassified
+C20656	tan3	Unclassified
+C20667	deeppink1	Unclassified
+C20698	whitesmoke	Unclassified
+C20740	orange1	Unclassified
+C20760	dodgerblue1	Unclassified
+C20776	black	Unclassified
+C20778	dodgerblue1	Unclassified
+C20790	whitesmoke	Unclassified
+C20799	white	Unclassified
+C20813	tomato4	Unclassified
+C20814	seashell3	Unclassified
+C20820	lightskyblue4	Unclassified
+C20842	whitesmoke	Unclassified
+C20843	thistle4	Unclassified
+C20852	whitesmoke	Unclassified
+C20854	turquoise4	Unclassified
+C20888	lightsteelblue1	Unclassified
+C20890	lightyellow	Unclassified
+C20892	mistyrose2	Unclassified
+C20910	magenta2	Unclassified
+C20916	navajowhite2	Unclassified
+C20920	lavenderblush3	Unclassified
+C20926	bisque4	Unclassified
+C20934	white	Unclassified
+C20940	paleturquoise4	Unclassified
+C20941	orangered	Unclassified
+C20959	mistyrose4	Unclassified
+C20961	darkred	Unclassified
+C20962	dodgerblue1	Unclassified
+C20964	tan3	Unclassified
+C20970	green	Unclassified
+C20971	purple2	Unclassified
+C21015	khaki2	Unclassified
+C21041	firebrick3	Unclassified
+C21069	salmon4	Unclassified
+C21070	royalblue3	Unclassified
+C21071	deeppink1	Unclassified
+C21086	hotpink3	Unclassified
+C21107	whitesmoke	Unclassified
+C21110	blue1	Unclassified
+C21112	lightsteelblue1	Unclassified
+C21124	mediumpurple4	Unclassified
+C21128	salmon	Unclassified
+C21131	dodgerblue1	Unclassified
+C21133	whitesmoke	Unclassified
+C21136	paleturquoise	Unclassified
+C21143	dodgerblue1	Unclassified
+C21144	whitesmoke	Unclassified
+C21152	red4	Unclassified
+C21160	olivedrab4	Unclassified
+C21161	plum2	Unclassified
+C21162	peachpuff4	Unclassified
+C21163	lightblue4	Unclassified
+C21170	coral2	Unclassified
+C21176	darkgreen	Unclassified
+C21181	mediumvioletred	Unclassified
+C21200	thistle	Unclassified
+C21211	orange3	Unclassified
+C21213	chocolate4	Unclassified
+C21216	green	Unclassified
+C21251	yellow3	Unclassified
+C21252	tan3	Unclassified
+C21253	lavenderblush	Unclassified
+C21255	lightpink1	Unclassified
+C21257	salmon	Unclassified
+C21258	mediumorchid	Unclassified
+C21259	skyblue4	Unclassified
+C21260	magenta1	Unclassified
+C21261	royalblue2	Unclassified
+C21262	cyan	Unclassified
+C21263	dodgerblue1	Unclassified
+C21264	darkorchid2	Unclassified
+C21266	lightskyblue3	Unclassified
+C21268	green	Unclassified
+C21269	ivory	Unclassified
+C21270	deeppink1	Unclassified
+C21273	navajowhite4	Unclassified
+C21275	whitesmoke	Unclassified
+C21280	deeppink2	Unclassified
+C21283	ivory	Unclassified
+C21329	yellow3	Unclassified
+C21334	black	Unclassified
+C21349	whitesmoke	Unclassified
+C21354	pink3	Unclassified
+C21374	lightblue2	Unclassified
+C21382	orangered4	Unclassified
+C21384	firebrick1	Unclassified
+C21419	thistle3	Unclassified
+C21424	antiquewhite1	Unclassified
+C21428	darkorange2	Unclassified
+C21441	greenyellow	Unclassified
+C21450	whitesmoke	Unclassified
+C21473	orange2	Unclassified
+C21477	slateblue3	Unclassified
+C21478	whitesmoke	Unclassified
+C21485	greenyellow	Unclassified
+C21486	whitesmoke	Unclassified
+C21491	dodgerblue1	Unclassified
+C21497	seashell3	Unclassified
+C21511	floralwhite	Unclassified
+C21518	salmon4	Unclassified
+C21525	dodgerblue1	Unclassified
+C21542	mistyrose	Unclassified
+C21550	lightyellow	Unclassified
+C21551	antiquewhite4	Unclassified
+C21553	lightskyblue	Unclassified
+C21556	mediumpurple4	Unclassified
+C21557	rosybrown2	Unclassified
+C21558	magenta2	Unclassified
+C21559	darkviolet	Unclassified
+C21575	mistyrose2	Unclassified
+C21577	slateblue3	Unclassified
+C21579	lightcoral	Unclassified
+C21580	purple	Unclassified
+C21583	thistle3	Unclassified
+C21584	violetred	Unclassified
+C21587	mediumorchid3	Unclassified
+C21590	lightblue2	Unclassified
+C21591	chocolate3	Unclassified
+C21598	dodgerblue1	Unclassified
+C21604	lightgoldenrod2	Unclassified
+C21616	dodgerblue1	Unclassified
+C21632	paleturquoise4	Unclassified
+C21635	hotpink1	Unclassified
+C21647	whitesmoke	Unclassified
+C21648	dodgerblue1	Unclassified
+C21650	tan4	Unclassified
+C21658	dodgerblue1	Unclassified
+C21662	whitesmoke	Unclassified
+C21686	whitesmoke	Unclassified
+C21722	mediumpurple2	Unclassified
+C21724	skyblue3	Unclassified
+C21747	skyblue3	Unclassified
+C21768	dodgerblue1	Unclassified
+C21787	antiquewhite1	Unclassified
+C21788	grey60	Unclassified
+C21804	mistyrose4	Unclassified
+C21808	orangered2	Unclassified
+C21887	olivedrab3	Unclassified
+C21888	lightsteelblue1	Unclassified
+C21890	mistyrose2	Unclassified
+C21902	whitesmoke	Unclassified
+C21910	lightsteelblue	Unclassified
+C21968	seashell3	Unclassified
+C21969	plum3	Unclassified
+C21971	violetred3	Unclassified
+C21984	darkorange	Unclassified
+C22015	darkred	Unclassified
+C22021	indianred4	Unclassified
+C22024	mistyrose	Unclassified
+C22032	orangered4	Unclassified
+HMDB0002873	lightyellow	Unclassified
+HMDB0005020	mediumorchid	Unclassified
+HMDB0006468	lightyellow	Unclassified
+HMDB0008003	grey60	Unclassified
+HMDB0012491	mediumorchid4	Unclassified
+HMDB0012868	darkolivegreen	Unclassified
+HMDB0012965	dodgerblue1	Unclassified
+HMDB0012983	moccasin	Unclassified
+HMDB0013067	lightskyblue4	Unclassified
+HMDB0013068	white	Unclassified
+HMDB0013422	greenyellow	Unclassified
+HMDB0015670	lightpink3	Unclassified
+HMDB0028700	red4	Unclassified
+HMDB0028803	plum2	Unclassified
+HMDB0029370	lightgreen	Unclassified
+HMDB0029444	antiquewhite3	Unclassified
+HMDB0029464	dodgerblue1	Unclassified
+HMDB0029718	lightcyan1	Unclassified
+HMDB0029829	black	Unclassified
+HMDB0030009	black	Unclassified
+HMDB0030185	magenta2	Unclassified
+HMDB0030186	green4	Unclassified
+HMDB0030244	khaki3	Unclassified
+HMDB0030339	dodgerblue1	Unclassified
+HMDB0030371	lightpink2	Unclassified
+HMDB0030486	whitesmoke	Unclassified
+HMDB0030492	dodgerblue1	Unclassified
+HMDB0030528	dodgerblue1	Unclassified
+HMDB0030531	tan4	Unclassified
+HMDB0030552	dodgerblue1	Unclassified
+HMDB0031155	whitesmoke	Unclassified
+HMDB0031573	darkblue	Unclassified
+HMDB0031641	dodgerblue1	Unclassified
+HMDB0032229	blue4	Unclassified
+HMDB0032329	whitesmoke	Unclassified
+HMDB0032337	dodgerblue1	Unclassified
+HMDB0032390	slateblue3	Unclassified
+HMDB0032400	antiquewhite3	Unclassified
+HMDB0032654	whitesmoke	Unclassified
+HMDB0033071	brown4	Unclassified
+HMDB0033447	dodgerblue1	Unclassified
+HMDB0033805	mediumpurple1	Unclassified
+HMDB0033875	dodgerblue1	Unclassified
+HMDB0034260	darkgoldenrod3	Unclassified
+HMDB0034426	whitesmoke	Unclassified
+HMDB0034577	deepskyblue4	Unclassified
+HMDB0035149	darkgoldenrod3	Unclassified
+HMDB0035528	cyan	Unclassified
+HMDB0035603	lightcoral	Unclassified
+HMDB0035732	indianred	Unclassified
+HMDB0036023	dodgerblue1	Unclassified
+HMDB0036361	darkseagreen1	Unclassified
+HMDB0036469	plum3	Unclassified
+HMDB0036749	green4	Unclassified
+HMDB0037833	orangered1	Unclassified
+HMDB0038183	lightsteelblue1	Unclassified
+HMDB0038230	lightslateblue	Unclassified
+HMDB0038231	skyblue	Unclassified
+HMDB0038232	firebrick4	Unclassified
+HMDB0038234	lightcoral	Unclassified
+HMDB0038670	honeydew1	Unclassified
+HMDB0038672	whitesmoke	Unclassified
+HMDB0038676	goldenrod3	Unclassified
+HMDB0038681	dodgerblue1	Unclassified
+HMDB0038690	dodgerblue1	Unclassified
+HMDB0038719	dodgerblue1	Unclassified
+HMDB0038721	dodgerblue1	Unclassified
+HMDB0038732	indianred	Unclassified
+HMDB0038736	whitesmoke	Unclassified
+HMDB0038743	dodgerblue1	Unclassified
+HMDB0038748	dodgerblue1	Unclassified
+HMDB0038749	darkmagenta	Unclassified
+HMDB0038842	pink3	Unclassified
+HMDB0038843	dodgerblue1	Unclassified
+HMDB0038883	firebrick3	Unclassified
+HMDB0038884	brown2	Unclassified
+HMDB0039005	royalblue	Unclassified
+HMDB0039458	whitesmoke	Unclassified
+HMDB0039677	lightskyblue3	Unclassified
+HMDB0039684	tan1	Unclassified
+HMDB0040521	yellow3	Unclassified
+HMDB0040684	honeydew1	Unclassified
+HMDB0040917	darkseagreen3	Unclassified
+HMDB0041813	darkmagenta	Unclassified
+HMDB0060732	mistyrose2	Unclassified
+HMDB0060754	mediumpurple1	Unclassified
+HMDB0060856	mistyrose2	Unclassified
+HMDB0060956	indianred	Unclassified
+HMDB0060987	whitesmoke	Unclassified
+HMDB0061023	steelblue	Unclassified
+HMDB0061159	lightcyan1	Unclassified
+HMDB0062362	darkolivegreen	Unclassified
+HMDB0062445	yellow3	Unclassified
+HMDB0128657	seashell3	Unclassified
+HMDB0128671	lightyellow3	Unclassified
+HMDB0128993	thistle3	Unclassified
+HMDB0129092	lightsteelblue1	Unclassified
+HMDB0129408	white	Unclassified
+HMDB0130342	deepskyblue4	Unclassified
+HMDB0130346	whitesmoke	Unclassified
+HMDB0130481	royalblue4	Unclassified
+HMDB0130485	lightblue1	Unclassified
+HMDB0135472	dodgerblue1	Unclassified
+HMDB0136160	whitesmoke	Unclassified
+HMDB0137285	violetred2	Unclassified
+HMDB0139638	lavenderblush3	Unclassified
+HMDB0139646	plum4	Unclassified
+HMDB0140929	royalblue	Unclassified
+HMDB0141091	dodgerblue1	Unclassified
+C16589	chartreuse4	Organic acids
+C00436	indianred4	Organic acids
+C01029	darkturquoise	Organic acids
+C02714	dodgerblue1	Organic acids
+C03413	hotpink4	Organic acids
+HMDB0030951	whitesmoke	Organic acids
+C00073	dodgerblue1	Amino acids, peptides, and analogues
+C00133	whitesmoke	Amino acids, peptides, and analogues
+C00263	mistyrose2	Amino acids, peptides, and analogues
+C00300	whitesmoke	Amino acids, peptides, and analogues
+C00327	aquamarine	Amino acids, peptides, and analogues
+C00355	mistyrose2	Amino acids, peptides, and analogues
+C00402	lightblue2	Amino acids, peptides, and analogues
+C00408	mistyrose2	Amino acids, peptides, and analogues
+C00415	brown2	Amino acids, peptides, and analogues
+C00439	lightgreen	Amino acids, peptides, and analogues
+C00441	blue1	Amino acids, peptides, and analogues
+C00499	antiquewhite2	Amino acids, peptides, and analogues
+C00740	plum3	Amino acids, peptides, and analogues
+C00763	burlywood1	Amino acids, peptides, and analogues
+C00792	dodgerblue1	Amino acids, peptides, and analogues
+C00793	antiquewhite2	Amino acids, peptides, and analogues
+C01035	lightpink	Amino acids, peptides, and analogues
+C01045	darkseagreen1	Amino acids, peptides, and analogues
+C01425	deeppink1	Amino acids, peptides, and analogues
+C01683	coral1	Amino acids, peptides, and analogues
+C01905	lavender	Amino acids, peptides, and analogues
+C01933	rosybrown2	Amino acids, peptides, and analogues
+C01937	mistyrose	Amino acids, peptides, and analogues
+C02135	pink1	Amino acids, peptides, and analogues
+C02155	darkorchid4	Amino acids, peptides, and analogues
+C02220	lightskyblue	Amino acids, peptides, and analogues
+C02427	hotpink1	Amino acids, peptides, and analogues
+C02515	purple	Amino acids, peptides, and analogues
+C02710	blanchedalmond	Amino acids, peptides, and analogues
+C02728	dodgerblue1	Amino acids, peptides, and analogues
+C04148	mediumpurple	Amino acids, peptides, and analogues
+C05283	forestgreen	Amino acids, peptides, and analogues
+C05330	salmon4	Amino acids, peptides, and analogues
+C05554	brown2	Amino acids, peptides, and analogues
+C05938	lightgreen	Amino acids, peptides, and analogues
+C06897	mediumorchid1	Amino acids, peptides, and analogues
+C07051	firebrick3	Amino acids, peptides, and analogues
+C07221	whitesmoke	Amino acids, peptides, and analogues
+C07240	dodgerblue1	Amino acids, peptides, and analogues
+C07773	tan2	Amino acids, peptides, and analogues
+C07927	indianred	Amino acids, peptides, and analogues
+C08021	lightyellow2	Amino acids, peptides, and analogues
+C11332	mediumblue	Amino acids, peptides, and analogues
+C11373	burlywood	Amino acids, peptides, and analogues
+C11490	darkred	Amino acids, peptides, and analogues
+C11735	mistyrose2	Amino acids, peptides, and analogues
+C14803	orangered4	Amino acids, peptides, and analogues
+C14856	lightpink4	Amino acids, peptides, and analogues
+C14864	lightpink	Amino acids, peptides, and analogues
+C15699	rosybrown2	Amino acids, peptides, and analogues
+C15849	green4	Amino acids, peptides, and analogues
+C16440	lightsteelblue1	Amino acids, peptides, and analogues
+C16632	whitesmoke	Amino acids, peptides, and analogues
+C16787	lightsteelblue1	Amino acids, peptides, and analogues
+C21016	brown2	Amino acids, peptides, and analogues
+C21096	mistyrose2	Amino acids, peptides, and analogues
+C21513	blanchedalmond	Amino acids, peptides, and analogues
+C21519	dodgerblue1	Amino acids, peptides, and analogues
+C21541	orangered	Amino acids, peptides, and analogues
+C21730	royalblue3	Amino acids, peptides, and analogues
+HMDB0000455	red3	Amino acids, peptides, and analogues
+HMDB0000569	snow2	Amino acids, peptides, and analogues
+HMDB0000656	darkviolet	Amino acids, peptides, and analogues
+HMDB0000667	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0000709	darkseagreen	Amino acids, peptides, and analogues
+HMDB0000721	mistyrose	Amino acids, peptides, and analogues
+HMDB0000793	lightpink	Amino acids, peptides, and analogues
+HMDB0000927	salmon4	Amino acids, peptides, and analogues
+HMDB0000953	plum3	Amino acids, peptides, and analogues
+HMDB0001045	darkorange	Amino acids, peptides, and analogues
+HMDB0001138	lightskyblue	Amino acids, peptides, and analogues
+HMDB0001422	whitesmoke	Amino acids, peptides, and analogues
+HMDB0001434	hotpink3	Amino acids, peptides, and analogues
+HMDB0001843	limegreen	Amino acids, peptides, and analogues
+HMDB0001885	skyblue3	Amino acids, peptides, and analogues
+HMDB0001904	lightskyblue1	Amino acids, peptides, and analogues
+HMDB0001938	sienna4	Amino acids, peptides, and analogues
+HMDB0002005	skyblue3	Amino acids, peptides, and analogues
+HMDB0002015	lightyellow3	Amino acids, peptides, and analogues
+HMDB0002089	green	Amino acids, peptides, and analogues
+HMDB0002113	darkseagreen1	Amino acids, peptides, and analogues
+HMDB0002135	lightyellow	Amino acids, peptides, and analogues
+HMDB0002171	mistyrose	Amino acids, peptides, and analogues
+HMDB0002248	cyan3	Amino acids, peptides, and analogues
+HMDB0002335	mistyrose	Amino acids, peptides, and analogues
+HMDB0002865	magenta2	Amino acids, peptides, and analogues
+HMDB0003036	whitesmoke	Amino acids, peptides, and analogues
+HMDB0003148	blue1	Amino acids, peptides, and analogues
+HMDB0003426	snow	Amino acids, peptides, and analogues
+HMDB0003828	mistyrose2	Amino acids, peptides, and analogues
+HMDB0004135	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0004207	lightpink3	Amino acids, peptides, and analogues
+HMDB0004620	khaki2	Amino acids, peptides, and analogues
+HMDB0005011	green	Amino acids, peptides, and analogues
+HMDB0005764	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0005771	rosybrown2	Amino acids, peptides, and analogues
+HMDB0005775	lightpink4	Amino acids, peptides, and analogues
+HMDB0005777	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0006028	magenta2	Amino acids, peptides, and analogues
+HMDB0006050	antiquewhite3	Amino acids, peptides, and analogues
+HMDB0006117	thistle	Amino acids, peptides, and analogues
+HMDB0006487	salmon4	Amino acids, peptides, and analogues
+HMDB0006730	navajowhite2	Amino acids, peptides, and analogues
+HMDB0011175	bisque3	Amino acids, peptides, and analogues
+HMDB0011177	bisque3	Amino acids, peptides, and analogues
+HMDB0011178	thistle4	Amino acids, peptides, and analogues
+HMDB0011179	mistyrose1	Amino acids, peptides, and analogues
+HMDB0011180	white	Amino acids, peptides, and analogues
+HMDB0011687	paleturquoise	Amino acids, peptides, and analogues
+HMDB0011716	lightskyblue4	Amino acids, peptides, and analogues
+HMDB0011728	purple	Amino acids, peptides, and analogues
+HMDB0011745	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0012220	mistyrose2	Amino acids, peptides, and analogues
+HMDB0012267	whitesmoke	Amino acids, peptides, and analogues
+HMDB0012624	mistyrose2	Amino acids, peptides, and analogues
+HMDB0012933	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0012993	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0013016	tomato	Amino acids, peptides, and analogues
+HMDB0013017	purple2	Amino acids, peptides, and analogues
+HMDB0013022	palevioletred1	Amino acids, peptides, and analogues
+HMDB0013024	lemonchiffon3	Amino acids, peptides, and analogues
+HMDB0013033	limegreen	Amino acids, peptides, and analogues
+HMDB0013063	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0013075	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0013116	darkolivegreen	Amino acids, peptides, and analogues
+HMDB0013209	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0013219	grey60	Amino acids, peptides, and analogues
+HMDB0013220	darkseagreen	Amino acids, peptides, and analogues
+HMDB0013250	whitesmoke	Amino acids, peptides, and analogues
+HMDB0013267	whitesmoke	Amino acids, peptides, and analogues
+HMDB0013272	whitesmoke	Amino acids, peptides, and analogues
+HMDB0013279	whitesmoke	Amino acids, peptides, and analogues
+HMDB0013286	whitesmoke	Amino acids, peptides, and analogues
+HMDB0013287	navajowhite2	Amino acids, peptides, and analogues
+HMDB0013713	orange2	Amino acids, peptides, and analogues
+HMDB0014262	skyblue4	Amino acids, peptides, and analogues
+HMDB0014334	mediumorchid3	Amino acids, peptides, and analogues
+HMDB0014506	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0014635	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0014735	whitesmoke	Amino acids, peptides, and analogues
+HMDB0015205	cyan4	Amino acids, peptides, and analogues
+HMDB0015321	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0015362	magenta2	Amino acids, peptides, and analogues
+HMDB0015433	magenta2	Amino acids, peptides, and analogues
+HMDB0015596	lightpink3	Amino acids, peptides, and analogues
+HMDB0015601	burlywood4	Amino acids, peptides, and analogues
+HMDB0015603	paleturquoise	Amino acids, peptides, and analogues
+HMDB0028680	bisque4	Amino acids, peptides, and analogues
+HMDB0028681	lavenderblush1	Amino acids, peptides, and analogues
+HMDB0028682	palevioletred	Amino acids, peptides, and analogues
+HMDB0028691	mistyrose	Amino acids, peptides, and analogues
+HMDB0028695	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028697	lightblue4	Amino acids, peptides, and analogues
+HMDB0028701	royalblue	Amino acids, peptides, and analogues
+HMDB0028702	royalblue	Amino acids, peptides, and analogues
+HMDB0028703	greenyellow	Amino acids, peptides, and analogues
+HMDB0028713	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028714	paleturquoise	Amino acids, peptides, and analogues
+HMDB0028717	steelblue	Amino acids, peptides, and analogues
+HMDB0028722	plum4	Amino acids, peptides, and analogues
+HMDB0028735	deeppink1	Amino acids, peptides, and analogues
+HMDB0028736	lightblue4	Amino acids, peptides, and analogues
+HMDB0028738	chocolate3	Amino acids, peptides, and analogues
+HMDB0028746	skyblue3	Amino acids, peptides, and analogues
+HMDB0028748	antiquewhite2	Amino acids, peptides, and analogues
+HMDB0028749	brown2	Amino acids, peptides, and analogues
+HMDB0028757	mistyrose	Amino acids, peptides, and analogues
+HMDB0028758	lightpink1	Amino acids, peptides, and analogues
+HMDB0028764	khaki2	Amino acids, peptides, and analogues
+HMDB0028771	oldlace	Amino acids, peptides, and analogues
+HMDB0028788	darkorange	Amino acids, peptides, and analogues
+HMDB0028792	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028799	orangered4	Amino acids, peptides, and analogues
+HMDB0028804	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028805	mistyrose	Amino acids, peptides, and analogues
+HMDB0028809	peachpuff2	Amino acids, peptides, and analogues
+HMDB0028810	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028813	lemonchiffon4	Amino acids, peptides, and analogues
+HMDB0028816	red1	Amino acids, peptides, and analogues
+HMDB0028817	lightblue	Amino acids, peptides, and analogues
+HMDB0028823	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028829	palegreen1	Amino acids, peptides, and analogues
+HMDB0028830	darkorchid2	Amino acids, peptides, and analogues
+HMDB0028831	lightgreen	Amino acids, peptides, and analogues
+HMDB0028832	brown2	Amino acids, peptides, and analogues
+HMDB0028842	lightcyan1	Amino acids, peptides, and analogues
+HMDB0028844	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028846	honeydew1	Amino acids, peptides, and analogues
+HMDB0028848	royalblue	Amino acids, peptides, and analogues
+HMDB0028852	bisque4	Amino acids, peptides, and analogues
+HMDB0028853	olivedrab4	Amino acids, peptides, and analogues
+HMDB0028855	thistle3	Amino acids, peptides, and analogues
+HMDB0028856	bisque3	Amino acids, peptides, and analogues
+HMDB0028857	darkcyan	Amino acids, peptides, and analogues
+HMDB0028865	whitesmoke	Amino acids, peptides, and analogues
+HMDB0028868	lightgreen	Amino acids, peptides, and analogues
+HMDB0028871	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028874	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028875	darkorange	Amino acids, peptides, and analogues
+HMDB0028878	coral1	Amino acids, peptides, and analogues
+HMDB0028889	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028891	oldlace	Amino acids, peptides, and analogues
+HMDB0028892	bisque4	Amino acids, peptides, and analogues
+HMDB0028893	bisque3	Amino acids, peptides, and analogues
+HMDB0028895	cyan1	Amino acids, peptides, and analogues
+HMDB0028896	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028897	lightyellow4	Amino acids, peptides, and analogues
+HMDB0028906	mistyrose	Amino acids, peptides, and analogues
+HMDB0028912	mediumblue	Amino acids, peptides, and analogues
+HMDB0028922	paleturquoise	Amino acids, peptides, and analogues
+HMDB0028923	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028924	skyblue4	Amino acids, peptides, and analogues
+HMDB0028926	ivory	Amino acids, peptides, and analogues
+HMDB0028928	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028929	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028930	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028931	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028934	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028935	mediumblue	Amino acids, peptides, and analogues
+HMDB0028938	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028940	royalblue	Amino acids, peptides, and analogues
+HMDB0028941	plum4	Amino acids, peptides, and analogues
+HMDB0028942	lightpink2	Amino acids, peptides, and analogues
+HMDB0028943	royalblue	Amino acids, peptides, and analogues
+HMDB0028945	paleturquoise	Amino acids, peptides, and analogues
+HMDB0028950	mistyrose	Amino acids, peptides, and analogues
+HMDB0028951	mediumpurple2	Amino acids, peptides, and analogues
+HMDB0028952	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028953	purple	Amino acids, peptides, and analogues
+HMDB0028954	lightpink2	Amino acids, peptides, and analogues
+HMDB0028955	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028956	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028957	honeydew1	Amino acids, peptides, and analogues
+HMDB0028961	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028965	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0028968	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028972	mistyrose2	Amino acids, peptides, and analogues
+HMDB0028973	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028975	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028977	mediumblue	Amino acids, peptides, and analogues
+HMDB0028979	royalblue	Amino acids, peptides, and analogues
+HMDB0028980	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0028981	antiquewhite1	Amino acids, peptides, and analogues
+HMDB0028984	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0028987	plum2	Amino acids, peptides, and analogues
+HMDB0028988	plum4	Amino acids, peptides, and analogues
+HMDB0028989	bisque4	Amino acids, peptides, and analogues
+HMDB0028990	rosybrown2	Amino acids, peptides, and analogues
+HMDB0028991	brown2	Amino acids, peptides, and analogues
+HMDB0028992	firebrick	Amino acids, peptides, and analogues
+HMDB0028993	mistyrose	Amino acids, peptides, and analogues
+HMDB0028995	thistle3	Amino acids, peptides, and analogues
+HMDB0028997	thistle3	Amino acids, peptides, and analogues
+HMDB0029000	bisque4	Amino acids, peptides, and analogues
+HMDB0029005	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029006	royalblue	Amino acids, peptides, and analogues
+HMDB0029007	royalblue	Amino acids, peptides, and analogues
+HMDB0029010	mistyrose2	Amino acids, peptides, and analogues
+HMDB0029011	mistyrose1	Amino acids, peptides, and analogues
+HMDB0029012	hotpink1	Amino acids, peptides, and analogues
+HMDB0029016	palegreen1	Amino acids, peptides, and analogues
+HMDB0029018	tan3	Amino acids, peptides, and analogues
+HMDB0029019	deepskyblue	Amino acids, peptides, and analogues
+HMDB0029022	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029023	mediumorchid1	Amino acids, peptides, and analogues
+HMDB0029027	indianred2	Amino acids, peptides, and analogues
+HMDB0029030	dodgerblue	Amino acids, peptides, and analogues
+HMDB0029031	bisque3	Amino acids, peptides, and analogues
+HMDB0029036	magenta2	Amino acids, peptides, and analogues
+HMDB0029040	darkviolet	Amino acids, peptides, and analogues
+HMDB0029043	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029044	lightyellow4	Amino acids, peptides, and analogues
+HMDB0029045	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0029048	darkturquoise	Amino acids, peptides, and analogues
+HMDB0029049	whitesmoke	Amino acids, peptides, and analogues
+HMDB0029050	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029051	royalblue	Amino acids, peptides, and analogues
+HMDB0029054	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029056	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029058	hotpink3	Amino acids, peptides, and analogues
+HMDB0029059	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029061	antiquewhite2	Amino acids, peptides, and analogues
+HMDB0029065	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029067	royalblue	Amino acids, peptides, and analogues
+HMDB0029068	bisque4	Amino acids, peptides, and analogues
+HMDB0029069	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029070	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029072	royalblue	Amino acids, peptides, and analogues
+HMDB0029073	bisque4	Amino acids, peptides, and analogues
+HMDB0029074	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029078	royalblue	Amino acids, peptides, and analogues
+HMDB0029079	sienna4	Amino acids, peptides, and analogues
+HMDB0029081	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029082	mistyrose	Amino acids, peptides, and analogues
+HMDB0029087	plum3	Amino acids, peptides, and analogues
+HMDB0029088	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029089	mistyrose	Amino acids, peptides, and analogues
+HMDB0029090	royalblue	Amino acids, peptides, and analogues
+HMDB0029092	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0029093	peachpuff3	Amino acids, peptides, and analogues
+HMDB0029098	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029099	chocolate1	Amino acids, peptides, and analogues
+HMDB0029100	plum4	Amino acids, peptides, and analogues
+HMDB0029101	red3	Amino acids, peptides, and analogues
+HMDB0029104	royalblue3	Amino acids, peptides, and analogues
+HMDB0029105	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029106	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029107	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029109	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029110	chocolate1	Amino acids, peptides, and analogues
+HMDB0029111	bisque4	Amino acids, peptides, and analogues
+HMDB0029112	moccasin	Amino acids, peptides, and analogues
+HMDB0029113	bisque3	Amino acids, peptides, and analogues
+HMDB0029114	royalblue	Amino acids, peptides, and analogues
+HMDB0029115	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029117	peachpuff4	Amino acids, peptides, and analogues
+HMDB0029119	chocolate2	Amino acids, peptides, and analogues
+HMDB0029120	lightgoldenrod2	Amino acids, peptides, and analogues
+HMDB0029121	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029122	navajowhite2	Amino acids, peptides, and analogues
+HMDB0029124	mediumpurple2	Amino acids, peptides, and analogues
+HMDB0029126	brown2	Amino acids, peptides, and analogues
+HMDB0029128	lightskyblue	Amino acids, peptides, and analogues
+HMDB0029130	lavenderblush3	Amino acids, peptides, and analogues
+HMDB0029131	lightpink2	Amino acids, peptides, and analogues
+HMDB0029132	palevioletred1	Amino acids, peptides, and analogues
+HMDB0029134	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029135	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029137	rosybrown2	Amino acids, peptides, and analogues
+HMDB0029141	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029143	coral1	Amino acids, peptides, and analogues
+HMDB0029151	mistyrose2	Amino acids, peptides, and analogues
+HMDB0029154	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029156	darkorange	Amino acids, peptides, and analogues
+HMDB0029158	darkviolet	Amino acids, peptides, and analogues
+HMDB0029159	skyblue3	Amino acids, peptides, and analogues
+HMDB0029160	brown2	Amino acids, peptides, and analogues
+HMDB0029163	honeydew1	Amino acids, peptides, and analogues
+HMDB0029225	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029334	green	Amino acids, peptides, and analogues
+HMDB0029336	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0029338	lemonchiffon4	Amino acids, peptides, and analogues
+HMDB0029356	lightcoral	Amino acids, peptides, and analogues
+HMDB0029393	brown2	Amino acids, peptides, and analogues
+HMDB0029394	lemonchiffon4	Amino acids, peptides, and analogues
+HMDB0029415	goldenrod3	Amino acids, peptides, and analogues
+HMDB0029419	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029421	whitesmoke	Amino acids, peptides, and analogues
+HMDB0029422	orange1	Amino acids, peptides, and analogues
+HMDB0029424	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029429	aliceblue	Amino acids, peptides, and analogues
+HMDB0029435	mistyrose2	Amino acids, peptides, and analogues
+HMDB0029436	darkred	Amino acids, peptides, and analogues
+HMDB0029445	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0029451	olivedrab4	Amino acids, peptides, and analogues
+HMDB0029736	darkseagreen4	Amino acids, peptides, and analogues
+HMDB0029944	darkseagreen	Amino acids, peptides, and analogues
+HMDB0030199	navajowhite2	Amino acids, peptides, and analogues
+HMDB0030405	indianred4	Amino acids, peptides, and analogues
+HMDB0030407	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0030409	hotpink1	Amino acids, peptides, and analogues
+HMDB0030410	salmon4	Amino acids, peptides, and analogues
+HMDB0030419	salmon	Amino acids, peptides, and analogues
+HMDB0030525	green4	Amino acids, peptides, and analogues
+HMDB0031360	lightgreen	Amino acids, peptides, and analogues
+HMDB0031412	whitesmoke	Amino acids, peptides, and analogues
+HMDB0031701	brown2	Amino acids, peptides, and analogues
+HMDB0031863	coral2	Amino acids, peptides, and analogues
+HMDB0031874	coral	Amino acids, peptides, and analogues
+HMDB0031985	antiquewhite4	Amino acids, peptides, and analogues
+HMDB0032382	tan3	Amino acids, peptides, and analogues
+HMDB0032766	darkviolet	Amino acids, peptides, and analogues
+HMDB0033242	limegreen	Amino acids, peptides, and analogues
+HMDB0033442	coral2	Amino acids, peptides, and analogues
+HMDB0033599	magenta2	Amino acids, peptides, and analogues
+HMDB0033602	cyan4	Amino acids, peptides, and analogues
+HMDB0033617	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0033926	pink1	Amino acids, peptides, and analogues
+HMDB0034441	darkturquoise	Amino acids, peptides, and analogues
+HMDB0034554	skyblue4	Amino acids, peptides, and analogues
+HMDB0036552	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0036553	coral	Amino acids, peptides, and analogues
+HMDB0037839	whitesmoke	Amino acids, peptides, and analogues
+HMDB0038224	green3	Amino acids, peptides, and analogues
+HMDB0038675	mediumpurple1	Amino acids, peptides, and analogues
+HMDB0039001	magenta1	Amino acids, peptides, and analogues
+HMDB0039160	green3	Amino acids, peptides, and analogues
+HMDB0039780	brown4	Amino acids, peptides, and analogues
+HMDB0040696	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0041053	black	Amino acids, peptides, and analogues
+HMDB0041309	goldenrod3	Amino acids, peptides, and analogues
+HMDB0041373	mediumorchid2	Amino acids, peptides, and analogues
+HMDB0041541	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0041851	mistyrose4	Amino acids, peptides, and analogues
+HMDB0041907	tomato	Amino acids, peptides, and analogues
+HMDB0059787	magenta2	Amino acids, peptides, and analogues
+HMDB0059788	rosybrown2	Amino acids, peptides, and analogues
+HMDB0059795	tan3	Amino acids, peptides, and analogues
+HMDB0060076	lightslateblue	Amino acids, peptides, and analogues
+HMDB0060110	mistyrose2	Amino acids, peptides, and analogues
+HMDB0060144	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0060168	mistyrose2	Amino acids, peptides, and analogues
+HMDB0060473	darkseagreen4	Amino acids, peptides, and analogues
+HMDB0060617	coral	Amino acids, peptides, and analogues
+HMDB0060813	tan2	Amino acids, peptides, and analogues
+HMDB0060855	lightpink2	Amino acids, peptides, and analogues
+HMDB0061099	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0061146	rosybrown2	Amino acids, peptides, and analogues
+HMDB0061156	lightpink	Amino acids, peptides, and analogues
+HMDB0062178	mistyrose	Amino acids, peptides, and analogues
+HMDB0062182	goldenrod3	Amino acids, peptides, and analogues
+HMDB0062570	darkorange2	Amino acids, peptides, and analogues
+HMDB0062734	whitesmoke	Amino acids, peptides, and analogues
+HMDB0062762	darkseagreen1	Amino acids, peptides, and analogues
+HMDB0094648	lemonchiffon3	Amino acids, peptides, and analogues
+HMDB0094676	moccasin	Amino acids, peptides, and analogues
+HMDB0094722	lightyellow	Amino acids, peptides, and analogues
+HMDB0125580	antiquewhite4	Amino acids, peptides, and analogues
+HMDB0125910	ivory	Amino acids, peptides, and analogues
+HMDB0126128	rosybrown1	Amino acids, peptides, and analogues
+HMDB0126538	burlywood3	Amino acids, peptides, and analogues
+HMDB0126539	magenta2	Amino acids, peptides, and analogues
+HMDB0127545	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0127559	mistyrose2	Amino acids, peptides, and analogues
+HMDB0127565	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0127610	rosybrown4	Amino acids, peptides, and analogues
+HMDB0127611	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0127976	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0128534	seashell3	Amino acids, peptides, and analogues
+HMDB0128737	lightblue	Amino acids, peptides, and analogues
+HMDB0128968	darkseagreen	Amino acids, peptides, and analogues
+HMDB0129122	brown2	Amino acids, peptides, and analogues
+HMDB0129423	lightblue2	Amino acids, peptides, and analogues
+HMDB0130040	mediumorchid1	Amino acids, peptides, and analogues
+HMDB0130118	mistyrose2	Amino acids, peptides, and analogues
+HMDB0132954	coral2	Amino acids, peptides, and analogues
+HMDB0132994	paleturquoise	Amino acids, peptides, and analogues
+HMDB0133267	red1	Amino acids, peptides, and analogues
+HMDB0133280	lightblue1	Amino acids, peptides, and analogues
+HMDB0133638	darkred	Amino acids, peptides, and analogues
+HMDB0133697	limegreen	Amino acids, peptides, and analogues
+HMDB0133744	skyblue	Amino acids, peptides, and analogues
+HMDB0133933	cornsilk2	Amino acids, peptides, and analogues
+HMDB0134045	mistyrose	Amino acids, peptides, and analogues
+HMDB0134061	brown4	Amino acids, peptides, and analogues
+HMDB0134078	bisque3	Amino acids, peptides, and analogues
+HMDB0134609	white	Amino acids, peptides, and analogues
+HMDB0134650	dodgerblue1	Amino acids, peptides, and analogues
+HMDB0135282	mistyrose2	Amino acids, peptides, and analogues
+HMDB0135577	lightsteelblue1	Amino acids, peptides, and analogues
+HMDB0135669	floralwhite	Amino acids, peptides, and analogues
+HMDB0135692	lightskyblue3	Amino acids, peptides, and analogues
+HMDB0135801	lightsteelblue1	Amino acids, peptides, and analogues
+C02567	coral	Organic acids
+HMDB0002284	coral1	Organic acids
+HMDB0014989	whitesmoke	Organic acids
+HMDB0030481	darkgoldenrod1	Organic acids
+HMDB0031651	whitesmoke	Organic acids
+HMDB0041947	green	Organic acids
+HMDB0060834	lightskyblue1	Organic acids
+HMDB0061136	deepskyblue	Organic acids
+HMDB0031212	darkturquoise	Organic acids
+HMDB0031252	orange4	Organic acids
+HMDB0015093	navajowhite4	Organic acids
+HMDB0031162	black	Organic acids
+HMDB0040172	whitesmoke	Organic acids
+HMDB0034699	darkorange2	Organic acids
+HMDB0034713	chocolate2	Organic acids
+HMDB0031828	lightcoral	Organic acids
+HMDB0039565	ivory	Organic acids
+HMDB0000739	purple2	Organic acids
+HMDB0029841	magenta2	Organic acids
+HMDB0033653	cyan	Organic acids
+HMDB0037556	seashell1	Organic acids
+C02341	lightyellow	Organic acids
+HMDB0000379	dodgerblue1	Organic acids
+HMDB0033397	whitesmoke	Organic acids
+HMDB0030442	dodgerblue1	Organic acids
+HMDB0038517	brown2	Organic acids
+HMDB0002601	green	Organic acids
+HMDB0031665	lightpink	Organic acids
+C08317	whitesmoke	Organic acids
+C02800	lightyellow	Organic acids
+HMDB0031471	dodgerblue1	Organic acids
+C00109	paleturquoise4	Organic acids
+C03771	mistyrose2	Organic acids
+C06873	darkred	Organic acids
+HMDB0031815	skyblue3	Organic acids
+C07752	orange4	Organic acids
+C08141	orangered1	Organic acids
+C04299	seashell4	Organic acids
+C16556	whitesmoke	Organic acids
+C16558	whitesmoke	Organic acids
+C00074	darkorange	Organic acids
+C12215	indianred1	Organic acids
+C14430	lightyellow3	Organic acids
+C18749	coral3	Organic acids
+C00245	darkred	Organic acids
+HMDB0000559	lightskyblue4	Organic acids
+HMDB0002062	darkred	Organic acids
+HMDB0059724	salmon	Organic acids
+HMDB0059993	whitesmoke	Organic acids
+HMDB0060018	lightyellow	Organic acids
+HMDB0060600	whitesmoke	Organic acids
+HMDB0060609	khaki2	Organic acids
+HMDB0062550	indianred4	Organic acids
+HMDB0062720	darkolivegreen	Organic acids
+HMDB0124993	darkgoldenrod3	Organic acids
+HMDB0128019	whitesmoke	Organic acids
+HMDB0128030	whitesmoke	Organic acids
+HMDB0131144	darkorchid4	Organic acids
+HMDB0134099	darkturquoise	Organic acids
+HMDB0134105	darkolivegreen	Organic acids
+HMDB0135245	mistyrose2	Organic acids
+HMDB0135705	whitesmoke	Organic acids
+HMDB0039464	black	Organic acids
+C06604	antiquewhite3	Organic acids
+C14322	deeppink2	Organic acids
+C18985	deeppink1	Organic acids
+HMDB0039897	dodgerblue1	Organic acids
+HMDB0040135	dodgerblue1	Organic acids
+HMDB0060863	dodgerblue1	Organic acids
+C04352	darkorange	Organic acids
+HMDB0005767	bisque3	Organic acids
+HMDB0011163	slateblue3	Organic acids
+HMDB0011167	brown2	Organic acids
+HMDB0011168	skyblue4	Organic acids
+C02824	salmon	Organic acids
+HMDB0031200	lavender	Organic acids
+HMDB0033548	lightcyan1	Organic acids
+C07597	dodgerblue1	Others
+HMDB0000488	tan4	Others
+C00750	magenta2	Others
+C00931	indianred2	Others
+C02735	rosybrown2	Others
+C12144	black	Others
+C20792	salmon4	Others
+HMDB0014631	orangered4	Others
+HMDB0015692	brown4	Others
+HMDB0142435	lightgreen	Others
+HMDB0031890	royalblue3	Others
+HMDB0036031	indianred1	Others
+C06975	whitesmoke	Others
+HMDB0029216	whitesmoke	Others
+C14844	dodgerblue1	Others
+HMDB0003502	blue4	Others
+HMDB0004249	mediumpurple2	Others
+HMDB0014924	tan2	Others
+HMDB0030039	whitesmoke	Others
+HMDB0094658	lightblue4	Others
+C00345	lightpink4	Carbohydrates
+C00532	darkturquoise	Carbohydrates
+C00597	indianred4	Carbohydrates
+C01151	lavenderblush3	Carbohydrates
+C01217	floralwhite	Carbohydrates
+C01239	royalblue3	Carbohydrates
+C01613	hotpink4	Carbohydrates
+C01697	lightyellow	Carbohydrates
+C01796	darkseagreen1	Carbohydrates
+C02052	greenyellow	Carbohydrates
+C03878	green	Carbohydrates
+C04132	mediumvioletred	Carbohydrates
+C04377	hotpink4	Carbohydrates
+C04540	brown4	Carbohydrates
+C04886	brown4	Carbohydrates
+C06572	indianred3	Carbohydrates
+C06820	yellow3	Carbohydrates
+C06912	bisque4	Carbohydrates
+C08073	lavenderblush	Carbohydrates
+C12389	burlywood3	Carbohydrates
+C12662	green	Carbohydrates
+C15658	red4	Carbohydrates
+C16699	sienna2	Carbohydrates
+C19909	green	Carbohydrates
+C21649	darkorchid1	Carbohydrates
+HMDB0000445	lemonchiffon2	Carbohydrates
+HMDB0000496	whitesmoke	Carbohydrates
+HMDB0000592	skyblue	Carbohydrates
+HMDB0000794	darkseagreen4	Carbohydrates
+HMDB0000796	forestgreen	Carbohydrates
+HMDB0000825	dodgerblue1	Carbohydrates
+HMDB0000901	ivory	Carbohydrates
+HMDB0001068	green	Carbohydrates
+HMDB0001351	white	Carbohydrates
+HMDB0001900	thistle3	Carbohydrates
+HMDB0002061	darkviolet	Carbohydrates
+HMDB0002091	plum4	Carbohydrates
+HMDB0002127	dodgerblue1	Carbohydrates
+HMDB0002150	lavenderblush	Carbohydrates
+HMDB0002282	brown2	Carbohydrates
+HMDB0003976	darkred	Carbohydrates
+HMDB0006535	darkseagreen4	Carbohydrates
+HMDB0006576	whitesmoke	Carbohydrates
+HMDB0006578	dodgerblue1	Carbohydrates
+HMDB0006579	orange1	Carbohydrates
+HMDB0006588	whitesmoke	Carbohydrates
+HMDB0006595	green	Carbohydrates
+HMDB0006599	honeydew	Carbohydrates
+HMDB0006606	deeppink1	Carbohydrates
+HMDB0006610	green	Carbohydrates
+HMDB0006633	darkorchid3	Carbohydrates
+HMDB0006698	oldlace	Carbohydrates
+HMDB0006705	dodgerblue1	Carbohydrates
+HMDB0006706	whitesmoke	Carbohydrates
+HMDB0010319	whitesmoke	Carbohydrates
+HMDB0011106	darkmagenta	Carbohydrates
+HMDB0011681	sienna2	Carbohydrates
+HMDB0011686	turquoise4	Carbohydrates
+HMDB0011692	lightskyblue1	Carbohydrates
+HMDB0012213	indianred3	Carbohydrates
+HMDB0012240	mistyrose1	Carbohydrates
+HMDB0012253	hotpink4	Carbohydrates
+HMDB0012285	yellow3	Carbohydrates
+HMDB0013000	peru	Carbohydrates
+HMDB0029344	orangered4	Carbohydrates
+HMDB0029404	mistyrose2	Carbohydrates
+HMDB0029630	green4	Carbohydrates
+HMDB0029776	orange4	Carbohydrates
+HMDB0029794	antiquewhite4	Carbohydrates
+HMDB0029881	mediumpurple2	Carbohydrates
+HMDB0029918	blue4	Carbohydrates
+HMDB0029952	cornflowerblue	Carbohydrates
+HMDB0029954	lightgoldenrod1	Carbohydrates
+HMDB0030277	lightblue	Carbohydrates
+HMDB0031367	dodgerblue1	Carbohydrates
+HMDB0031721	brown4	Carbohydrates
+HMDB0031742	floralwhite	Carbohydrates
+HMDB0031818	darkseagreen4	Carbohydrates
+HMDB0031945	lightblue2	Carbohydrates
+HMDB0031947	skyblue4	Carbohydrates
+HMDB0031948	deepskyblue	Carbohydrates
+HMDB0031949	mediumpurple4	Carbohydrates
+HMDB0031981	coral	Carbohydrates
+HMDB0032134	lightsteelblue1	Carbohydrates
+HMDB0032686	sienna2	Carbohydrates
+HMDB0032870	dodgerblue1	Carbohydrates
+HMDB0033111	antiquewhite2	Carbohydrates
+HMDB0033237	whitesmoke	Carbohydrates
+HMDB0034071	coral	Carbohydrates
+HMDB0034120	cyan	Carbohydrates
+HMDB0034614	lightsteelblue1	Carbohydrates
+HMDB0034682	darkcyan	Carbohydrates
+HMDB0035822	salmon4	Carbohydrates
+HMDB0035904	lightpink4	Carbohydrates
+HMDB0036331	lightsteelblue1	Carbohydrates
+HMDB0036570	rosybrown2	Carbohydrates
+HMDB0036593	chocolate2	Carbohydrates
+HMDB0037100	dodgerblue1	Carbohydrates
+HMDB0037551	firebrick	Carbohydrates
+HMDB0038347	mediumorchid1	Carbohydrates
+HMDB0038413	whitesmoke	Carbohydrates
+HMDB0038630	sienna4	Carbohydrates
+HMDB0039233	tan3	Carbohydrates
+HMDB0039235	tomato4	Carbohydrates
+HMDB0039314	coral1	Carbohydrates
+HMDB0039505	lightyellow	Carbohydrates
+HMDB0039877	palevioletred1	Carbohydrates
+HMDB0039930	magenta1	Carbohydrates
+HMDB0040343	dodgerblue1	Carbohydrates
+HMDB0041222	darkseagreen2	Carbohydrates
+HMDB0041513	peachpuff2	Carbohydrates
+HMDB0041911	bisque4	Carbohydrates
+HMDB0042044	maroon	Carbohydrates
+HMDB0059970	orchid	Carbohydrates
+HMDB0060453	orange2	Carbohydrates
+HMDB0060498	sienna4	Carbohydrates
+HMDB0060643	dodgerblue1	Carbohydrates
+HMDB0060763	firebrick	Carbohydrates
+HMDB0060769	whitesmoke	Carbohydrates
+HMDB0060786	lightskyblue3	Carbohydrates
+HMDB0060812	whitesmoke	Carbohydrates
+HMDB0060814	mediumpurple1	Carbohydrates
+HMDB0060829	lightblue4	Carbohydrates
+HMDB0060833	lavenderblush2	Carbohydrates
+HMDB0060862	salmon	Carbohydrates
+HMDB0060872	seashell3	Carbohydrates
+HMDB0060897	brown2	Carbohydrates
+HMDB0060914	pink3	Carbohydrates
+HMDB0060928	dodgerblue1	Carbohydrates
+HMDB0060933	whitesmoke	Carbohydrates
+HMDB0061019	lightcoral	Carbohydrates
+HMDB0061152	lavenderblush2	Carbohydrates
+HMDB0061167	lightpink4	Carbohydrates
+HMDB0061170	dodgerblue1	Carbohydrates
+HMDB0124733	darkmagenta	Carbohydrates
+HMDB0124747	aliceblue	Carbohydrates
+HMDB0125278	whitesmoke	Carbohydrates
+HMDB0125495	mediumpurple2	Carbohydrates
+HMDB0125624	floralwhite	Carbohydrates
+HMDB0126406	ivory	Carbohydrates
+HMDB0126546	tan4	Carbohydrates
+HMDB0127459	brown2	Carbohydrates
+HMDB0127483	antiquewhite3	Carbohydrates
+HMDB0127599	mediumorchid	Carbohydrates
+HMDB0127731	whitesmoke	Carbohydrates
+HMDB0127830	darkviolet	Carbohydrates
+HMDB0127957	whitesmoke	Carbohydrates
+HMDB0128029	springgreen3	Carbohydrates
+HMDB0128035	whitesmoke	Carbohydrates
+HMDB0128042	whitesmoke	Carbohydrates
+HMDB0128055	firebrick3	Carbohydrates
+HMDB0128714	whitesmoke	Carbohydrates
+HMDB0128782	whitesmoke	Carbohydrates
+HMDB0128861	firebrick1	Carbohydrates
+HMDB0129411	darkseagreen2	Carbohydrates
+HMDB0129413	darkorchid1	Carbohydrates
+HMDB0129424	mistyrose2	Carbohydrates
+HMDB0130027	orangered1	Carbohydrates
+HMDB0130087	whitesmoke	Carbohydrates
+HMDB0130112	firebrick	Carbohydrates
+HMDB0130127	royalblue	Carbohydrates
+HMDB0130136	whitesmoke	Carbohydrates
+HMDB0130798	mediumorchid4	Carbohydrates
+HMDB0132501	whitesmoke	Carbohydrates
+HMDB0132677	black	Carbohydrates
+HMDB0133207	lavenderblush2	Carbohydrates
+HMDB0133279	lightyellow	Carbohydrates
+HMDB0133420	blue1	Carbohydrates
+HMDB0134059	rosybrown2	Carbohydrates
+HMDB0134194	black	Carbohydrates
+HMDB0134938	burlywood	Carbohydrates
+HMDB0135181	lightyellow3	Carbohydrates
+HMDB0135305	green3	Carbohydrates
+HMDB0135507	lightsteelblue1	Carbohydrates
+HMDB0135515	lightblue2	Carbohydrates
+HMDB0135551	purple	Carbohydrates
+HMDB0135697	dodgerblue1	Carbohydrates
+HMDB0135704	orange2	Carbohydrates
+HMDB0135716	chocolate3	Carbohydrates
+HMDB0140855	mediumorchid	Carbohydrates
+HMDB0240287	deeppink1	Carbohydrates
+C06806	pink3	Others
+C20361	mistyrose	Others
+HMDB0001004	bisque4	Others
+HMDB0001200	plum3	Others
+HMDB0004086	tan3	Others
+HMDB0011679	whitesmoke	Others
+HMDB0015538	dodgerblue3	Others
+HMDB0029756	antiquewhite3	Others
+HMDB0029759	darkmagenta	Others
+HMDB0030456	white	Others
+HMDB0030937	whitesmoke	Others
+HMDB0031370	lightskyblue4	Others
+HMDB0031857	dodgerblue1	Others
+HMDB0031865	lightsteelblue1	Others
+HMDB0032576	green	Others
+HMDB0033660	whitesmoke	Others
+HMDB0036058	rosybrown2	Others
+HMDB0036073	orangered4	Others
+HMDB0036685	whitesmoke	Others
+HMDB0040190	whitesmoke	Others
+HMDB0041834	dodgerblue1	Others
+HMDB0060905	maroon	Others
+HMDB0141387	dodgerblue1	Others
+C07035	white	Others
+C07520	skyblue3	Others
+C07547	rosybrown2	Others
+HMDB0030441	magenta2	Others
+HMDB0033451	dodgerblue1	Others
+HMDB0039857	mistyrose	Others
+HMDB0061835	skyblue4	Others
+HMDB0062666	lightpink1	Others
+HMDB0061743	thistle	Others
+HMDB0061733	whitesmoke	Others
+C07323	mediumblue	Organoheterocyclic compounds
+HMDB0015149	sienna4	Organoheterocyclic compounds
+C00785	darkturquoise	Organoheterocyclic compounds
+C16621	dodgerblue4	Organoheterocyclic compounds
+HMDB0004988	royalblue3	Organoheterocyclic compounds
+HMDB0031338	darkturquoise	Organoheterocyclic compounds
+HMDB0037882	thistle4	Organoheterocyclic compounds
+C07589	whitesmoke	Organoheterocyclic compounds
+HMDB0006240	lightsteelblue1	Organoheterocyclic compounds
+HMDB0041891	chocolate	Organoheterocyclic compounds
+HMDB0059914	sienna2	Organoheterocyclic compounds
+HMDB0060571	darkseagreen4	Organoheterocyclic compounds
+HMDB0060760	dodgerblue4	Organoheterocyclic compounds
+HMDB0013848	lightslateblue	Organoheterocyclic compounds
+HMDB0014841	whitesmoke	Organoheterocyclic compounds
+HMDB0032419	lightpink3	Organoheterocyclic compounds
+HMDB0032423	mediumorchid4	Organoheterocyclic compounds
+HMDB0040089	mistyrose2	Organoheterocyclic compounds
+HMDB0040112	lightpink1	Organoheterocyclic compounds
+HMDB0127585	mistyrose2	Organoheterocyclic compounds
+HMDB0032326	green4	Organoheterocyclic compounds
+C14916	darkorchid4	Organoheterocyclic compounds
+HMDB0060865	darkorchid3	Organoheterocyclic compounds
+HMDB0060866	lightpink4	Organoheterocyclic compounds
+HMDB0060968	lightgreen	Organoheterocyclic compounds
+HMDB0061082	mistyrose2	Organoheterocyclic compounds
+HMDB0031682	chocolate1	Organoheterocyclic compounds
+C02565	lightsteelblue1	Organoheterocyclic compounds
+HMDB0031199	deeppink1	Organoheterocyclic compounds
+HMDB0029555	lightcyan1	Organoheterocyclic compounds
+C16602	orangered4	Organoheterocyclic compounds
+HMDB0015620	maroon	Organoheterocyclic compounds
+HMDB0060577	honeydew1	Organoheterocyclic compounds
+HMDB0060802	dodgerblue1	Organoheterocyclic compounds
+HMDB0060952	seashell2	Organoheterocyclic compounds
+HMDB0060992	mediumpurple	Organoheterocyclic compounds
+C10897	skyblue	Organoheterocyclic compounds
+C21882	antiquewhite2	Organoheterocyclic compounds
+HMDB0015315	goldenrod1	Organoheterocyclic compounds
+HMDB0015641	dodgerblue1	Organoheterocyclic compounds
+HMDB0240232	green2	Organoheterocyclic compounds
+C07864	lightblue	Organoheterocyclic compounds
+HMDB0014011	antiquewhite2	Organoheterocyclic compounds
+C07774	paleturquoise	Organoheterocyclic compounds
+HMDB0013943	mediumorchid4	Organoheterocyclic compounds
+HMDB0014332	burlywood1	Organoheterocyclic compounds
+HMDB0015034	lavenderblush	Organoheterocyclic compounds
+HMDB0015201	lightpink	Organoheterocyclic compounds
+HMDB0015511	orange4	Organoheterocyclic compounds
+HMDB0060554	lightgoldenrod2	Organoheterocyclic compounds
+HMDB0061089	lightblue2	Organoheterocyclic compounds
+HMDB0036699	green2	Organoheterocyclic compounds
+HMDB0015481	mediumorchid	Organoheterocyclic compounds
+HMDB0029989	dodgerblue1	Organoheterocyclic compounds
+HMDB0029990	tan1	Organoheterocyclic compounds
+HMDB0030004	firebrick4	Organoheterocyclic compounds
+HMDB0030005	dodgerblue1	Organoheterocyclic compounds
+HMDB0030134	dodgerblue1	Organoheterocyclic compounds
+HMDB0030135	whitesmoke	Organoheterocyclic compounds
+HMDB0030154	dodgerblue1	Organoheterocyclic compounds
+HMDB0030155	magenta2	Organoheterocyclic compounds
+HMDB0030156	dodgerblue1	Organoheterocyclic compounds
+HMDB0030655	lavenderblush3	Organoheterocyclic compounds
+HMDB0030795	dodgerblue1	Organoheterocyclic compounds
+HMDB0030816	lightyellow	Organoheterocyclic compounds
+HMDB0031786	cyan	Organoheterocyclic compounds
+HMDB0034095	seashell1	Organoheterocyclic compounds
+HMDB0037499	cyan3	Organoheterocyclic compounds
+HMDB0038582	aliceblue	Organoheterocyclic compounds
+HMDB0038971	royalblue	Organoheterocyclic compounds
+HMDB0041328	thistle3	Organoheterocyclic compounds
+HMDB0125817	mistyrose2	Organoheterocyclic compounds
+HMDB0125826	whitesmoke	Organoheterocyclic compounds
+HMDB0126376	lavenderblush	Organoheterocyclic compounds
+HMDB0134704	lightyellow	Organoheterocyclic compounds
+HMDB0134707	lightblue2	Organoheterocyclic compounds
+HMDB0029971	darkolivegreen	Organoheterocyclic compounds
+HMDB0061062	dodgerblue1	Organoheterocyclic compounds
+C07397	lightsteelblue1	Organoheterocyclic compounds
+C06807	moccasin	Organoheterocyclic compounds
+C07010	rosybrown2	Organoheterocyclic compounds
+C07132	mistyrose2	Organoheterocyclic compounds
+C07192	lightsteelblue1	Organoheterocyclic compounds
+HMDB0013938	tan3	Organoheterocyclic compounds
+HMDB0014536	dodgerblue1	Organoheterocyclic compounds
+HMDB0015546	olivedrab2	Organoheterocyclic compounds
+HMDB0015553	pink1	Organoheterocyclic compounds
+HMDB0015558	lightpink4	Organoheterocyclic compounds
+HMDB0240235	lightyellow4	Organoheterocyclic compounds
+HMDB0013969	whitesmoke	Organoheterocyclic compounds
+HMDB0040164	firebrick	Organoheterocyclic compounds
+HMDB0014484	dodgerblue1	Organoheterocyclic compounds
+HMDB0015560	lightsteelblue1	Organoheterocyclic compounds
+HMDB0060595	dodgerblue1	Organoheterocyclic compounds
+HMDB0060699	darkgreen	Organoheterocyclic compounds
+HMDB0060700	whitesmoke	Organoheterocyclic compounds
+HMDB0061139	tan3	Organoheterocyclic compounds
+C07342	mistyrose2	Organoheterocyclic compounds
+HMDB0031784	coral	Organoheterocyclic compounds
+HMDB0060835	whitesmoke	Organoheterocyclic compounds
+C06979	plum3	Organoheterocyclic compounds
+HMDB0015286	mistyrose	Organoheterocyclic compounds
+C06941	lightblue1	Organoheterocyclic compounds
+C06970	dodgerblue1	Organoheterocyclic compounds
+HMDB0015392	dodgerblue1	Organoheterocyclic compounds
+HMDB0060828	dodgerblue1	Organoheterocyclic compounds
+HMDB0061017	whitesmoke	Organoheterocyclic compounds
+HMDB0061059	deeppink1	Organoheterocyclic compounds
+HMDB0029742	indianred2	Organoheterocyclic compounds
+HMDB0031852	white	Organoheterocyclic compounds
+HMDB0036186	lightcyan1	Organoheterocyclic compounds
+HMDB0040005	dodgerblue1	Organoheterocyclic compounds
+HMDB0041967	green	Organoheterocyclic compounds
+C00068	whitesmoke	Nucleosides, nucleotides, and analogues
+C00295	tan1	Nucleosides, nucleotides, and analogues
+C00380	mistyrose4	Nucleosides, nucleotides, and analogues
+C03028	paleturquoise	Nucleosides, nucleotides, and analogues
+C04744	whitesmoke	Nucleosides, nucleotides, and analogues
+C06502	brown2	Nucleosides, nucleotides, and analogues
+C07851	mistyrose	Nucleosides, nucleotides, and analogues
+C16365	whitesmoke	Nucleosides, nucleotides, and analogues
+HMDB0013863	palevioletred	Nucleosides, nucleotides, and analogues
+HMDB0013940	royalblue	Nucleosides, nucleotides, and analogues
+HMDB0014699	brown3	Nucleosides, nucleotides, and analogues
+HMDB0015230	peachpuff3	Nucleosides, nucleotides, and analogues
+HMDB0030383	mediumpurple4	Nucleosides, nucleotides, and analogues
+HMDB0031758	whitesmoke	Nucleosides, nucleotides, and analogues
+HMDB0060941	steelblue	Nucleosides, nucleotides, and analogues
+HMDB0060942	rosybrown2	Nucleosides, nucleotides, and analogues
+HMDB0061055	lightsteelblue1	Nucleosides, nucleotides, and analogues
+C17601	slateblue3	Organoheterocyclic compounds
+HMDB0031859	paleturquoise4	Organoheterocyclic compounds
+HMDB0033610	chartreuse4	Organoheterocyclic compounds
+HMDB0034262	whitesmoke	Organoheterocyclic compounds
+HMDB0032527	whitesmoke	Organoheterocyclic compounds
+HMDB0012996	red4	Organoheterocyclic compounds
+HMDB0129098	mediumpurple4	Organoheterocyclic compounds
+C01546	lightyellow	Organoheterocyclic compounds
+HMDB0029839	royalblue	Organoheterocyclic compounds
+C00147	salmon	Nucleosides, nucleotides, and analogues
+C00262	antiquewhite3	Nucleosides, nucleotides, and analogues
+C00366	salmon4	Nucleosides, nucleotides, and analogues
+C00371	blanchedalmond	Nucleosides, nucleotides, and analogues
+C02029	lightgreen	Nucleosides, nucleotides, and analogues
+C07130	royalblue2	Nucleosides, nucleotides, and analogues
+C07481	royalblue2	Nucleosides, nucleotides, and analogues
+C07599	dodgerblue4	Nucleosides, nucleotides, and analogues
+C08272	brown2	Nucleosides, nucleotides, and analogues
+C16358	whitesmoke	Nucleosides, nucleotides, and analogues
+C16361	whitesmoke	Nucleosides, nucleotides, and analogues
+C20155	blanchedalmond	Nucleosides, nucleotides, and analogues
+HMDB0000542	darkturquoise	Nucleosides, nucleotides, and analogues
+HMDB0001182	violetred3	Nucleosides, nucleotides, and analogues
+HMDB0003282	dodgerblue4	Nucleosides, nucleotides, and analogues
+HMDB0004328	whitesmoke	Nucleosides, nucleotides, and analogues
+HMDB0014856	mistyrose	Nucleosides, nucleotides, and analogues
+HMDB0035233	lightgoldenrod2	Nucleosides, nucleotides, and analogues
+HMDB0060805	cyan	Nucleosides, nucleotides, and analogues
+HMDB0060809	lightblue4	Nucleosides, nucleotides, and analogues
+HMDB0060876	darkgoldenrod1	Nucleosides, nucleotides, and analogues
+HMDB0061068	whitesmoke	Nucleosides, nucleotides, and analogues
+C01926	antiquewhite3	Indole and derivatives
+HMDB0060545	firebrick	Indole and derivatives
+HMDB0013949	mistyrose	Indole and derivatives
+HMDB0030212	whitesmoke	Indole and derivatives
+HMDB0030224	paleturquoise4	Indole and derivatives
+HMDB0030226	chartreuse3	Indole and derivatives
+HMDB0030241	lemonchiffon2	Indole and derivatives
+HMDB0032085	lightblue2	Indole and derivatives
+HMDB0040773	cyan	Indole and derivatives
+HMDB0040776	deeppink2	Indole and derivatives
+HMDB0061150	lemonchiffon3	Indole and derivatives
+C05643	orange2	Indole and derivatives
+HMDB0033637	whitesmoke	Indole and derivatives
+C00463	mistyrose2	Indole and derivatives
+C01598	orange2	Indole and derivatives
+C07792	rosybrown2	Indole and derivatives
+C11284	red1	Indole and derivatives
+HMDB0000734	mistyrose2	Indole and derivatives
+HMDB0030263	dodgerblue1	Indole and derivatives
+HMDB0034209	orangered	Indole and derivatives
+HMDB0034872	whitesmoke	Indole and derivatives
+HMDB0038632	blanchedalmond	Indole and derivatives
+HMDB0040815	whitesmoke	Indole and derivatives
+HMDB0040973	whitesmoke	Indole and derivatives
+HMDB0015397	dodgerblue1	Indole and derivatives
+HMDB0060721	lightpink1	Indole and derivatives
+C00331	royalblue4	Indole and derivatives
+C05660	yellow3	Indole and derivatives
+HMDB0002302	green	Indole and derivatives
+HMDB0061046	chocolate1	Indole and derivatives
+HMDB0240237	cyan	Indole and derivatives
+HMDB0240240	lightblue4	Indole and derivatives
+HMDB0011664	indianred2	Indole and derivatives
+HMDB0012884	mediumpurple	Indole and derivatives
+HMDB0029565	lemonchiffon3	Indole and derivatives
+HMDB0030280	lightpink1	Indole and derivatives
+HMDB0030381	dodgerblue1	Indole and derivatives
+HMDB0030533	bisque4	Indole and derivatives
+HMDB0060811	orange2	Indole and derivatives
+C00398	darkorchid4	Organoheterocyclic compounds
+C00643	lavender	Organoheterocyclic compounds
+C07218	lightsteelblue1	Organoheterocyclic compounds
+HMDB0002339	lightsteelblue	Organoheterocyclic compounds
+HMDB0015088	magenta2	Organoheterocyclic compounds
+HMDB0041431	mediumpurple1	Organoheterocyclic compounds
+HMDB0060847	darkturquoise	Organoheterocyclic compounds
+HMDB0061011	dodgerblue1	Organoheterocyclic compounds
+HMDB0032028	lightcyan1	Organoheterocyclic compounds
+HMDB0032598	thistle3	Organoheterocyclic compounds
+C02105	dodgerblue1	Organoheterocyclic compounds
+HMDB0030355	aquamarine	Organoheterocyclic compounds
+HMDB0030505	dodgerblue1	Organoheterocyclic compounds
+HMDB0034104	darkgreen	Organoheterocyclic compounds
+C06887	lightyellow3	Organoheterocyclic compounds
+C11729	mistyrose2	Organoheterocyclic compounds
+C21544	lightyellow	Organoheterocyclic compounds
+HMDB0014898	ivory	Organoheterocyclic compounds
+HMDB0030994	royalblue2	Organoheterocyclic compounds
+HMDB0061126	lightgreen	Organoheterocyclic compounds
+HMDB0030856	honeydew1	Organoheterocyclic compounds
+HMDB0031762	indianred4	Organoheterocyclic compounds
+HMDB0035871	darkorange	Organoheterocyclic compounds
+C16554	darkgoldenrod3	Organoheterocyclic compounds
+C07432	whitesmoke	Organoheterocyclic compounds
+C11285	whitesmoke	Organoheterocyclic compounds
+HMDB0013959	peachpuff4	Organoheterocyclic compounds
+C07415	sienna4	Organoheterocyclic compounds
+HMDB0015238	mistyrose	Organoheterocyclic compounds
+C16836	lightpink2	Organoheterocyclic compounds
+C16837	honeydew1	Organoheterocyclic compounds
+HMDB0011749	green	Organoheterocyclic compounds
+HMDB0001557	whitesmoke	Organoheterocyclic compounds
+HMDB0034433	mistyrose2	Organoheterocyclic compounds
+C05995	lavenderblush1	Organoheterocyclic compounds
+HMDB0001354	firebrick	Organoheterocyclic compounds
+HMDB0001534	blue4	Organoheterocyclic compounds
+HMDB0001833	lightsteelblue1	Organoheterocyclic compounds
+HMDB0006486	lightblue2	Organoheterocyclic compounds
+HMDB0006825	lightsteelblue1	Organoheterocyclic compounds
+C20362	cornflowerblue	Organoheterocyclic compounds
+HMDB0060741	lightgoldenrod1	Organoheterocyclic compounds
+HMDB0062405	honeydew	Organoheterocyclic compounds
+HMDB0060926	lightblue	Organoheterocyclic compounds
+C02502	darkseagreen4	Organoheterocyclic compounds
+C07699	coral2	Organoheterocyclic compounds
+HMDB0015158	whitesmoke	Organoheterocyclic compounds
+HMDB0030345	yellow3	Organoheterocyclic compounds
+HMDB0039658	lightgreen	Organoheterocyclic compounds
+C07807	lightcyan1	Organoheterocyclic compounds
+HMDB0032244	antiquewhite3	Organoheterocyclic compounds
+HMDB0001007	mistyrose	Organoheterocyclic compounds
+HMDB0001538	darkgoldenrod1	Organoheterocyclic compounds
+HMDB0030175	lightgoldenrod1	Organoheterocyclic compounds
+HMDB0060722	orangered4	Organoheterocyclic compounds
+C06965	mistyrose2	Organoheterocyclic compounds
+HMDB0015557	darkorange	Organoheterocyclic compounds
+HMDB0015434	lightsteelblue	Organoheterocyclic compounds
+HMDB0061041	indianred4	Organoheterocyclic compounds
+C00153	salmon	Organoheterocyclic compounds
+C03722	salmon4	Organoheterocyclic compounds
+C07054	royalblue2	Organoheterocyclic compounds
+C10164	darkseagreen4	Organoheterocyclic compounds
+HMDB0003152	salmon	Organoheterocyclic compounds
+HMDB0060982	violetred	Organoheterocyclic compounds
+C00647	grey60	Organoheterocyclic compounds
+HMDB0001324	antiquewhite1	Organoheterocyclic compounds
+HMDB0001497	mistyrose	Organoheterocyclic compounds
+C06834	dodgerblue1	Organoheterocyclic compounds
+C07014	brown2	Organoheterocyclic compounds
+C07567	mistyrose2	Organoheterocyclic compounds
+HMDB0014038	coral2	Organoheterocyclic compounds
+HMDB0014039	ivory	Organoheterocyclic compounds
+HMDB0030204	springgreen3	Organoheterocyclic compounds
+HMDB0034373	whitesmoke	Organoheterocyclic compounds
+HMDB0033843	white	Organoheterocyclic compounds
+HMDB0061678	brown4	Organoheterocyclic compounds
+HMDB0060541	dodgerblue1	Organoheterocyclic compounds
+HMDB0041440	lightskyblue3	Organoheterocyclic compounds
+C16675	mediumpurple	Organoheterocyclic compounds
+C07627	thistle	Organoheterocyclic compounds
+C01553	royalblue	Organoheterocyclic compounds
+HMDB0029326	lightblue2	Organoheterocyclic compounds
+HMDB0029329	whitesmoke	Organoheterocyclic compounds
+HMDB0029827	violetred4	Organoheterocyclic compounds
+HMDB0030176	violetred3	Organoheterocyclic compounds
+HMDB0031135	indianred1	Organoheterocyclic compounds
+HMDB0040384	firebrick3	Organoheterocyclic compounds
+HMDB0040385	cornsilk2	Organoheterocyclic compounds
+HMDB0040386	dodgerblue1	Organoheterocyclic compounds
+HMDB0040387	antiquewhite4	Organoheterocyclic compounds
+HMDB0040767	dodgerblue1	Organoheterocyclic compounds
+HMDB0041247	mistyrose2	Organoheterocyclic compounds
+C06874	whitesmoke	Organoheterocyclic compounds
+C07425	moccasin	Organoheterocyclic compounds
+C00113	slateblue3	Organoheterocyclic compounds
+C06687	darkseagreen1	Organoheterocyclic compounds
+C07078	chocolate3	Organoheterocyclic compounds
+C07661	dodgerblue1	Organoheterocyclic compounds
+HMDB0014630	indianred1	Organoheterocyclic compounds
+HMDB0029861	tomato	Organoheterocyclic compounds
+HMDB0060726	blue1	Organoheterocyclic compounds
+C07879	mediumpurple1	Organoheterocyclic compounds
+HMDB0031754	cornsilk2	Organoheterocyclic compounds
+HMDB0031997	palevioletred	Organoheterocyclic compounds
+HMDB0031998	whitesmoke	Organoheterocyclic compounds
+HMDB0042003	brown2	Organoheterocyclic compounds
+HMDB0060990	dodgerblue1	Organoheterocyclic compounds
+C05789	darkmagenta	Organoheterocyclic compounds
+C05790	cyan	Organoheterocyclic compounds
+HMDB0003325	whitesmoke	Organoheterocyclic compounds
+HMDB0031146	magenta1	Organoheterocyclic compounds
+HMDB0059948	lightpink3	Organoheterocyclic compounds
+C06505	lightskyblue4	Organoheterocyclic compounds
+C15672	slateblue3	Organoheterocyclic compounds
+C02191	skyblue	Organoheterocyclic compounds
+C05766	slateblue4	Organoheterocyclic compounds
+C05768	magenta2	Organoheterocyclic compounds
+HMDB0000789	darkorange	Organoheterocyclic compounds
+HMDB0000810	cyan	Organoheterocyclic compounds
+HMDB0000869	lightsteelblue1	Organoheterocyclic compounds
+HMDB0001957	mistyrose2	Organoheterocyclic compounds
+HMDB0002242	violetred	Organoheterocyclic compounds
+C06949	darkturquoise	Organoheterocyclic compounds
+C07461	whitesmoke	Organoheterocyclic compounds
+C07763	lightgreen	Organoheterocyclic compounds
+C07766	whitesmoke	Organoheterocyclic compounds
+C07767	lightpink2	Organoheterocyclic compounds
+HMDB0013922	dodgerblue1	Organoheterocyclic compounds
+HMDB0030878	orange4	Others
+HMDB0032356	antiquewhite2	Others
+C14691	blue4	Others
+HMDB0031713	darkseagreen4	Others
+HMDB0039343	antiquewhite3	Others
+C03031	lightskyblue1	Carbohydrates
+HMDB0029893	mediumorchid4	Carbohydrates
+HMDB0030465	honeydew	Carbohydrates
+HMDB0030466	mediumpurple1	Carbohydrates
+HMDB0032622	mediumorchid	Carbohydrates
+HMDB0039813	palevioletred	Carbohydrates
+HMDB0040825	green4	Carbohydrates
+HMDB0029931	peru	Carbohydrates
+HMDB0040687	darkseagreen1	Carbohydrates
+HMDB0041221	red3	Carbohydrates
+HMDB0041225	black	Carbohydrates
+HMDB0029940	salmon	Carbohydrates
+HMDB0032426	lavenderblush1	Others
+HMDB0032540	whitesmoke	Others
+HMDB0029410	whitesmoke	Others
+HMDB0031728	whitesmoke	Others
+HMDB0033553	plum4	Others
+HMDB0040241	springgreen3	Others
+HMDB0040432	darkgoldenrod1	Others
+HMDB0032181	maroon	Others
+C18661	purple	Others
+HMDB0039734	whitesmoke	Others
+HMDB0041188	lightcyan1	Others
+HMDB0040198	mistyrose2	Others
+HMDB0031537	ivory	Others
+C10398	darkred	Others
+C02265	darksalmon	Amino acids, peptides, and analogues
+C05688	whitesmoke	Amino acids, peptides, and analogues
+C06419	antiquewhite3	Amino acids, peptides, and analogues
+C16138	mistyrose	Amino acids, peptides, and analogues
+C09165	plum3	Others
+C10730	lightgreen	Others
+C01175	peru	Others
+HMDB0029788	whitesmoke	Phenylpropanoids and polyketides
+HMDB0030460	chocolate1	Phenylpropanoids and polyketides
+HMDB0030461	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0030462	darkred	Phenylpropanoids and polyketides
+HMDB0033261	antiquewhite2	Phenylpropanoids and polyketides
+HMDB0033431	plum4	Phenylpropanoids and polyketides
+HMDB0035940	violetred4	Phenylpropanoids and polyketides
+HMDB0038284	deeppink1	Phenylpropanoids and polyketides
+HMDB0126148	indianred4	Phenylpropanoids and polyketides
+HMDB0126150	thistle	Phenylpropanoids and polyketides
+HMDB0126160	floralwhite	Phenylpropanoids and polyketides
+HMDB0126174	whitesmoke	Phenylpropanoids and polyketides
+HMDB0126228	palegreen1	Phenylpropanoids and polyketides
+HMDB0126233	slateblue4	Phenylpropanoids and polyketides
+HMDB0129161	tan2	Phenylpropanoids and polyketides
+HMDB0129199	antiquewhite4	Phenylpropanoids and polyketides
+HMDB0134234	floralwhite	Phenylpropanoids and polyketides
+HMDB0135820	mediumorchid2	Phenylpropanoids and polyketides
+C01907	lavenderblush2	Phenylpropanoids and polyketides
+HMDB0014529	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0015308	lightsteelblue1	Phenylpropanoids and polyketides
+HMDB0060823	maroon	Phenylpropanoids and polyketides
+HMDB0029781	steelblue	Phenylpropanoids and polyketides
+HMDB0029951	darkred	Phenylpropanoids and polyketides
+HMDB0033124	skyblue4	Phenylpropanoids and polyketides
+HMDB0036612	darkgreen	Phenylpropanoids and polyketides
+HMDB0036615	darkturquoise	Phenylpropanoids and polyketides
+HMDB0036622	mediumorchid2	Phenylpropanoids and polyketides
+HMDB0039388	darkorange2	Phenylpropanoids and polyketides
+HMDB0039391	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0040130	bisque4	Phenylpropanoids and polyketides
+C12288	blue1	Phenylpropanoids and polyketides
+HMDB0134030	bisque4	Phenylpropanoids and polyketides
+HMDB0135648	indianred4	Phenylpropanoids and polyketides
+HMDB0135466	brown2	Phenylpropanoids and polyketides
+HMDB0030295	plum2	Phenylpropanoids and polyketides
+HMDB0033832	burlywood	Phenylpropanoids and polyketides
+HMDB0134149	orangered1	Phenylpropanoids and polyketides
+HMDB0030751	whitesmoke	Phenylpropanoids and polyketides
+HMDB0033467	olivedrab3	Phenylpropanoids and polyketides
+HMDB0033471	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0033479	bisque4	Phenylpropanoids and polyketides
+HMDB0038576	orangered4	Phenylpropanoids and polyketides
+HMDB0041173	tan1	Phenylpropanoids and polyketides
+HMDB0125088	seashell3	Phenylpropanoids and polyketides
+HMDB0125186	mistyrose2	Phenylpropanoids and polyketides
+HMDB0125608	skyblue3	Phenylpropanoids and polyketides
+HMDB0126041	salmon	Phenylpropanoids and polyketides
+HMDB0128076	antiquewhite3	Phenylpropanoids and polyketides
+HMDB0128681	coral1	Phenylpropanoids and polyketides
+HMDB0133304	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0134028	antiquewhite3	Phenylpropanoids and polyketides
+HMDB0137670	rosybrown2	Phenylpropanoids and polyketides
+HMDB0139613	lavender	Phenylpropanoids and polyketides
+HMDB0139703	whitesmoke	Phenylpropanoids and polyketides
+HMDB0139920	plum2	Phenylpropanoids and polyketides
+HMDB0139973	lightsteelblue1	Phenylpropanoids and polyketides
+HMDB0142077	darksalmon	Phenylpropanoids and polyketides
+HMDB0142237	firebrick	Phenylpropanoids and polyketides
+C10577	thistle3	Phenylpropanoids and polyketides
+HMDB0126536	antiquewhite2	Phenylpropanoids and polyketides
+HMDB0128659	seashell4	Phenylpropanoids and polyketides
+HMDB0030884	whitesmoke	Phenylpropanoids and polyketides
+HMDB0039047	whitesmoke	Phenylpropanoids and polyketides
+HMDB0126096	aliceblue	Phenylpropanoids and polyketides
+HMDB0130126	whitesmoke	Phenylpropanoids and polyketides
+HMDB0132921	whitesmoke	Phenylpropanoids and polyketides
+HMDB0135804	whitesmoke	Phenylpropanoids and polyketides
+HMDB0030616	orangered1	Phenylpropanoids and polyketides
+HMDB0030715	coral1	Phenylpropanoids and polyketides
+HMDB0039040	salmon	Phenylpropanoids and polyketides
+HMDB0040155	deepskyblue4	Phenylpropanoids and polyketides
+HMDB0041413	plum2	Phenylpropanoids and polyketides
+HMDB0128914	brown2	Phenylpropanoids and polyketides
+HMDB0128923	skyblue	Phenylpropanoids and polyketides
+HMDB0128937	coral2	Phenylpropanoids and polyketides
+HMDB0128940	lightpink4	Phenylpropanoids and polyketides
+HMDB0130148	cyan	Phenylpropanoids and polyketides
+HMDB0132925	salmon4	Phenylpropanoids and polyketides
+HMDB0060884	lightsteelblue1	Phenylpropanoids and polyketides
+HMDB0128983	mediumpurple2	Phenylpropanoids and polyketides
+HMDB0135800	mistyrose2	Phenylpropanoids and polyketides
+HMDB0136754	darkred	Phenylpropanoids and polyketides
+HMDB0030730	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0133016	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0133025	palevioletred	Phenylpropanoids and polyketides
+HMDB0138052	salmon	Phenylpropanoids and polyketides
+HMDB0032056	dodgerblue	Phenylpropanoids and polyketides
+HMDB0128373	mistyrose2	Phenylpropanoids and polyketides
+HMDB0128400	maroon	Phenylpropanoids and polyketides
+HMDB0139003	mediumpurple1	Phenylpropanoids and polyketides
+HMDB0039351	steelblue	Phenylpropanoids and polyketides
+HMDB0131861	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0030115	lightslateblue	Phenylpropanoids and polyketides
+HMDB0126460	mediumorchid	Phenylpropanoids and polyketides
+HMDB0134652	plum3	Phenylpropanoids and polyketides
+HMDB0134654	lightpink4	Phenylpropanoids and polyketides
+HMDB0141074	antiquewhite3	Phenylpropanoids and polyketides
+HMDB0141089	tan3	Phenylpropanoids and polyketides
+HMDB0038375	navajowhite3	Phenylpropanoids and polyketides
+HMDB0126846	royalblue2	Phenylpropanoids and polyketides
+HMDB0132365	mistyrose2	Phenylpropanoids and polyketides
+HMDB0035372	tan1	Phenylpropanoids and polyketides
+HMDB0038283	orchid	Phenylpropanoids and polyketides
+HMDB0127853	whitesmoke	Phenylpropanoids and polyketides
+HMDB0127869	whitesmoke	Phenylpropanoids and polyketides
+HMDB0127893	whitesmoke	Phenylpropanoids and polyketides
+HMDB0127910	darkmagenta	Phenylpropanoids and polyketides
+HMDB0128742	darkseagreen	Phenylpropanoids and polyketides
+HMDB0128747	darkseagreen	Phenylpropanoids and polyketides
+HMDB0129792	burlywood	Phenylpropanoids and polyketides
+HMDB0130596	mediumvioletred	Phenylpropanoids and polyketides
+HMDB0131926	darkmagenta	Phenylpropanoids and polyketides
+HMDB0132661	lightblue2	Phenylpropanoids and polyketides
+HMDB0135060	cornsilk2	Phenylpropanoids and polyketides
+HMDB0135086	white	Phenylpropanoids and polyketides
+HMDB0135091	darkviolet	Phenylpropanoids and polyketides
+C07809	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0030631	bisque1	Phenylpropanoids and polyketides
+HMDB0129448	mistyrose2	Phenylpropanoids and polyketides
+HMDB0129710	honeydew1	Phenylpropanoids and polyketides
+HMDB0129843	darkorchid4	Phenylpropanoids and polyketides
+HMDB0129856	whitesmoke	Phenylpropanoids and polyketides
+HMDB0129863	chocolate4	Phenylpropanoids and polyketides
+HMDB0129873	navajowhite4	Phenylpropanoids and polyketides
+HMDB0135845	bisque	Phenylpropanoids and polyketides
+HMDB0029266	whitesmoke	Phenylpropanoids and polyketides
+HMDB0030098	peru	Phenylpropanoids and polyketides
+HMDB0031974	lavender	Phenylpropanoids and polyketides
+HMDB0032762	dodgerblue3	Phenylpropanoids and polyketides
+HMDB0032789	whitesmoke	Phenylpropanoids and polyketides
+HMDB0033679	lightblue2	Phenylpropanoids and polyketides
+HMDB0035420	salmon	Phenylpropanoids and polyketides
+HMDB0035453	antiquewhite4	Phenylpropanoids and polyketides
+HMDB0036258	floralwhite	Phenylpropanoids and polyketides
+HMDB0036400	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0037432	cyan1	Phenylpropanoids and polyketides
+HMDB0037972	mistyrose2	Phenylpropanoids and polyketides
+HMDB0037976	palevioletred	Phenylpropanoids and polyketides
+HMDB0037998	lightblue4	Phenylpropanoids and polyketides
+HMDB0038003	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0038095	floralwhite	Phenylpropanoids and polyketides
+HMDB0124887	lightpink4	Phenylpropanoids and polyketides
+HMDB0124933	orangered4	Phenylpropanoids and polyketides
+HMDB0125112	cyan1	Phenylpropanoids and polyketides
+HMDB0125122	green	Phenylpropanoids and polyketides
+HMDB0125355	lightskyblue1	Phenylpropanoids and polyketides
+HMDB0125356	mistyrose4	Phenylpropanoids and polyketides
+HMDB0125865	floralwhite	Phenylpropanoids and polyketides
+HMDB0125866	floralwhite	Phenylpropanoids and polyketides
+HMDB0125876	lightsteelblue1	Phenylpropanoids and polyketides
+HMDB0125912	plum2	Phenylpropanoids and polyketides
+HMDB0125915	plum3	Phenylpropanoids and polyketides
+HMDB0126014	darkseagreen2	Phenylpropanoids and polyketides
+HMDB0126704	firebrick4	Phenylpropanoids and polyketides
+HMDB0126716	magenta2	Phenylpropanoids and polyketides
+HMDB0126725	magenta2	Phenylpropanoids and polyketides
+HMDB0126951	peru	Phenylpropanoids and polyketides
+HMDB0127165	lightgreen	Phenylpropanoids and polyketides
+HMDB0127230	whitesmoke	Phenylpropanoids and polyketides
+HMDB0127307	mediumpurple2	Phenylpropanoids and polyketides
+HMDB0127348	white	Phenylpropanoids and polyketides
+HMDB0127352	black	Phenylpropanoids and polyketides
+HMDB0127449	lightsteelblue1	Phenylpropanoids and polyketides
+HMDB0127725	black	Phenylpropanoids and polyketides
+HMDB0127814	coral	Phenylpropanoids and polyketides
+HMDB0127852	orange4	Phenylpropanoids and polyketides
+HMDB0127861	coral2	Phenylpropanoids and polyketides
+HMDB0128153	mistyrose4	Phenylpropanoids and polyketides
+HMDB0129507	whitesmoke	Phenylpropanoids and polyketides
+HMDB0129668	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0129787	lightcoral	Phenylpropanoids and polyketides
+HMDB0129834	darkseagreen3	Phenylpropanoids and polyketides
+HMDB0132731	navajowhite3	Phenylpropanoids and polyketides
+HMDB0133291	whitesmoke	Phenylpropanoids and polyketides
+HMDB0134823	black	Phenylpropanoids and polyketides
+HMDB0134887	lightskyblue1	Phenylpropanoids and polyketides
+HMDB0135160	whitesmoke	Phenylpropanoids and polyketides
+HMDB0135442	orangered1	Phenylpropanoids and polyketides
+C08575	whitesmoke	Phenylpropanoids and polyketides
+HMDB0041596	sienna4	Phenylpropanoids and polyketides
+HMDB0127897	lightskyblue1	Phenylpropanoids and polyketides
+HMDB0129274	ivory	Phenylpropanoids and polyketides
+HMDB0129278	honeydew	Phenylpropanoids and polyketides
+HMDB0130174	coral2	Phenylpropanoids and polyketides
+HMDB0134834	orangered	Phenylpropanoids and polyketides
+HMDB0130043	lightyellow	Phenylpropanoids and polyketides
+HMDB0130058	whitesmoke	Phenylpropanoids and polyketides
+HMDB0128458	slateblue3	Phenylpropanoids and polyketides
+HMDB0030157	cyan4	Phenylpropanoids and polyketides
+HMDB0039973	whitesmoke	Phenylpropanoids and polyketides
+HMDB0134024	whitesmoke	Phenylpropanoids and polyketides
+HMDB0134749	whitesmoke	Phenylpropanoids and polyketides
+HMDB0034694	mistyrose	Phenylpropanoids and polyketides
+HMDB0129588	coral1	Phenylpropanoids and polyketides
+HMDB0129589	black	Phenylpropanoids and polyketides
+HMDB0129590	darkorchid4	Phenylpropanoids and polyketides
+HMDB0134743	black	Phenylpropanoids and polyketides
+HMDB0040606	green3	Phenylpropanoids and polyketides
+HMDB0125999	hotpink3	Phenylpropanoids and polyketides
+HMDB0030767	mediumpurple	Phenylpropanoids and polyketides
+HMDB0124824	rosybrown2	Phenylpropanoids and polyketides
+HMDB0125870	whitesmoke	Phenylpropanoids and polyketides
+HMDB0125886	black	Phenylpropanoids and polyketides
+HMDB0126078	whitesmoke	Phenylpropanoids and polyketides
+HMDB0126387	whitesmoke	Phenylpropanoids and polyketides
+HMDB0126416	palevioletred	Phenylpropanoids and polyketides
+HMDB0126493	mistyrose2	Phenylpropanoids and polyketides
+HMDB0129379	mistyrose2	Phenylpropanoids and polyketides
+HMDB0133203	antiquewhite4	Phenylpropanoids and polyketides
+HMDB0135622	darkred	Phenylpropanoids and polyketides
+HMDB0135625	sienna2	Phenylpropanoids and polyketides
+HMDB0135627	mistyrose2	Phenylpropanoids and polyketides
+HMDB0135639	yellow3	Phenylpropanoids and polyketides
+HMDB0140291	whitesmoke	Phenylpropanoids and polyketides
+HMDB0127835	mistyrose2	Phenylpropanoids and polyketides
+HMDB0135572	whitesmoke	Phenylpropanoids and polyketides
+HMDB0135631	darkseagreen4	Phenylpropanoids and polyketides
+HMDB0143564	chocolate2	Phenylpropanoids and polyketides
+HMDB0143567	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0015002	whitesmoke	Phenylpropanoids and polyketides
+HMDB0015529	green4	Phenylpropanoids and polyketides
+HMDB0060706	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0061049	black	Phenylpropanoids and polyketides
+HMDB0127645	lightblue3	Phenylpropanoids and polyketides
+HMDB0127647	lightblue3	Phenylpropanoids and polyketides
+HMDB0127652	mistyrose2	Phenylpropanoids and polyketides
+HMDB0127653	thistle4	Phenylpropanoids and polyketides
+HMDB0127684	darkseagreen3	Phenylpropanoids and polyketides
+HMDB0127693	honeydew1	Phenylpropanoids and polyketides
+HMDB0127713	darkseagreen4	Phenylpropanoids and polyketides
+HMDB0127714	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0030229	whitesmoke	Phenylpropanoids and polyketides
+HMDB0030271	navajowhite2	Phenylpropanoids and polyketides
+HMDB0030273	maroon	Phenylpropanoids and polyketides
+HMDB0040459	lightpink2	Phenylpropanoids and polyketides
+HMDB0041838	cyan3	Phenylpropanoids and polyketides
+HMDB0060859	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0032711	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0126087	lightblue2	Phenylpropanoids and polyketides
+HMDB0135317	thistle3	Phenylpropanoids and polyketides
+HMDB0135320	dodgerblue1	Phenylpropanoids and polyketides
+C09955	indianred1	Phenylpropanoids and polyketides
+HMDB0029401	darkturquoise	Phenylpropanoids and polyketides
+C01207	purple	Phenylpropanoids and polyketides
+C07194	whitesmoke	Phenylpropanoids and polyketides
+HMDB0002643	orangered4	Phenylpropanoids and polyketides
+HMDB0029498	whitesmoke	Phenylpropanoids and polyketides
+HMDB0060921	dodgerblue	Phenylpropanoids and polyketides
+HMDB0060925	dodgerblue4	Phenylpropanoids and polyketides
+HMDB0133197	whitesmoke	Phenylpropanoids and polyketides
+HMDB0133198	black	Phenylpropanoids and polyketides
+HMDB0134972	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0142074	lemonchiffon2	Phenylpropanoids and polyketides
+HMDB0142137	darkturquoise	Phenylpropanoids and polyketides
+HMDB0142179	royalblue2	Phenylpropanoids and polyketides
+HMDB0142637	thistle4	Phenylpropanoids and polyketides
+C17208	turquoise4	Phenylpropanoids and polyketides
+HMDB0038319	orangered4	Phenylpropanoids and polyketides
+HMDB0128880	coral1	Phenylpropanoids and polyketides
+HMDB0135190	mediumpurple4	Phenylpropanoids and polyketides
+C16549	rosybrown2	Phenylpropanoids and polyketides
+HMDB0015020	royalblue	Phenylpropanoids and polyketides
+HMDB0038598	coral2	Phenylpropanoids and polyketides
+HMDB0060615	lightyellow	Phenylpropanoids and polyketides
+HMDB0125458	tan3	Phenylpropanoids and polyketides
+HMDB0126249	whitesmoke	Phenylpropanoids and polyketides
+HMDB0129951	maroon	Phenylpropanoids and polyketides
+HMDB0134797	salmon	Phenylpropanoids and polyketides
+HMDB0142443	mistyrose2	Phenylpropanoids and polyketides
+HMDB0142451	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0142480	whitesmoke	Phenylpropanoids and polyketides
+HMDB0142485	mistyrose2	Phenylpropanoids and polyketides
+HMDB0143635	red4	Phenylpropanoids and polyketides
+HMDB0143641	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0143642	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0143643	cyan1	Phenylpropanoids and polyketides
+HMDB0144291	goldenrod1	Phenylpropanoids and polyketides
+HMDB0144292	deeppink1	Phenylpropanoids and polyketides
+HMDB0144313	tomato	Phenylpropanoids and polyketides
+HMDB0144315	aquamarine	Phenylpropanoids and polyketides
+HMDB0144320	lightblue2	Phenylpropanoids and polyketides
+HMDB0144324	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0240248	honeydew1	Phenylpropanoids and polyketides
+HMDB0031422	khaki	Phenylpropanoids and polyketides
+HMDB0126288	hotpink4	Phenylpropanoids and polyketides
+HMDB0126366	brown4	Phenylpropanoids and polyketides
+HMDB0129007	coral2	Phenylpropanoids and polyketides
+HMDB0133869	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0133876	whitesmoke	Phenylpropanoids and polyketides
+HMDB0135189	dodgerblue1	Phenylpropanoids and polyketides
+HMDB0126665	slateblue3	Phenylpropanoids and polyketides
+HMDB0134683	lightblue3	Phenylpropanoids and polyketides
+HMDB0134689	darkolivegreen	Phenylpropanoids and polyketides
+HMDB0134702	darkolivegreen	Phenylpropanoids and polyketides
+HMDB0135254	plum2	Phenylpropanoids and polyketides
+HMDB0136071	antiquewhite3	Phenylpropanoids and polyketides
+HMDB0134190	blue4	Phenylpropanoids and polyketides
+C12012	khaki	Phenylpropanoids and polyketides
+HMDB0014401	ivory	Phenylpropanoids and polyketides
+C19983	mediumaquamarine	Others
+C08287	lightblue4	Others
+C00744	deeppink1	Phenylpropanoids and polyketides
+C15694	mistyrose1	Phenylpropanoids and polyketides
+C14723	snow2	Phenylpropanoids and polyketides
+C02811	mistyrose	Phenylpropanoids and polyketides
+C10402	lightgoldenrod1	Phenylpropanoids and polyketides
+C01849	dodgerblue1	Phenylpropanoids and polyketides
+C12044	mediumorchid2	Phenylpropanoids and polyketides
+C12796	maroon	Phenylpropanoids and polyketides
+C12429	green4	Phenylpropanoids and polyketides
+C09010	dodgerblue3	Phenylpropanoids and polyketides
+C10101	black	Phenylpropanoids and polyketides
+C11591	dodgerblue1	Phenylpropanoids and polyketides
+C14233	darkblue	Phenylpropanoids and polyketides
+C14685	whitesmoke	Phenylpropanoids and polyketides
+C02657	thistle3	Phenylpropanoids and polyketides
+C19953	mediumpurple1	Phenylpropanoids and polyketides
+C09761	lightcyan1	Phenylpropanoids and polyketides
+C09829	pink1	Phenylpropanoids and polyketides
+C10228	darkseagreen	Phenylpropanoids and polyketides
+C12011	rosybrown4	Phenylpropanoids and polyketides
+C01375	whitesmoke	Phenylpropanoids and polyketides
+C01946	dodgerblue1	Phenylpropanoids and polyketides
+C03240	goldenrod4	Phenylpropanoids and polyketides
+C06653	darkseagreen	Phenylpropanoids and polyketides
+C09981	red1	Phenylpropanoids and polyketides
+C11984	pink1	Phenylpropanoids and polyketides
+C11986	paleturquoise	Phenylpropanoids and polyketides
+C11987	antiquewhite1	Phenylpropanoids and polyketides
+C11990	thistle4	Phenylpropanoids and polyketides
+C11991	lightsalmon4	Phenylpropanoids and polyketides
+C11994	lightgreen	Phenylpropanoids and polyketides
+C12039	navajowhite2	Phenylpropanoids and polyketides
+C12153	dodgerblue1	Phenylpropanoids and polyketides
+C12154	paleturquoise	Phenylpropanoids and polyketides
+C12155	deepskyblue3	Phenylpropanoids and polyketides
+C06071	dodgerblue1	Lipids and lipid-like molecules
+C09802	skyblue4	Lipids and lipid-like molecules
+C11650	mediumpurple2	Lipids and lipid-like molecules
+C11658	lightsteelblue	Lipids and lipid-like molecules
+C11663	lightgoldenrod1	Lipids and lipid-like molecules
+C16781	navajowhite2	Lipids and lipid-like molecules
+C18051	coral	Lipids and lipid-like molecules
+C03115	deepskyblue4	Lipids and lipid-like molecules
+C06111	coral1	Lipids and lipid-like molecules
+C07601	whitesmoke	Lipids and lipid-like molecules
+C20764	magenta2	Lipids and lipid-like molecules
+C08771	whitesmoke	Lipids and lipid-like molecules
+C08778	tan3	Lipids and lipid-like molecules
+C15902	whitesmoke	Lipids and lipid-like molecules
+C15943	magenta2	Lipids and lipid-like molecules
+C19797	dodgerblue1	Lipids and lipid-like molecules
+C11811	mistyrose2	Lipids and lipid-like molecules
+C20428	whitesmoke	Lipids and lipid-like molecules
+C14154	whitesmoke	Lipids and lipid-like molecules
+C10270	palegreen1	Lipids and lipid-like molecules
+C04652	dodgerblue1	Lipids and lipid-like molecules
+C13915	whitesmoke	Lipids and lipid-like molecules
+C08149	maroon	Lipids and lipid-like molecules
+C05683	purple	Lipids and lipid-like molecules
+C08868	aliceblue	Lipids and lipid-like molecules
+C08880	navajowhite2	Lipids and lipid-like molecules
+C08357	lightpink3	Lipids and lipid-like molecules
+C16259	dodgerblue1	Lipids and lipid-like molecules
+C04793	rosybrown2	Lipids and lipid-like molecules
+C05297	whitesmoke	Lipids and lipid-like molecules
+C05497	maroon	Lipids and lipid-like molecules
+C08186	dodgerblue1	Lipids and lipid-like molecules
+C08882	dodgerblue1	Lipids and lipid-like molecules
+C08799	darkorange	Lipids and lipid-like molecules
+C08805	navajowhite3	Lipids and lipid-like molecules
+C08829	dodgerblue1	Lipids and lipid-like molecules
+C09074	mediumpurple2	Terpenoids
+C09166	aliceblue	Terpenoids
+C17507	thistle	Terpenoids
+C09101	lightgreen	Terpenoids
+C09102	dodgerblue1	Terpenoids
+C09134	tan3	Terpenoids
+C09179	dodgerblue1	Terpenoids
+C09103	darkolivegreen	Terpenoids
+C09180	magenta2	Terpenoids
+C09184	whitesmoke	Terpenoids
+C09119	chocolate1	Terpenoids
+C09065	darkmagenta	Terpenoids
+C09078	dodgerblue1	Terpenoids
+C09093	dodgerblue1	Terpenoids
+C09109	plum3	Terpenoids
+C09114	dodgerblue1	Terpenoids
+C09121	paleturquoise	Terpenoids
+C09122	firebrick4	Terpenoids
+C09172	orange4	Terpenoids
+C10579	darkolivegreen	Terpenoids
+C10619	dodgerblue1	Terpenoids
+C11700	firebrick4	Terpenoids
+C19989	tomato4	Terpenoids
+C09091	dodgerblue1	Terpenoids
+C09153	palevioletred1	Terpenoids
+C16521	antiquewhite3	Terpenoids
+C09779	dodgerblue1	Terpenoids
+C09784	mediumpurple1	Terpenoids
+C09797	brown3	Terpenoids
+C09798	mistyrose	Terpenoids
+C07594	whitesmoke	Terpenoids
+C09846	honeydew	Terpenoids
+C09351	snow2	Terpenoids
+C09405	lavenderblush1	Terpenoids
+C09413	cornsilk2	Terpenoids
+C09501	brown2	Terpenoids
+C09513	dodgerblue1	Terpenoids
+C09416	burlywood	Terpenoids
+C09417	whitesmoke	Terpenoids
+C09532	darkorange2	Terpenoids
+C09551	skyblue3	Terpenoids
+C09579	mistyrose2	Terpenoids
+C09577	dodgerblue1	Terpenoids
+C09638	salmon	Terpenoids
+C09697	lemonchiffon3	Terpenoids
+C09525	deepskyblue	Terpenoids
+C08879	mistyrose2	Terpenoids
+C08847	black	Terpenoids
+C08850	dodgerblue1	Terpenoids
+C08851	magenta2	Terpenoids
+C08862	lightslateblue	Terpenoids
+C08864	violetred	Terpenoids
+C08865	dodgerblue1	Terpenoids
+C08869	brown3	Terpenoids
+C08871	cyan1	Terpenoids
+C08884	whitesmoke	Terpenoids
+C08885	firebrick3	Terpenoids
+C08893	dodgerblue1	Terpenoids
+C08897	dodgerblue1	Terpenoids
+C08900	dodgerblue1	Terpenoids
+C08916	dodgerblue1	Terpenoids
+C08919	mediumpurple1	Terpenoids
+C08750	lightyellow2	Terpenoids
+C08752	plum3	Terpenoids
+C08772	moccasin	Terpenoids
+C08776	thistle	Terpenoids
+C08944	dodgerblue1	Terpenoids
+C08983	goldenrod1	Terpenoids
+C17035	peachpuff4	Terpenoids
+C08785	deepskyblue4	Terpenoids
+C08931	cyan4	Terpenoids
+C08943	aquamarine1	Terpenoids
+C08954	dodgerblue1	Terpenoids
+C08984	chocolate4	Terpenoids
+C17545	mediumorchid3	Terpenoids
+C08635	mediumorchid	Terpenoids
+C08766	rosybrown4	Terpenoids
+C08767	mistyrose2	Terpenoids
+C08779	honeydew	Terpenoids
+C08927	dodgerblue1	Terpenoids
+C08933	chocolate	Terpenoids
+C08934	green	Terpenoids
+C08960	dodgerblue1	Terpenoids
+C08969	grey60	Terpenoids
+C08985	darkmagenta	Terpenoids
+C08991	antiquewhite1	Terpenoids
+C08925	green4	Terpenoids
+C17797	darkseagreen3	Terpenoids
+C17801	green4	Terpenoids
+C17802	magenta2	Terpenoids
+C13750	green3	Others
+C20034	whitesmoke	Others
+C20060	dodgerblue1	Others
+C20061	skyblue	Others
+C13929	mediumpurple1	Others
+C20095	tomato2	Others
+C00862	plum2	Others
+C05777	navajowhite3	Others
+C15670	deeppink1	Others
+C18237	whitesmoke	Others
