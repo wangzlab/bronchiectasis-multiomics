@@ -41,9 +41,14 @@ meta.EMBARC$SampleID[!meta.EMBARC$SampleID %in% rownames(species.t)] # checked
 
 rownames(species.t)[!rownames(species.t) %in% c(meta.118$SampleID,meta.CAMEB2$SampleID,meta.EMBARC$SampleID)]
 
+species.asin <- asin(sqrt(species.t))
+col_means <- colMeans(species.asin, na.rm = TRUE)
+col_sds   <- apply(species.asin, 2, sd, na.rm = TRUE)
+col_sds[col_sds == 0] <- 1
+species.z <- sweep(species.asin, 2, col_means, "-")
+species.z <- sweep(species.z, 2, col_sds, "/")
+species.z <- as.data.frame(species.z)
 
-library(vegan)
-hellinger_data <- decostand(species.t, "hellinger") # 直接对含零的数据操作
 
 library(MASS)
 
@@ -248,4 +253,4 @@ for(dn in c("meta.118.stable", "meta.CAMEB2","meta.EMBARC")){  # "meta.118.stabl
 
 
 save(res_BSI, res_BSI.cat, res_FEV1pred, res_mMRC, res_AE_1year,
-     file = "S1g.lmCovars.Res.RData")
+     file = "S1g.lmCovars.Res.RData") 
